@@ -2,9 +2,9 @@
 # encoding: utf-8
 
 schema:
-    schema_id: xingzheng
-    name: 新郑输入法
-    version: "0.2"
+    schema_id: xinzheng
+    name: 新鄭形碼
+    version: "0.0"
     author:
         - 陈林 <1chen0bryan@gmail.com>
     dependencies:
@@ -54,16 +54,15 @@ speller:
     max_code_length: 5
     auto_select: true
     auto_select_unique_candidate: true
+    algebra:
+      - xform/^(....).+(....)$/$1$2/
+      - xform/^(.....).$/$1/
+      - xform/^(..)(.).(.).(.).$/$1$2$3$4/
 
 translator:
-    dictionary: xingzheng-ft # 繁體字典
-    #dictionary: xingzheng-jt # 简体字典
+    dictionary: xz-siyuan
     enable_user_dict: false
-    max_phrase_length: 5
-    preedit_format:
-        - "xlit|qwertyuiopasdfghjklzxcvbnm|月之十儿广乙米卜人斤一言寸梄大七口曲目巛又三添二川竹|"
-    comment_format:
-        - "xlit|qwertyuiopasdfghjklzxcvbnm|月之十儿广乙米卜人斤一言寸梄大七口曲目巛又三添二川竹|"
+    max_phrase_length: 6
 
 reverse_lookup:
     dictionary: luna_pinyin
