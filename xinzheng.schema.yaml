@@ -51,9 +51,9 @@ engine:
 speller:
     alphabet: 'abcdefghijklmnopqrstuvwxyz'
     delimiter: " '"
-    max_code_length: 5
-    auto_select: true
-    auto_select_unique_candidate: true
+    max_code_length: 6
+    #auto_select: true
+    #auto_select_unique_candidate: true
     algebra:
       - xform/^(....).+(....)$/$1$2/
       - xform/^(.....).$/$1/
