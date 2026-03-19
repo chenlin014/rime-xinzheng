@@ -51,7 +51,6 @@ engine:
 speller:
     alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA~`!@#$%^&*()-_+=[]{}\|:;"',.<>/?
     initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
-    delimiter: " '"
     max_code_length: 5
     auto_select: true
     #auto_select_unique_candidate: true
