@@ -2,11 +2,11 @@
 # encoding: utf-8
 
 schema:
-    schema_id: xinzheng
-    name: 新鄭字形
+    schema_id: siyuan
+    name: 思源形義
     version: "0.0"
     author:
-        - 陈林 <1chen0bryan@gmail.com>
+        - 陳林 <1chen0bryan@gmail.com>
     dependencies:
         - luna_pinyin
         - pinyin_simp
@@ -52,7 +52,7 @@ speller:
     alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA~`!@#$%^&*()-_+=[]{}\|:;"',.<>/?
     initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
     delimiter: " '"
-    max_code_length: 6
+    max_code_length: 5
     auto_select: true
     #auto_select_unique_candidate: true
     algebra:
@@ -61,10 +61,10 @@ speller:
       - xform/^(..)(.).(.).(.).$/$1$2$3$4/
 
 translator:
-    dictionary: xz-xingyi-ft # 繁體形意
-    #dictionary: xz-xingyi-jt # 简体形意
+    dictionary: siyuan-ft # 繁體
+    #dictionary: siyuan-jt # 简体
     enable_user_dict: false
-    max_phrase_length: 6
+    max_phrase_length: 5
 
 reverse_lookup:
     dictionary: luna_pinyin

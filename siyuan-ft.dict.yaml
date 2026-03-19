@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 ---
-name: xz-xingyi-jt
+name: siyuan-ft
 version: "2026-03-17"
 sort: by_weight
 use_preset_vocabulary: true
@@ -112,7 +112,7 @@ encoder:
 比	mm	mmm
 玩	gdus
 們	mfcd
-最	sji;kf
+最	v;i;kf
 月	dj	djj
 真	tg	tgg
 吃	jfd.
@@ -172,7 +172,7 @@ encoder:
 哪	jfiraa
 愛	u/	u//
 回	dl	dll
-聽	i;gdejeaefif
+聽	i;mvejeaefif
 少	we	wee
 元	us	uss
 喫	jfr;gjuf
@@ -182,7 +182,7 @@ encoder:
 算	fjijks
 者	sd	sdd
 忙	ift;
-起	lkqs
+起	lkhs
 各	ldjf
 學	hehf
 分	gm	gmm
@@ -226,7 +226,7 @@ encoder:
 住	mfs;
 名	dkjf
 跑	llhjhs
-次	dsu;
+次	edu;
 網	vfvst;
 睡	ijrv
 裝	olgsvj
@@ -316,7 +316,7 @@ encoder:
 邊	ljilcvod
 型	efksgjaf
 黑	ss	sss
-慢	ifsjeakf
+慢	ifv;eakf
 刷	mlvlgj
 穿	cvia
 越	lkxc
@@ -353,7 +353,7 @@ encoder:
 讀	jjgseanj
 頂	zsik
 某	jdff
-條	mfehldff
+條	mfehk;ff
 亂	vzqd
 唔	jfegjf
 馬	pd	pdd
@@ -429,7 +429,7 @@ encoder:
 超	lkgjjf
 明	sjdj
 媽	ujpd
-均	afhjds
+均	afhjed
 期	bsdj
 達	lm	lmm
 照	sjgjjfsf
@@ -525,9 +525,9 @@ encoder:
 雪	dak.
 局	mlqfjf
 雲	dad;
-噢	jfcfrkuf
+噢	jfcfpwuf
 整	fdk;lg
-傻	mfigwkld
+傻	mfigmsld
 華	rr	rrr
 克	xx	xxx
 呃	jfasmk
@@ -543,7 +543,7 @@ encoder:
 篇	fjcstb
 待	ofko
 砸	awq;vl
-深	dfqkwkff
+深	dfqkmsff
 煩	sfik
 根	fful
 求	nr	nrr
@@ -561,7 +561,7 @@ encoder:
 率	vewaej
 調	jjakjf
 鬼	tl	tll
-修	mfehldw;
+修	mfehk;w;
 試	jjx;zf
 謝	jjhmkl
 麪	rlldmp
@@ -648,7 +648,7 @@ encoder:
 喔	jfmlxk
 波	dfi.
 證	jjl;b;
-鐵	gfx/jfgd
+鐵	gfx/jfmv
 推	kkyj
 落	rfdfldjf
 節	fjulmk
@@ -762,7 +762,7 @@ encoder:
 橋	ffwjufck
 燈	sfl;b;
 郭	coaa
-亮	cko;
+亮	ckms
 干	xh	xhh
 屬	mldfeahjnf
 窮	cvhmxj
@@ -810,7 +810,7 @@ encoder:
 沙	dfwe
 戰	zaxf
 哼	jfc.
-望	t;djgd
+望	t;djmv
 腿	djljul
 沖	dfel
 丁	zs	zss
@@ -880,7 +880,7 @@ encoder:
 喜	jgjf
 洋	dfpj
 語	jjegjf
-呈	jfgd
+呈	jfmv
 治	dfhw
 降	aaldla
 峯	adldr;
@@ -961,7 +961,7 @@ encoder:
 武	xflf
 湖	dfj;dj
 聯	i;vdvdpu
-程	rjjfgd
+程	rjjfmv
 柳	ffgk
 偏	mfcstb
 實	cfnunj
@@ -984,7 +984,7 @@ encoder:
 厚	assjhf
 答	fjbf
 社	tjaf
-懶	iffdmanj
+懶	iffdgjnj
 顧	csyjik
 順	ddik
 滅	dfxesf
@@ -995,7 +995,7 @@ encoder:
 娘	ujcz
 登	l;b;
 悶	cdif
-微	ofadefo;k;
+微	ofadefmsk;
 佳	mfag
 瞭	ijefsfsjwd
 雅	iayj
@@ -1039,7 +1039,7 @@ encoder:
 仙	mfad
 宮	cfj/
 碰	awue
-酸	blqawkld
+酸	blqamsld
 侯	mfqhxl
 塞	av	avv
 嘍	jfuu
@@ -1075,11 +1075,11 @@ encoder:
 忍	gjwfif
 肯	lfdj
 母	hk	hkk
-聖	i;jfgd
+聖	i;jfmv
 橫	ffh;
 遊	ljovhf
 艾	rfwl
-致	xkk;
+致	xkld
 宗	cftj
 偉	mflz
 麻	re	ree
@@ -1147,7 +1147,7 @@ encoder:
 乘	fq	fqq
 認	jjgjwfif
 刻	pigj
-俊	mfqawkld
+俊	mfqamsld
 芳	rfod
 抄	kkwe
 夾	ufmd
@@ -1156,7 +1156,7 @@ encoder:
 嚴	jfjfaskp
 返	ljkv
 礦	awcjh;
-廳	cji;gdejeaefif
+廳	cji;mvejeaefif
 魯	nksj
 瑞	gdadiv
 仁	mfed
@@ -1224,7 +1224,7 @@ encoder:
 曰	j.	j..
 胃	ajdj
 鹽	t/m;bpbk
-賴	fdmanj
+賴	fdgjnj
 獨	pleahjnf
 窩	cvis
 堆	afyj
@@ -1373,7 +1373,7 @@ encoder:
 漏	dfmlda
 拔	kkpo
 洛	dfldjf
-探	kkqkwkff
+探	kkqkmsff
 碟	aweuff
 郎	czaa
 珠	gdfx
@@ -1492,7 +1492,7 @@ encoder:
 盃	fkbk
 童	hg	hgg
 蟲	esnf
-徵	ofadefgdk;
+徵	ofadefmvk;
 靚	raim
 杯	fffk
 暨	ulupsh
@@ -1519,7 +1519,7 @@ encoder:
 誤	jjju
 滑	dfiw
 噠	jflm
-曼	sjeakf
+曼	v;eakf
 暖	sjkn
 滬	dfcsjfns
 己	qs	qss
@@ -1680,7 +1680,7 @@ encoder:
 盟	sjdjbk
 延	ogwjlf
 柔	xwff
-資	dsu;nj
+資	edu;nj
 粒	rkud
 嶺	admiik
 盆	gmbk
@@ -1761,7 +1761,7 @@ encoder:
 浜	dfzkks
 齣	iqhjjf
 錫	gfbc
-薇	rfofadefo;k;
+薇	rfofadefmsk;
 淫	dfkazg
 拽	kksewj
 職	i;jlxf
@@ -1893,7 +1893,7 @@ encoder:
 紮	ffqdvf
 摩	rekj
 縮	vfcfmfso
-漫	dfsjeakf
+漫	dfv;eakf
 溜	dfgkaj
 彥	ukasw;
 棄	hvemff
@@ -1921,7 +1921,7 @@ encoder:
 茂	rfxr
 緩	vfkn
 協	ejeszj
-瓊	gdmaccijld
+瓊	gdmaccijk;
 髒	iwrficmjks
 債	mfni
 肌	djo;
@@ -1932,7 +1932,7 @@ encoder:
 泵	awdf
 銷	gfwddj
 育	hvdj
-澳	dfcfrkuf
+澳	dfcfpwuf
 陞	aabxaf
 候	mfehqhxl
 堅	t/kfaf
@@ -1964,7 +1964,7 @@ encoder:
 猴	plmfqhxl
 掏	kkhjbz
 汝	dfuj
-撮	kksji;kf
+撮	kkv;i;kf
 幸	th	thh
 揉	kkxwff
 醬	olidklbl
@@ -2062,7 +2062,7 @@ encoder:
 蓉	rfcvjs
 憶	ifjlif
 卵	gkds
-遷	ljylufhs
+遷	ljylufmk
 尺	zc	zcc
 禍	tjis
 逾	ljoi
@@ -2253,7 +2253,7 @@ encoder:
 咒	jfjfo;
 釋	pweath
 盲	t;ij
-姿	dsu;uj
+姿	edu;uj
 炫	sfve
 賜	njbc
 湧	dfbozj
@@ -2366,7 +2366,7 @@ encoder:
 跪	llmaasmk
 攬	kktpim
 輯	ojjfi;
-瓷	dsu;zw
+瓷	edu;zw
 澀	dfgjwfgjwflflf
 踹	lladiv
 凸	qi	qii
@@ -2459,10 +2459,10 @@ encoder:
 媛	ujkn
 拎	kkmi
 察	cfidkftj
-駿	pdqawkld
+駿	pdqamsld
 繪	vfbv
 黴	ofadefssk;
-鈞	gfhjds
+鈞	gfhjed
 憐	ifrkle
 昆	sjmm
 禹	nx	nxx
@@ -2560,7 +2560,7 @@ encoder:
 挨	kkqaxl
 泄	dfeu
 綱	vfvsad
-茨	rfdsu;
+茨	rfedu;
 夷	ufxj
 慎	iftg
 汽	dfdo
@@ -2853,7 +2853,7 @@ encoder:
 祠	tjjw
 陝	aaufmfmf
 鞏	zrz.
-峻	adqawkld
+峻	adqamsld
 稠	rjakjf
 爵	kaeaulkl
 秉	rjk.
@@ -2879,7 +2879,7 @@ encoder:
 匡	q;gd
 倦	mfrimk
 疆	xjafesajaj
-蔓	rfsjeakf
+蔓	rfv;eakf
 樺	ffrr
 牟	qapf
 芷	rflf
@@ -2967,7 +2967,7 @@ encoder:
 斧	zizk
 裔	vjccjf
 湛	dfje
-琛	gdqkwkff
+琛	gdqkmsff
 淌	dfca
 簇	fjovxl
 償	mfcanj
@@ -3014,7 +3014,7 @@ encoder:
 揣	kkadiv
 槐	fftl
 粟	ylrk
-唆	jfqawkld
+唆	jfqamsld
 誦	jjbo
 綜	vfcftj
 詢	jjhjsj
@@ -3025,7 +3025,7 @@ encoder:
 攏	kkn;
 聳	ofmdlfi;
 燭	sfeahjnf
-襖	vkcfrkuf
+襖	vkcfpwuf
 臘	djddpg
 吏	tx	txx
 堰	afq;sjuj
@@ -3067,7 +3067,7 @@ encoder:
 汞	zfdf
 芭	rfns
 膿	djjbnl
-懿	gsqkb;dsu;if
+懿	gsqkb;edu;if
 蔭	rfaabrd;
 椒	ffxpkf
 戎	xb	xbb
@@ -3109,7 +3109,7 @@ encoder:
 憤	ifrdnj
 綽	vfo/
 鶯	sfsfqkyf
-緻	vfxkk;
+緻	vfxkld
 圭	ag	agg
 塚	afqkpk
 甸	hjaj
@@ -3132,7 +3132,7 @@ encoder:
 甭	fkak
 瞟	ijyltj
 舅	baajzj
-錚	gfmate
+錚	gfkate
 阪	aakv
 恕	ujjfif
 轎	ojwjufck
@@ -3207,7 +3207,7 @@ encoder:
 褐	vksjhjt;
 丞	ky	kyy
 芮	rfcc
-梭	ffqawkld
+梭	ffqamsld
 瘡	oocw
 槓	ffzfnj
 唷	jfhvdj
@@ -3234,7 +3234,7 @@ encoder:
 戊	xr	xrr
 鄔	yvaa
 剷	udasrsgj
-罕	qkwkxh
+罕	qkmsxh
 欒	vrff
 糾	vfqr
 駝	pdne
@@ -3285,7 +3285,7 @@ encoder:
 硒	awyl
 嗔	jftg
 卟	jftf
-筠	fjafhjds
+筠	fjafhjed
 諧	jjmmsl
 咔	jfektf
 喧	jfcfedsj
@@ -3350,7 +3350,7 @@ encoder:
 囚	qjmf
 癱	ooh/yj
 鞘	z.wddj
-瀨	dffdmanj
+瀨	dffdgjnj
 滷	dfbp
 匣	q;xq
 鉬	gfij
@@ -3448,7 +3448,7 @@ encoder:
 憾	ifxejfif
 愷	ifadb;
 孓	hdwf
-滌	dfmfehldff
+滌	dfmfehk;ff
 浣	dfcfus
 兀	uw	uww
 蹟	llni
@@ -3571,7 +3571,7 @@ encoder:
 壬	zg	zgg
 鄺	cjh;aa
 叛	glkv
-浚	dfqawkld
+浚	dfqamsld
 獒	ohpl
 捌	kkixgj
 霽	daro
@@ -3755,9 +3755,9 @@ encoder:
 夯	ufzj
 毗	ajmm
 慫	ofmdlfif
-懲	ofadefgdk;if
+懲	ofadefmvk;if
 炬	sfzv
-逞	ljjfgd
+逞	ljjfmv
 曖	sju/
 簧	fjh;
 脲	djmldf
@@ -3810,7 +3810,7 @@ encoder:
 戌	xe	xee
 敝	vlwak;
 壟	n;af
-諮	jjdsu;jf
+諮	jjedu;jf
 疹	oomfw;
 炊	sfu;
 涕	dfxm
@@ -3823,7 +3823,7 @@ encoder:
 羚	pjmi
 渤	dfejqkhfzj
 蝨	yenfnf
-墟	afp;zl
+墟	afp;ae
 柿	fflw
 烷	sfcfus
 綏	vfkauj
@@ -3915,7 +3915,7 @@ encoder:
 砬	awud
 咕	jfj;
 嘶	jfbszk
-昀	sjhjds
+昀	sjhjed
 卹	bimk
 疝	ooad
 尻	mlke
@@ -3935,7 +3935,7 @@ encoder:
 瑄	gdcfedsj
 隼	yjej
 訟	jjjs
-燬	sfbazfxs
+燬	sfbaafxs
 烴	sfva
 巒	vrad
 吠	jfpl
@@ -4019,7 +4019,7 @@ encoder:
 餃	bjui
 錕	gfsjmm
 桀	leff
-痠	ooqawkld
+痠	ooqamsld
 澎	dfjgw;
 宥	cfkddj
 聿	td	tdd
@@ -4170,7 +4170,7 @@ encoder:
 酪	blldjf
 嘜	jfrlld
 咿	jfmfte
-幔	vlsjeakf
+幔	vlv;eakf
 戇	t,ldzfnjif
 淖	dfo/
 渥	dfmlxk
@@ -4236,13 +4236,13 @@ encoder:
 焗	sfmlqfjf
 鬍	hlw;j;dj
 撂	kkajldjf
-覷	p;zlim
+覷	p;aeim
 嗽	jffdu;
 曇	sjdad;
 悖	ifejqkhf
 耘	zud;
 蜃	nlnf
-郢	jfgdaa
+郢	jfmvaa
 罘	eafk
 鍘	gfnjgj
 銓	gfmfgd
@@ -4266,7 +4266,7 @@ encoder:
 筏	fjmfxf
 銬	gfhozx
 奐	maccuf
-癩	oofdmanj
+癩	oofdgjnj
 淅	dfffzk
 澹	dfmaaswkjj
 禱	tjh.
@@ -4305,7 +4305,7 @@ encoder:
 圳	afdd
 煉	sffe
 洵	dfhjsj
-犟	xjjfnfpf
+犟	xjqanfpf
 顳	esi;ik
 槎	ffkc
 甌	q;esjfzw
@@ -4344,7 +4344,7 @@ encoder:
 壕	afckpk
 撣	kkza
 堇	h/	h//
-蕞	rfsji;kf
+蕞	rfv;i;kf
 涎	dfogwjlf
 渲	dfcfedsj
 寳	cfgdvwnj
@@ -4448,7 +4448,7 @@ encoder:
 籤	fjmdxfrh
 夙	bedk
 腑	djcjmfkl
-謾	jjsjeakf
+謾	jjv;eakf
 蟄	thuonf
 樾	fflkxc
 咣	jfsa
@@ -4509,7 +4509,7 @@ encoder:
 鈊	gfif
 鴛	dkmkyf
 誣	jjzfmd
-諍	jjmate
+諍	jjkate
 怵	ifru
 湍	dfadiv
 葳	rfxeuj
@@ -4521,7 +4521,7 @@ encoder:
 鶉	coyf
 翦	lhy;
 羯	pjsjhjt;
-熳	sfsjeakf
+熳	sfv;eakf
 澶	dfcxsh
 滸	dfjjz;
 廴	og	ogg
@@ -4639,7 +4639,7 @@ encoder:
 籹	rkuj
 瀘	dfp;ajbk
 鋈	dfwjufgf
-滘	dfqkwkzfjf
+滘	dfqkmszfjf
 戾	cspl
 亟	mw	mww
 嬈	ujar
@@ -4691,7 +4691,7 @@ encoder:
 碴	awfw
 逕	ljva
 哮	jfhohf
-嘬	jfsji;kf
+嘬	jfv;i;kf
 嶂	adt,
 乓	aewf
 逯	ljz,
@@ -4722,10 +4722,10 @@ encoder:
 俚	mfal
 伈	mfif
 魷	nkkd
-鰻	nksjeakf
+鰻	nkv;eakf
 讕	jjcdfe
-恣	dsu;if
-羧	pjqawkld
+恣	edu;if
+羧	pjqamsld
 紂	vfkl
 緲	vfijwe
 戩	xixf
@@ -4736,7 +4736,7 @@ encoder:
 矚	ijmldfeahjnf
 笆	fjns
 鉈	gfne
-竣	udqawkld
+竣	udqamsld
 甑	bmzw
 悸	ifrjhf
 煬	sfsi
@@ -4954,7 +4954,7 @@ encoder:
 鏘	gfolidkl
 魴	nkod
 詼	jjkdsf
-謖	jjajwkld
+謖	jjajmsld
 炔	sfga
 燼	sfb,
 妲	ujsh
@@ -4981,7 +4981,7 @@ encoder:
 卮	jqmk
 氷	dfwf
 詬	jjjq
-癥	ooofadefgdk;
+癥	ooofadefmvk;
 湫	dfrjsf
 綵	vffz
 娓	ujmli/
@@ -4990,7 +4990,7 @@ encoder:
 蘚	rfnkpj
 尢	ux	uxx
 匭	q;ojke
-籟	fjfdmanj
+籟	fjfdgjnj
 魑	tlzz
 頦	piik
 汜	dfhs
@@ -5015,7 +5015,7 @@ encoder:
 湃	dfkjefr;
 湟	dfslgd
 祉	tjlf
-縵	vfsjeakf
+縵	vfv;eakf
 妗	ujbr
 擻	kkuuk;
 菘	rfffjs
@@ -5109,7 +5109,7 @@ encoder:
 琶	gdgdns
 菟	rfph
 薌	rfc/
-稷	rjajwkld
+稷	rjajmsld
 簣	fjkinj
 笈	fjkr
 鱟	henk
@@ -5158,7 +5158,7 @@ encoder:
 臏	djcfeflanj
 鮃	nkjv
 旃	ovah
-懊	ifcfrkuf
+懊	ifcfpwuf
 涫	dfcfha
 瀰	dfxjvx
 遽	ljp;pk
@@ -5174,9 +5174,9 @@ encoder:
 囈	jfrfacuod;
 嚦	jfasrjrjlf
 崆	adcvzf
-佽	mfdsu;
+佽	mfedu;
 銖	gffx
-獺	plfdmanj
+獺	plfdgjnj
 脘	djcfus
 芻	hjrdhjrd
 贇	ukxflfnj
@@ -5336,7 +5336,7 @@ encoder:
 碚	awfi
 喑	jfjl
 鋨	gfxd
-繇	kabzwjvf
+繇	idbzwjvf
 裾	vkmlj;
 窈	cvvdzj
 豉	b;fm
@@ -5415,7 +5415,7 @@ encoder:
 笮	fjzd
 囪	cg	cgg
 儈	mfbv
-鷂	kabzyf
+鷂	idbzyf
 譲	jjvi
 麝	pehmkl
 沌	dfrc
@@ -5512,7 +5512,7 @@ encoder:
 棖	ffhl
 柜	ffzv
 蚨	nfua
-蟶	nfi;jfgd
+蟶	nfi;jfmv
 俎	mfmftm
 肫	djrc
 糍	rkpuvdvd
@@ -5533,7 +5533,7 @@ encoder:
 泫	dfve
 鴆	qkmsyf
 帚	zo	zoo
-埕	afjfgd
+埕	afjfmv
 珪	gdag
 瑗	gdkn
 茁	rflv
@@ -5544,7 +5544,7 @@ encoder:
 鍆	gfcd
 鯢	nkbams
 戠	jlxf
-咨	dsu;jf
+咨	edu;jf
 淀	dfcflg
 謇	dwjj
 謇	avjj
@@ -5613,7 +5613,7 @@ encoder:
 寀	cffz
 阱	aacm
 愍	tak;if
-皴	qawkldi.
+皴	qamsldi.
 撳	kkgfu;
 蘺	rfzzyj
 櫸	ffizkk
@@ -5685,7 +5685,7 @@ encoder:
 倳	mfts
 煳	sfj;dj
 嬛	ujeaefjfvk
-嫚	ujsjeakf
+嫚	ujv;eakf
 驃	pdyltj
 柰	fftj
 桁	ffof
@@ -5901,9 +5901,9 @@ encoder:
 籙	fjgfz,
 魍	tlvst;
 僉	me	mee
-饅	bjsjeakf
+饅	bjv;eakf
 餛	bjsjmm
-鍐	gfwlqlwkld
+鍐	gfwlqlmsld
 狎	plxq
 麾	rei/
 羝	pjtz
@@ -5930,7 +5930,7 @@ encoder:
 蜘	nfxljf
 嗉	jfvv
 唁	jfjj
-躚	llljylufhs
+躚	llljylufmk
 筮	fjzfmd
 箜	fjcvzf
 瓮	jszw
@@ -6010,7 +6010,7 @@ encoder:
 笸	fjq;jf
 頷	brjfik
 鋃	gfcz
-狻	plqawkld
+狻	plqamsld
 鴇	mjejyf
 鴟	tzyf
 邙	t;aa
@@ -6038,7 +6038,7 @@ encoder:
 瘛	oor;gjif
 巻	riqs
 懌	ifeath
-瀞	dframate
+瀞	dfrakate
 漵	dfcik;
 漈	dfidkftj
 滂	dfoe
@@ -6099,7 +6099,7 @@ encoder:
 侔	mfqapf
 艚	okow
 郇	hjsjaa
-裎	vkjfgd
+裎	vkjfmv
 冢	qkpk
 陔	aapi
 埵	afrv
@@ -6180,7 +6180,7 @@ encoder:
 罱	eaejqkgl
 岵	adj;
 畬	ciaj
-粢	dsu;rk
+粢	edu;rk
 庀	cjmj
 湎	dfi,
 鐾	mljftkgf
@@ -6197,7 +6197,7 @@ encoder:
 搧	kkcsy;
 藿	rfdayj
 薱	rfzlefkl
-葰	rfmfqawkld
+葰	rfmfqamsld
 茭	rfui
 菑	rfddaj
 霎	dauduj
@@ -6317,7 +6317,7 @@ encoder:
 馘	iixfjfef
 襦	vkdaiv
 遢	ljsjy;
-逡	ljqawkld
+逡	ljqamsld
 婼	ujrfkdjf
 縟	vfnlkl
 鬲	bu	buu
@@ -6484,7 +6484,7 @@ encoder:
 暁	sjrduw
 偅	mfos
 錡	gfufja
-鏹	gfxjjfnf
+鏹	gfxjqanf
 亀	nh	nhh
 鶼	kuyf
 烜	sfedsj
@@ -6507,7 +6507,7 @@ encoder:
 酡	blne
 櫧	ffjjsd
 杷	ffns
-篠	fjmfehldff
+篠	fjmfehk;ff
 箛	fjhff;
 鋏	gfufmd
 鐓	gfcok;
@@ -6578,7 +6578,7 @@ encoder:
 幄	vlmlxk
 徼	ofslodk;
 猖	pljo
-鰩	nkkabz
+鰩	nkidbz
 癍	oogdukgd
 悱	ifyd
 湞	dftr
@@ -6595,7 +6595,7 @@ encoder:
 焜	sfsjmm
 屮	rd	rdd
 坩	afjd
-琤	gdmate
+琤	gdkate
 菝	rfkkpo
 茯	rfmfpl
 蒍	rfkz
@@ -6661,7 +6661,7 @@ encoder:
 溻	dfsjy;
 漯	dfajvf
 窀	cvrc
-堔	afqkwkff
+堔	afqkmsff
 騸	pdcsy;
 軹	ojjfwk
 貲	lfmjnj
@@ -6719,9 +6719,9 @@ encoder:
 紿	vfhw
 嚭	jgjffkjf
 赧	svmkkf
-鋆	afhjdsgf
+鋆	afhjedgf
 贄	thuonj
-鬘	hlw;sjeakf
+鬘	hlw;v;eakf
 騶	pdhjrdhjrd
 葺	rfjfi;
 莛	rfogmv
@@ -6764,7 +6764,7 @@ encoder:
 仫	mfwjqa
 傯	mfcgif
 颮	yahjhs
-韵	jlhjds
+韵	jlhjed
 翫	y;slus
 彅	xjlhgj
 嬬	ujdaiv
@@ -6856,7 +6856,7 @@ encoder:
 叶	jfej
 喰	jfbj
 眚	rsij
-徭	ofkabz
+徭	ofidbz
 胴	djbd
 觚	prf;
 繯	vfeaefjfvk
@@ -6878,7 +6878,7 @@ encoder:
 斿	ovhf
 邶	muaa
 犖	sfsfqkpf
-溦	dfadefo;k;
+溦	dfadefmsk;
 窞	cvmaba
 紒	vfmh
 堞	afeuff
@@ -6905,7 +6905,7 @@ encoder:
 嵂	adoftd
 徴	ofadgdk;
 郤	dgaa
-鏝	gfsjeakf
+鏝	gfv;eakf
 瘕	ookh
 滒	dfjaja
 叕	kg	kgg
@@ -7040,7 +7040,7 @@ encoder:
 賅	njpi
 睽	ijl;ur
 箅	fjajo;
-傜	mfkabz
+傜	mfidbz
 鏚	gfxetfwd
 臌	djjgfm
 犴	plxh
@@ -7099,7 +7099,7 @@ encoder:
 労	waqkzj
 汭	dfcc
 扆	csvj
-隩	aacfrkuf
+隩	aacfpwuf
 繐	vfvgif
 娩	ujv/
 搠	kkucdj
@@ -7110,7 +7110,7 @@ encoder:
 傺	mfidkftj
 邠	gmaa
 鮞	nkiv
-鰷	nkmfehldff
+鰷	nkmfehk;ff
 鯇	nkcfus
 沚	dflf
 澠	dfna
@@ -7138,13 +7138,13 @@ encoder:
 嫄	ujde
 殧	icclkd
 丼	cmwf
-墁	afsjeakf
+墁	afv;eakf
 捜	kksckf
 鞨	z.sjhjt;
 欐	ffpc
 磡	awjezj
-覧	t/m;wfim
-歔	p;zlu;
+覧	t/m;efim
+歔	p;aeu;
 艶	jbb;mans
 髎	iwy;mfw;
 黌	heh;
@@ -7179,7 +7179,7 @@ encoder:
 軔	ojgjwf
 靦	i,im
 蛯	nfho
-喨	jfcko;
+喨	jfckms
 黻	zlvlwapo
 鍚	gfsi
 凖	dsyjej
@@ -7236,8 +7236,8 @@ encoder:
 舭	okmm
 廆	cjtl
 怍	ifzd
-愮	ifkabz
-悛	ifqawkld
+愮	ifidbz
+悛	ifqamsld
 滀	dfveaj
 寘	cftg
 夛	k.dk
@@ -7306,7 +7306,7 @@ encoder:
 繖	vffh
 孋	ujpc
 妢	ujgm
-檉	ffi;jfgd
+檉	ffi;jfmv
 霪	dadfkazg
 尪	uxgd
 崟	adgf
@@ -7333,7 +7333,7 @@ encoder:
 鰰	nktjsc
 憡	iffjfc
 烔	sfbd
-燠	sfcfrkuf
+燠	sfcfpwuf
 濊	dflfxela
 遅	ljmlpj
 闀	cdkwhs
@@ -7456,7 +7456,7 @@ encoder:
 堥	xwk;af
 夃	hhkf
 妧	ujus
-媺	ujadefo;k;
+媺	ujadefmsk;
 毿	esqamfw;i/
 拫	kkul
 搦	kkxjdsxjds
@@ -7511,7 +7511,7 @@ encoder:
 畠	slaj
 夎	mdafld
 猻	plhfwjvf
-譃	jjp;zl
+譃	jjp;ae
 瘼	oorfsjuf
 涜	dfgsqkms
 褓	vkmfjfff
@@ -7531,7 +7531,7 @@ encoder:
 驫	espd
 荄	rfpi
 薀	rfdfqjmfbk
-酲	bljfgd
+酲	bljfmv
 囫	qjgh
 蹓	llgkaj
 罽	eaassggj
@@ -7546,12 +7546,12 @@ encoder:
 銗	gfjq
 腄	djrv
 脇	djeszj
-脧	djqawkld
+脧	djqamsld
 孳	puvdvdhf
 涬	dfth
 厳	waaskp
 涴	dfcfdkmk
-襁	vkxjjfnf
+襁	vkxjqanf
 闅	cdijk;
 菤	rfrimk
 莙	rftejf
@@ -7667,7 +7667,7 @@ encoder:
 垗	afdr
 瑅	gdsk
 藒	rfrjsjhjt;
-蓧	rfmfehldff
+蓧	rfmfehk;ff
 薸	rfdfyltj
 槙	fftg
 椄	ffuduj
@@ -7688,7 +7688,7 @@ encoder:
 郿	iuaa
 姽	ujmaasmk
 堷	afjl
-珵	gdjfgd
+珵	gdjfmv
 捃	kktejf
 芼	rfi/
 槤	ffljoj
@@ -7718,7 +7718,7 @@ encoder:
 儵	mfehk;ss
 劒	megjwf
 郛	kahfaa
-颻	kabzya
+颻	idbzya
 鵺	diyf
 奨	olkakluf
 湀	dfl;ur
@@ -7765,7 +7765,7 @@ encoder:
 蘾	rfafvjeadf
 蘞	rfmek;
 樫	fft/kfaf
-睃	ijqawkld
+睃	ijqamsld
 頲	ogmvik
 怓	ifujkf
 禔	tjsk
@@ -7849,7 +7849,7 @@ encoder:
 咡	jfi;
 篌	fjmfqhxl
 俥	mfoj
-脭	djjfgd
+脭	djjfmv
 狁	plqams
 鯔	nkddaj
 訞	jjwjuf
@@ -7868,7 +7868,7 @@ encoder:
 狌	plrs
 頩	mcik
 憱	ifclkd
-隉	aabazf
+隉	aabaaf
 翋	y;ud
 姁	ujhjjf
 嫋	ujxjdsxjds
@@ -7898,11 +7898,11 @@ encoder:
 裃	vkeke;
 袘	vkm;nd
 嬶	ujio
-嬾	ujfdmanj
-絘	vfdsu;
+嬾	ujfdgjnj
+絘	vfedu;
 蓇	rfiw
 茖	rfldjf
-朢	t/djgd
+朢	t/djmv
 啕	jfhjbz
 賍	njcjaf
 稃	rjkahf
@@ -8028,7 +8028,7 @@ encoder:
 悈	ifxfks
 忭	ifchtf
 瓅	gdslvdvdff
-藾	rffdmanj
+藾	rffdgjnj
 苶	rfmfwd
 杻	ffkq
 噭	jfslodk;
@@ -8065,12 +8065,12 @@ encoder:
 雰	dagm
 跢	llie
 甽	ajdd
-黢	ssqawkld
+黢	ssqamsld
 斁	eathk;
 盻	ijwkzx
 睒	ijsg
 秪	rjtz
-僈	mfsjeakf
+僈	mfv;eakf
 虒	whp;
 膮	djar
 胲	djpi
@@ -8232,7 +8232,7 @@ encoder:
 枒	ffia
 燹	pkpksf
 瘑	oois
-焌	sfqawkld
+焌	sfqamsld
 泂	dfqkjf
 潚	dftedh
 奡	ikufwk
@@ -8330,7 +8330,7 @@ encoder:
 啀	jfasag
 餥	ydbj
 暎	sjrfqkuf
-畯	ajqawkld
+畯	ajqamsld
 幏	vlcfpk
 皦	slslodk;
 僇	mfy;mfw;
@@ -8364,7 +8364,7 @@ encoder:
 噰	jfchc/yj
 噂	jfwkblkl
 曵	sewjwf
-晙	sjqawkld
+晙	sjqamsld
 巂	adyjccjf
 箢	fjcfdkmk
 鼢	pggm
@@ -8455,7 +8455,7 @@ encoder:
 羮	pjsfeduf
 鄫	bmaa
 懽	ifyk
-糨	rkxjjfnf
+糨	rkxjqanf
 燏	sfxwccjf
 袨	vkve
 毣	y;i/
@@ -8498,7 +8498,7 @@ encoder:
 潽	dfuesj
 寖	cfdfk.qkkf
 縩	vfidkftj
-墺	afcfrkuf
+墺	afcfpwuf
 扐	kkzj
 栘	ffie
 圁	qjjj
@@ -8572,7 +8572,7 @@ encoder:
 疎	lofd
 妠	ujcc
 妭	ujpo
-緵	vfwlqlwkld
+緵	vfwlqlmsld
 霅	dajj
 昫	sjhjjf
 嶔	adgfu;
@@ -8607,7 +8607,7 @@ encoder:
 綼	vfxz
 荸	rfejqkhf
 萯	rfmanj
-桯	ffjfgd
+桯	ffjfmv
 筬	fjxv
 泝	dfcu
 塅	afax
@@ -8642,7 +8642,7 @@ encoder:
 賨	cftjnj
 岊	nsad
 媥	ujcstb
-趑	lkdsu;
+趑	lkedu;
 鞬	z.ogtd
 蝀	nfoa
 嚥	jfyh
@@ -8760,7 +8760,7 @@ encoder:
 蹜	llcfmfso
 爞	sfesnf
 陑	aaiv
-媱	ujkabz
+媱	ujidbz
 繝	vfcddj
 殗	icufse
 郚	egjfaa
@@ -8773,7 +8773,7 @@ encoder:
 斠	evbw
 酄	ykaa
 蘂	rfesifff
-蔃	rfxjjfnf
+蔃	rfxjqanf
 椪	ffue
 厤	asrjrj
 蟌	nfcgif
@@ -9071,7 +9071,7 @@ encoder:
 醨	blzz
 楪	ffeuff
 尞	efsfsjwd
-蠀	nfdsu;nj
+蠀	nfedu;nj
 昡	sjve
 帨	vljsms
 髄	iwljkddj
@@ -9151,7 +9151,7 @@ encoder:
 瑑	gdp,pk
 搒	kkoe
 葝	rfvazj
-薋	rfdsu;nj
+薋	rfedu;nj
 酏	blnd
 楉	ffrfkdjf
 繄	q;xlxsvf
@@ -9181,7 +9181,7 @@ encoder:
 篛	fjxjdsxjds
 僆	mfljoj
 伬	mfzc
-餕	bjqawkld
+餕	bjqamsld
 錏	gfqg
 媬	ujmfjfff
 殣	ich/
@@ -9197,7 +9197,7 @@ encoder:
 藙	rfudpkxs
 蓪	rfljbo
 楬	ffsjhjt;
-檓	ffbazfxs
+檓	ffbaafxs
 砯	awdfwf
 祡	lfmjtj
 蝪	nfsi
@@ -9209,7 +9209,7 @@ encoder:
 餂	bjjk
 钂	gfcass
 獳	pldaiv
-朘	djqawkld
+朘	djqamsld
 鱣	nkcxsh
 匊	hjrk
 廗	cjvh
@@ -9287,7 +9287,7 @@ encoder:
 霫	day;sl
 蝃	nfkg
 羂	eavfjfdj
-嵕	adwlqlwkld
+嵕	adwlqlmsld
 岧	adgjjf
 蠈	njxbnf
 賵	njv;ij
@@ -9298,7 +9298,7 @@ encoder:
 瓥	f;pknfnf
 舠	okgj
 颲	yaicgj
-猺	plkabz
+猺	plidbz
 鮄	nkxu
 褭	vjpd
 鸇	cxshyf
@@ -9391,7 +9391,7 @@ encoder:
 譓	jjvgif
 裛	vjjfns
 庈	cjbr
-癓	ooofadefo;k;
+癓	ooofadefmsk;
 煆	sfkh
 慴	ify;sl
 璗	dfsige
@@ -9499,7 +9499,7 @@ encoder:
 嗊	jfzfnj
 咈	jfxu
 暿	sjjgjf
-盷	ijhjds
+盷	ijhjed
 犅	pfvsad
 犏	pfcstb
 嵆	rjkdad
@@ -9535,7 +9535,7 @@ encoder:
 颿	pdya
 冓	ev	evv
 荂	rfufjz
-薁	rfcfrkuf
+薁	rfcfpwuf
 酖	blqkms
 輴	ojxn
 靆	dad;ljtc
@@ -9547,7 +9547,7 @@ encoder:
 爁	sftp
 溹	dfejqkvf
 滖	dfvjir
-漒	dfxjjfnf
+漒	dfxjqanf
 犚	mltjklpf
 翴	y;ljoj
 姶	ujbf
@@ -9719,7 +9719,7 @@ encoder:
 鎞	gfigmm
 艎	okslgd
 旓	ovwddj
-楶	dsu;jfff
+楶	edu;jfff
 憀	ify;mfw;
 汫	dfcm
 泲	dffp
@@ -9889,7 +9889,7 @@ encoder:
 猇	plp;
 粂	mzrk
 齌	rosf
-秶	dsu;rj
+秶	edu;rj
 廘	cjpe
 懁	ifeaefjfvk
 熯	sfh/
@@ -10083,7 +10083,7 @@ encoder:
 齯	iqbams
 蜋	nfcz
 螾	nfxo
-鄤	sjeakfaa
+鄤	v;eakfaa
 猒	sjdjpl
 眐	ijlg
 嶊	adkkyj
@@ -10132,7 +10132,7 @@ encoder:
 柮	fflv
 硲	awdg
 齰	iqdm
-踆	llqawkld
+踆	llqamsld
 踠	llcfdkmk
 肙	jfdj
 呟	jfve
@@ -10141,7 +10141,7 @@ encoder:
 瞁	ijijpl
 郔	ogwjlfaa
 皭	slkaeaulkl
-鑁	gfrkqlwkld
+鑁	gfrkqlmsld
 狉	plfkef
 魠	nkf.
 坒	mmaf
@@ -10185,7 +10185,7 @@ encoder:
 霬	dato
 礂	awjgjf
 翈	xqy;
-畇	ajhjds
+畇	ajhjed
 峮	adtejf
 甒	uhzw
 犩	rjujtlpf
@@ -10295,7 +10295,7 @@ encoder:
 膌	djip
 曶	ghsj
 皽	cxshi.
-竫	udmate
+竫	udkate
 癗	oodaaj
 劘	reydgj
 慺	ifuu
@@ -10352,7 +10352,7 @@ encoder:
 鸅	eathyf
 崣	adrjuj
 穱	rjkaeaulkl
-魖	tlp;zl
+魖	tlp;ae
 匁	wjgjwf
 歊	cku;
 籵	rkej
@@ -10368,7 +10368,7 @@ encoder:
 棷	ffi;kf
 跧	llmfgd
 肵	djzk
-觼	prmaccijld
+觼	prmaccijk;
 忯	iftq
 漦	fsk;asdf
 壷	gsqkqg
@@ -10377,7 +10377,7 @@ encoder:
 薚	rficsi
 薉	rflfxela
 樲	ffx;ednj
-槾	ffsjeakf
+槾	ffv;eakf
 鶫	feyf
 欃	ffphph
 霐	dadfxjqa
@@ -10415,7 +10415,7 @@ encoder:
 笲	fjqaks
 釴	gfx;
 陼	aasd
-鬷	buwlqlwkld
+鬷	buwlqlmsld
 斄	fsk;asrl
 趌	lkgsjf
 圠	afqd
@@ -10472,7 +10472,7 @@ encoder:
 蠬	nfn;
 犕	pfx.
 詑	jjne
-浧	dfjfgd
+浧	dfjfmv
 沜	dfo.
 歾	icgh
 墐	afh/
@@ -10485,7 +10485,7 @@ encoder:
 蚅	nfasmk
 鮆	lfmjnk
 蟧	nfsfsfqkzj
-畟	ajwkld
+畟	ajmsld
 鴫	ajyf
 曒	sjslodk;
 暲	sjt,
@@ -10496,7 +10496,7 @@ encoder:
 馞	j,ejqkhf
 簒	fjijufwjqa
 鸒	izyf
-獌	plsjeakf
+獌	plv;eakf
 贕	gkdsgseanj
 粊	mmrk
 鰞	nkyv
@@ -10525,7 +10525,7 @@ encoder:
 珫	gdhvms
 驞	pdcfeflanj
 薵	rfh.
-荺	rfafhjds
+荺	rfafhjed
 靫	z.kfwf
 虈	rfeajfik
 苵	rfkm
@@ -10611,7 +10611,7 @@ encoder:
 癠	ooro
 碆	dfi.aw
 駥	pdxb
-驉	pdp;zl
+驉	pdp;ae
 摠	kkcgif
 勩	eunjzj
 臡	h/yjid
@@ -10706,7 +10706,7 @@ encoder:
 罺	eaddfa
 鈆	gfjs
 縏	okxsvf
-鵔	yfqawkld
+鵔	yfqamsld
 訿	jjlfmj
 衵	vksj
 郠	k/aa
@@ -10759,7 +10759,7 @@ encoder:
 剒	dmgj
 葴	rfxejf
 芚	rfrc
-蓚	rfmfehldw;
+蓚	rfmfehk;w;
 醓	blqkmsbk
 櫹	ffrftedh
 輘	ojlc
@@ -10812,7 +10812,7 @@ encoder:
 偯	mfvjjf
 蠫	p.gjnfnf
 舼	okkw
-艐	okwlqlwkld
+艐	okwlqlmsld
 鱵	nkfjxejf
 欿	mabau;
 諔	jjxpkf
@@ -10824,7 +10824,7 @@ encoder:
 寁	cfefk.lf
 刔	gagj
 鵖	ulyf
-翪	y;wlqlwkld
+翪	y;wlqlmsld
 縓	vfde
 絋	vfcjqa
 葟	rfslgd
@@ -10851,7 +10851,7 @@ encoder:
 顩	meik
 鎺	gftjtm
 舩	okjs
-膙	djxjjfnf
+膙	djxjqanf
 鵤	pryf
 袌	vjhjhs
 怢	ifkm
@@ -10977,7 +10977,7 @@ encoder:
 鶣	cstbyf
 禒	tjp,pk
 裶	vkyd
-袀	vkhjds
+袀	vkhjed
 扻	kku;
 槥	ffr;r;k.
 檥	ffpjxd
@@ -11063,7 +11063,7 @@ encoder:
 礭	awdayj
 蟨	asucu;nf
 蟢	nfjgjf
-蟃	nfsjeakf
+蟃	nfv;eakf
 齘	iqmh
 蝷	nfcjuc
 蠽	wdyjxfnfnf
@@ -11081,7 +11081,7 @@ encoder:
 寠	cfuu
 穾	cvwjuf
 祋	tjxs
-褼	vkylufhs
+褼	vkylufmk
 裮	vkjo
 袡	vkir
 鄍	qksjcraa
@@ -11334,10 +11334,10 @@ encoder:
 駤	pdxk
 駽	pdjfdj
 薽	rfylafzw
-荾	rfqawkld
+荾	rfqamsld
 榙	ffrfbf
 軵	ojmfkl
-椶	ffwlqlwkld
+椶	ffwlqlmsld
 鶠	q;sjujyf
 黳	q;xlxsss
 蜌	nfmmaf
@@ -11354,7 +11354,7 @@ encoder:
 羭	pjoi
 覮	sfsfqkim
 澅	dftdajef
-窱	cvmfehldff
+窱	cvmfehk;ff
 禭	tjljwkpk
 闑	cdilff
 褽	mltjklvj
@@ -11461,7 +11461,7 @@ encoder:
 睅	ijsjxh
 奰	eseauf
 穛	rjyjsf
-稯	rjwlqlwkld
+稯	rjwlqlmsld
 餝	bjrfod
 鏏	gfr;r;k.
 鵃	okyf
@@ -11603,8 +11603,8 @@ encoder:
 騺	thuopd
 鼁	ugna
 鬌	hlw;kdzfdj
-驖	pdx/jfgd
-捘	kkqawkld
+驖	pdx/jfmv
+捘	kkqamsld
 荳	rfb;
 兣	xxasal
 蘉	rfeaqkmfk.qkkf
@@ -11668,7 +11668,7 @@ encoder:
 騢	pdkh
 蘜	rfz.hjrk
 蔖	rfp;tm
-藑	rfmaccijld
+藑	rfmaccijk;
 蔒	rftejfsf
 蒘	rfujjfkj
 磤	awhmxs
@@ -11805,7 +11805,7 @@ encoder:
 筄	fjdr
 僁	mfpwif
 貜	p.ijijyjkf
-猣	plwlqlwkld
+猣	plwlqlmsld
 鱢	nkesjfff
 頯	idksik
 謞	jjck
@@ -11838,7 +11838,7 @@ encoder:
 毰	i/fi
 傚	mfuik;
 屔	aemlmj
-朡	djwlqlwkld
+朡	djwlqlmsld
 鷛	cjteakyf
 瀔	dfgsqkefrjxs
 渳	dfxji;
@@ -11863,7 +11863,7 @@ encoder:
 楾	ffdc
 槉	ffooxl
 齴	iqudasw;
-蝬	nfwlqlwkld
+蝬	nfwlqlmsld
 蝑	nflodj
 嘕	jflgyv
 謈	sjkwjj
@@ -11907,7 +11907,7 @@ encoder:
 艪	oknksj
 臐	djsr
 膱	djjlxf
-惾	ifwlqlwkld
+惾	ifwlqlmsld
 灖	dfreyd
 鼊	mljftkna
 弴	xjco
@@ -12253,20 +12253,20 @@ encoder:
 蘛	rfjehvdj
 桙	ffqapf
 雓	ciyj
-讂	jjmaccijld
+讂	jjmaccijk;
 轏	ojmleshf
 蛵	nfva
 齤	riiq
 酟	bltv
 嶩	adjbnl
-鱋	nkp;zl
+鱋	nkp;ae
 痻	ootqsj
 瓲	zwrc
 霤	dagkaj
 祼	tjfa
 踍	llhohf
 蹳	lll;
-矎	ijmaccijld
+矎	ijmaccijk;
 餰	bjofdf
 痺	ooxz
 蛶	nfkakl
@@ -12276,7 +12276,7 @@ encoder:
 縯	vfxo
 証	jjlg
 晋	xi	xii
-騣	pdwlqlwkld
+騣	pdwlqlmsld
 惷	kssjif
 藱	rfootl
 踂	lli;qd
@@ -12364,9 +12364,9 @@ encoder:
 宫	cfj/
 幂	qksjufvl
 卺	kymk
-异	hsks
+异	qsks
 壜	afsjdad;
-韆	z.ljylufhs
+韆	z.ljylufmk
 苁	rfmd
 栅	fftb
 虬	nfqd
@@ -12405,7 +12405,7 @@ encoder:
 烛	sfnf
 怜	ifmi
 惊	ifcl
-羡	pjdsu;
+羡	pjedu;
 洁	dfgsjf
 垦	ulaf
 竪	t/kfud
@@ -12499,7 +12499,7 @@ encoder:
 撦	kkufsd
 箄	fjxz
 鎯	gfczaa
-餈	dsu;bj
+餈	edu;bj
 溇	dfuu
 缐	vfdc
 触	prnf
@@ -12551,7 +12551,7 @@ encoder:
 洟	dfufxj
 睍	ijim
 佪	mfdl
-澂	dfadefgdk;
+澂	dfadefmvk;
 彊	xjesajaj
 﨟	rfdjsjhjt;
 蓢	rfczdj
@@ -12660,7 +12660,7 @@ encoder:
 囓	jfr;gjlfiq
 啣	jfz;lfmk
 㘎	jfcdkp
-僊	mfylufhs
+僊	mfylufmk
 㿠	slsa
 儁	mfyjxj
 鎗	gfcw
@@ -13453,7 +13453,7 @@ encoder:
 钺	gfxc
 钋	gftf
 舻	oktfml
-锃	gfjfgd
+锃	gfjfmv
 铟	gfqjuf
 锢	gfqjj;
 钟	gfel
@@ -13752,7 +13752,7 @@ encoder:
 亩	chaj
 蛮	uznf
 谩	jjsjeakf
-谡	jjajwkld
+谡	jjajmsld
 銮	uzgf
 诮	jjwddj
 谓	jjajdj
@@ -13880,7 +13880,7 @@ encoder:
 资	dsu;nj
 阎	cdmaba
 癣	oonkpj
-净	dsmate
+净	dskate
 闹	cdlw
 闶	cdu,
 阂	cdpi
@@ -14101,7 +14101,7 @@ encoder:
 劝	kfzj
 骖	pdqaufw;
 骀	pdhw
-骏	pdqawkld
+骏	pdqamsld
 卫	mkef
 际	aatj
 陕	aaufpu
@@ -14528,7 +14528,7 @@ encoder:
 蝾	nfrfqkff
 䗖	nfvh
 蛎	nfasmx
-戯	p;zlxf
+戯	p;aexf
 觑	p;zlim
 𬟽	nfoa
 颦	lrikxz
@@ -14830,7 +14830,7 @@ encoder:
 镃	gfpuvdvd
 觅	kaim
 𬭛	gfdfi.
-鹞	kabzyf
+鹞	idbzyf
 镓	gfcfpk
 𬭎	gfcfkdqa
 镕	gfcvjs
@@ -14920,7 +14920,7 @@ encoder:
 惫	ldajif
 鲛	nkui
 鳑	nkoe
-鳉	nkoldkkl
+鳉	nkolidkl
 鱇	nkjywa
 𩾌	nkjywa
 鳙	nkcjteak
@@ -15002,7 +15002,7 @@ encoder:
 谬	jjy;mfw;
 诩	jjy;
 诎	jjlv
-盗	dsu;bk
+盗	edu;bk
 癫	ootgik
 廪	cjcxtj
 庙	cjxa
@@ -15365,7 +15365,7 @@ encoder:
 炥	sfxu
 𬴕	ckadqe
 𬍎	plsdjbnl
-挰	kkjfgd
+挰	kkjfmv
 𢬥	kkdfzf
 㨕	kkhhkfbk
 𠧌	bxvx
@@ -15402,7 +15402,7 @@ encoder:
 𠴏	jfrft;
 𢭝	kkgjwfif
 𤸒	oonv
-𪉽	bpsjeakf
+𪉽	bpv;eakf
 𥢃	rjcfqfbkzs
 𠼲	jfafyj
 𣊌	sjafyj
@@ -15412,9 +15412,9 @@ encoder:
 𠰀	jfehxj
 𡌣	afeag;
 𬜽	rfawks
-𥊛	ijt;djgd
+𥊛	ijt;djmv
 𥘪	tjz;
-𧽈	lkqssewj
+𧽈	lkhssewj
 𣛣	ffcdefks
 𦣘	djv,
 𦸰	rfudasrs
@@ -15423,10 +15423,10 @@ encoder:
 𡎝	afl;ur
 𢹈	kkfjudse
 𪾤	ijxr
-𬂙	udset;djgd
+𬂙	udset;djmv
 𣷯	dfljzk
 𫽯	p;ukkj
-𣋁	sjsji;kf
+𣋁	sjv;i;kf
 𨒟	ljdx
 㘖	jfudasw;ik
 𡓞	affjpd
@@ -15565,7 +15565,7 @@ encoder:
 𡉿	afff
 𪬽	mak.ifmffi
 㧅	kkgj
-𤠳	pllkqs
+𤠳	pllkhs
 𫘲	iwkesj
 𢣸	ifjjegjf
 𡳶	rfehsjmluu
@@ -15577,7 +15577,7 @@ encoder:
 𨤰	vwgdal
 𦁅	vfvkgj
 𩟼	bjkaujpjbj
-𫎼	lkqscfuj
+𫎼	lkhscfuj
 𩷆	nkbv
 𪇎	fgtjyf
 𬔋	cvple;
@@ -15657,7 +15657,7 @@ encoder:
 𫎑	njfu
 𪝪	mfkhfu
 𪢷	aft;
-𩞝	bjigkfwkld
+𩞝	bjigkfmsld
 𥉪	ijdfhi
 𤏢	sfaawkpk
 𠑬	mfbjar
@@ -15700,7 +15700,7 @@ encoder:
 𤕔	jff.zi
 𢯞	kkxflf
 𤒲	sfcjssaf
-𱜝	zviffdmanj
+𱜝	zviffdgjnj
 𪱊	sjrsmfja
 𪿒	awtfhd
 𫭅	qjkkqa
@@ -15755,7 +15755,7 @@ encoder:
 𩺡	nkgdgjgd
 𦗞	i;cfufja
 𥿥	vfmfgs
-襊	vksji;kf
+襊	vkv;i;kf
 𥣑	rjrfos
 𣱽	dfhh
 𧛈	vkty
@@ -15764,7 +15764,7 @@ encoder:
 𩟻	bjsjvi
 𩑰	shik
 𥊡	ijoju;
-𢝘	ifbazf
+𢝘	ifbaaf
 纙	vfeavfyj
 𦝄	djlc
 鑧	gfcfrfimwf
@@ -15772,7 +15772,7 @@ encoder:
 𫶸	nsmficgj
 𧊐	nftd
 𩗂	yafr
-繓	vfsji;kf
+繓	vfv;i;kf
 𦣰	ejqkglt/tf
 𫦢	awvucfr;jfgj
 𩷈	nkwezj
@@ -15811,7 +15811,7 @@ encoder:
 𡃹	jfzaxf
 𦟉	djoojd
 𢏢	jbxj
-𪱯	t;djgdudse
+𪱯	t;djmvudse
 𩡜	j,czdj
 𡚎	eaejqdufja
 𡮌	wdofi.
@@ -15848,7 +15848,7 @@ encoder:
 𨀿	lleddj
 𩆾	dap;yjjz
 𥍘	ijbjar
-𠽄	jfkkqkwkff
+𠽄	jfkkqkmsff
 𦍉	eavfyjudja
 𬈚	dfrahd
 𪥤	ekuj
@@ -15898,7 +15898,7 @@ encoder:
 𢱜	kkofko
 𢵵	kkrffa
 𬎭	zwzh
-鮻	nkqawkld
+鮻	nkqamsld
 灲	sfgj
 𧆄	fdrfslvdvdff
 𨼚	aaydif
@@ -15924,7 +15924,7 @@ encoder:
 𢗷	ifdf
 𤞪	plj/
 𫰅	rfnkrjuf
-𱢽	cfudset;djgd
+𱢽	cfudset;djmv
 𡀥	jfrfslns
 𫆲	djrfejqkhf
 𪤄	afeaug
@@ -15978,7 +15978,7 @@ encoder:
 𩚔	bjuj
 炲	sfhw
 𫆴	cfx,addj
-𦽰	rfxwmate
+𦽰	rfxwkate
 𫈅	rfdg
 𠽓	jfvjjs
 𤉒	sfp.
@@ -16002,7 +16002,7 @@ encoder:
 𨨨	gfoflg
 𨉞	hmlc
 𥈿	ijzfnj
-𨢼	bligwkld
+𨢼	bligmsld
 𬦳	llp.
 𠿃	jfujjdff
 𫨎	asmfxd
@@ -16017,7 +16017,7 @@ encoder:
 𤵶	ootfxj
 𫦨	rkzj
 𩨜	iwns
-𤑸	sft/m;wfim
+𤑸	sft/m;efim
 𬏽	ooeanj
 𢵶	kkgfrc
 𧼍	lkk.sf
@@ -16167,7 +16167,7 @@ encoder:
 汿	dfqw
 𦎍	pjjj
 𫲴	hfrfcdfe
-𬅧	dsu;ij
+𬅧	edu;ij
 𤷖	oolc
 𤌀	sfmak.if
 𠻋	jfx.
@@ -16188,8 +16188,8 @@ encoder:
 𪿣	awiraa
 𬏝	ootfhd
 𩹫	nkjfi;
-𣡹	ffcji;gdejeaefif
-𤁓	dfgdkabz
+𣡹	ffcji;mvejeaefif
+𤁓	dfgdidbz
 𢭱	kkmfsh
 𬲇	oiifo;ed
 艔	okcjemkf
@@ -16255,7 +16255,7 @@ encoder:
 𡭉	glhmkl
 𪣰	afeaejqd
 𢢋	ifadudasw;
-埩	afmate
+埩	afkate
 祱	tjjsms
 𬕓	fjwjufwe
 𫸋	cjh;mfzd
@@ -16274,7 +16274,7 @@ encoder:
 𫅠	pjufrfeuff
 鎇	gfiu
 𧍎	nftqsj
-𦹰	rfigkfwkld
+𦹰	rfigkfmsld
 𠍭	mffikr
 𨤻	vxgdal
 𬙚	eaeu
@@ -16376,7 +16376,7 @@ encoder:
 㓟	i.gj
 𢶂	kkljqkoj
 𥖖	awi.kkns
-𪞼	igpjdsu;
+𪞼	igpjedu;
 𩩿	iwjl
 𤲂	ajmhe;
 𥍖	ijtpim
@@ -16493,7 +16493,7 @@ encoder:
 𨈒	hmtf
 𡶁	adrc
 𠫆	assjhfrfhw
-𪳨	qkwkxhfa
+𪳨	qkmsxhfa
 𬨱	ljaatm
 𲉯	ukyjejqkgl
 㯝	ffllldjf
@@ -16514,7 +16514,7 @@ encoder:
 𦜘	djkahfqd
 𠸣	jfvfzf
 𢭿	kkdfv.
-𡼇	adigwkld
+𡼇	adigmsld
 𫫫	jfikld
 𢙩	ifzu
 𪯫	bwae
@@ -16548,7 +16548,7 @@ encoder:
 𡳥	mlawvu
 𠶌	jfljzk
 㮧	ffyv
-𬖉	fjudset;djgd
+𬖉	fjudset;djmv
 𧋍	nfkkzk
 𥽵	rkvfar
 䐠	djrft;dd
@@ -16561,7 +16561,7 @@ encoder:
 𤮄	zwbu
 𨄽	llaamaba
 𥭵	fjiraa
-𪢃	jfigwkld
+𪢃	jfigmsld
 𪵧	dooh
 𧒇	nfplsd
 𫗄	o;edoiif
@@ -16665,7 +16665,7 @@ encoder:
 𢘾	ifujjf
 𱿈	mluurfehsj
 𢷴	kkq;kinj
-𩆍	dadfkabz
+𩆍	dadfidbz
 𤯩	gdksrs
 𤞽	plrft;
 㨘	kkweij
@@ -16736,7 +16736,7 @@ encoder:
 𫢠	mfrfml
 𢳁	cjydkj
 𥷺	fjjjrfsjuf
-𨉑	hmjfgd
+𨉑	hmjfmv
 𪳋	ffzxbrif
 𬜕	okjswjo;
 沲	dfm;nd
@@ -16750,7 +16750,7 @@ encoder:
 𪀅	f;yf
 𣦮	vulfxela
 𥗐	awesaw
-𬗲	vfmfehldw;
+𬗲	vfmfehk;w;
 𢚼	ifadkr
 𤢽	plzkzknj
 𪶎	dfkkgjjf
@@ -16812,7 +16812,7 @@ encoder:
 𡂯	ukjfczdj
 𪬼	gmifedkfnj
 𢂌	vlmfx;
-𨘱	ljfdmate
+𨘱	ljfdkate
 尙	ca	caa
 𢺀	kkjjrfsjuf
 䘹	vkvu
@@ -16821,7 +16821,7 @@ encoder:
 𠻵	jfrfplks
 𠹗	jfkkzkjf
 嘑	jfp;jc
-𬔒	cvdfqkwkff
+𬔒	cvdfqkmsff
 𥓶	awldaj
 𣼬	dfsjkkzk
 疿	ooxu
@@ -16899,7 +16899,7 @@ encoder:
 忇	ifzj
 𪷞	dfrfedkfbk
 䤵	gfyd
-𣡙	fafdmanj
+𣡙	fafdgjnj
 𨙖	ljbovewaej
 𡫡	cfpfcdjf
 𪡗	jfzku;
@@ -16926,7 +16926,7 @@ encoder:
 喡	jflz
 𥊦	ijxwldzj
 槯	ffadyj
-𣙺	ffigwkld
+𣙺	ffigmsld
 𭋙	jftjz,
 𣾃	dfxejfuw
 𠛤	tvgj
@@ -16944,7 +16944,7 @@ encoder:
 𪧡	ihcfkl
 𠫏	asrjrjlfvu
 𥓹	awkskm
-𥊙	ijigwkld
+𥊙	ijigmsld
 𡑩	afyfvj
 苝	rfmu
 𡳹	mli/eaps
@@ -16976,7 +16976,7 @@ encoder:
 𡎞	aftr
 𢵱	kkcdefks
 𩸱	nkgf
-𨼋	aap;zl
+𨼋	aap;ae
 𬂆	czdjfu
 𠺽	jfwlffxs
 𬃈	ffwsk;
@@ -17096,7 +17096,7 @@ encoder:
 𡎠	afhhkfbk
 𬒜	awtfhdim
 𪬌	ifedkfbk
-𫄺	bzjfgd
+𫄺	bzjfmv
 㦃	ifudasrs
 𡙦	hjrdhjrduf
 𪨞	mluuq;vl
@@ -17161,8 +17161,8 @@ encoder:
 𨅂	llfkim
 𪴽	fklgujwe
 𨅷	llaawkpk
-樶	ffsji;kf
-𢢇	ifsji;kf
+樶	ffv;i;kf
+𢢇	ifv;i;kf
 𩩩	iwvm
 𨇸	llfjupupsj
 𬆸	hkcxtj
@@ -17202,7 +17202,7 @@ encoder:
 𩍓	z.chc/yj
 𡻖	adjr
 唩	jfrjuj
-𫦘	maeawkldgj
+𫦘	maeamsldgj
 𢗖	ifzg
 䋖	vftd
 𢙫	ifqjuf
@@ -17218,7 +17218,7 @@ encoder:
 𨧠	gfdjxh
 𢞆	ifudasw;
 𪮏	kjajif
-𥋔	ijadefgdk;
+𥋔	ijadefmvk;
 𪷧	dftejfpj
 𫭚	afwd
 𬦹	llldff
@@ -17314,7 +17314,7 @@ encoder:
 𡜤	ujafnd
 𥯝	fjcvpl
 𢴕	kkcfefbkzs
-侱	mfjfgd
+侱	mfjfmv
 𣢹	zuu;
 𠀳	qamfe;
 𫫹	urjfudasw;
@@ -17329,7 +17329,7 @@ encoder:
 𫶻	nstp
 𡀫	jfcxrj
 𡀤	jffjh.
-𡚚	uffdmanj
+𡚚	uffdgjnj
 𫽅	kkuggjwf
 𢵫	kkwkbluf
 𢬅	kkwduf
@@ -17346,7 +17346,7 @@ encoder:
 𠾺	jfpm
 𩘫	yadfhi
 𪧍	cfuse;
-𪬮	ifi;jfgd
+𪬮	ifi;jfmv
 𦟹	djadty
 䢦	ljvewaej
 𬛡	djsiyltj
@@ -17442,10 +17442,10 @@ encoder:
 𫑐	ljfdcspl
 𤹾	oosjhi
 慃	ifjsy;
-𤓇	sfgdmaccijld
+𤓇	sfgdmaccijk;
 𫡾	t;ifjfdj
 𬳤	j,q;rfkdjf
-𡪜	cfdfqkwkff
+𡪜	cfdfqkmsff
 𩙕	s,ya
 𧞿	vkasrjrjlf
 𠻛	jfljpv
@@ -17577,7 +17577,7 @@ encoder:
 𤃟	dfchc/yjaf
 鑅	gfsfsfqkff
 𤭸	mlmczw
-𬞲	rfp;zljz
+𬞲	rfp;aejz
 𡔍	afcvgseanj
 𪿏	xlb;ty
 𫻐	zrifts
@@ -17765,7 +17765,7 @@ encoder:
 𢴊	kkljpk
 𥒥	awie
 𩄰	daicgjsf
-𩼈	nkcfrkuf
+𩼈	nkcfpwuf
 㖧	jftqsj
 𡁽	jfffrfmfff
 𪡱	jfzui/
@@ -17781,7 +17781,7 @@ encoder:
 𣖠	ffrflv
 𬌘	iaadxd
 𢴩	kkfjtd
-䴈	cfrkufyf
+䴈	cfpwufyf
 𢥣	iffjcddj
 𨫪	gfh/
 𪢜	jfgfa;
@@ -17789,7 +17789,7 @@ encoder:
 𣻇	dfljul
 𩩇	hvmsiw
 𣜶	ffljsjhjt;
-𤎑	sfigwkld
+𤎑	sfigmsld
 𬷶	cxrjyf
 𫆜	idmlmj
 𦛺	djixgj
@@ -17861,10 +17861,10 @@ encoder:
 𤯭	uers
 𫑓	ljhaajldjf
 𤣡	pleahjnfih
-𣼺	dfigwkld
+𣼺	dfigmsld
 𢯏	kkofi.
 𫑒	ljfdmffi
-𩻐	nkigkfwkld
+𩻐	nkigkfmsld
 𬠇	nfkx
 𥵗	fjjlu;
 𥘶	tjqdgm
@@ -17920,11 +17920,11 @@ encoder:
 𪂮	hff;yf
 𪞻	igju
 𨔉	ljukr;
-㵊	dfsji;kf
+㵊	dfv;i;kf
 𥋟	ijpjxd
 𥖐	awaawkpk
 𡃎	jfwsffffuf
-踭	llmate
+踭	llkate
 𡑴	afmlkwxs
 𪨝	mli/j,
 㐻	mfcc
@@ -17937,7 +17937,7 @@ encoder:
 𩠠	iibv
 㭲	ffdg
 胋	djtv
-𬏗	pwajdsu;
+𬏗	pwajedu;
 𡳎	mli/j/
 𡆍	jfovxlnk
 怑	ifgl
@@ -18027,7 +18027,7 @@ encoder:
 𦰠	rfjsks
 𤵴	oomfgs
 𢥶	ifnvyf
-𠻦	jfigwkld
+𠻦	jfigmsld
 𬓟	zzrjie
 𱪁	dfrfefsfsjwd
 𥏍	xldkjf
@@ -18065,7 +18065,7 @@ encoder:
 𫷆	vlvsad
 𠸟	jffkbk
 𫱑	ujawwjls
-𱢱	sjp;zljz
+𱢱	sjp;aejz
 𥅃	ijsh
 𣌴	jbdj
 僘	mfcak;
@@ -18232,7 +18232,7 @@ encoder:
 𪩺	zoga
 𢗆	ifze
 𥓳	awofi.
-𥰈	fjmfjfgd
+𥰈	fjmfjfmv
 𦞏	xeujid
 𤇧	sfmfgs
 𦋂	easjkl
@@ -18258,7 +18258,7 @@ encoder:
 𥱱	fjudtv
 𠰙	jfxhgj
 嘇	jfesqamfw;
-𦀚	vfjfgd
+𦀚	vfjfmv
 鐛	gfsjcl
 𦢾	djadlu
 𫄼	bzjdff
@@ -18273,7 +18273,7 @@ encoder:
 𩛸	bjhi
 𫯕	nlkldktf
 𠃣	qewe
-𫇞	oksjeakf
+𫇞	okv;eakf
 𠗹	dsicgjsf
 𪩯	hsukasrs
 𡮅	bamswd
@@ -18438,10 +18438,10 @@ encoder:
 𣴚	dfeszj
 𱜜	mfefsfsjwdzv
 𪪇	jvoe
-埈	afqawkld
+埈	afqamsld
 𡚢	ufrfnkrj
 𫷏	vftqvl
-𢣧	ifp;zljz
+𢣧	ifp;aejz
 𪶭	dficgjsf
 𬁥	hozxjb
 𥋴	ijfgtj
@@ -18541,7 +18541,7 @@ encoder:
 𠆍	chdjtg
 𢟘	ifi;xf
 𫠧	z;e;
-鋥	gfjfgd
+鋥	gfjfmv
 𣆐	sjtfml
 𣐅	ffzg
 𡅳	jfykzj
@@ -18643,7 +18643,7 @@ encoder:
 𠴜	jfkkfm
 𫗷	iijfff
 捠	kkzkks
-𤁠	dfljkabz
+𤁠	dfljidbz
 𢚸	gdksif
 𫴯	njgjkl
 㗀	jfvdvdad
@@ -18833,13 +18833,13 @@ encoder:
 𫍍	jjjdffbh
 𥯈	fjffkv
 𨯹	gffjpd
-𠴔	jfjfgd
+𠴔	jfjfmv
 𨆓	llyg
 𡓏	afrkleaa
 𠯽	jflf
 𨬊	gfhohfk;
 𣔻	ffcvpl
-摱	kksjeakf
+摱	kkv;eakf
 倈	mfrl
 𠿹	jfmfzgnj
 𠯹	jfmfhh
@@ -18898,7 +18898,7 @@ encoder:
 𢨵	csz;
 𠇖	mfwjls
 𣘉	ffplbrjf
-𫬠	jft/m;wfim
+𫬠	jft/m;efim
 𢭴	kkifga
 𢱗	kkrfj;
 𣋀	cfpfsjrs
@@ -18929,7 +18929,7 @@ encoder:
 𡒭	afmfefsfsjwd
 𩄵	davfcc
 𠬠	wkkf
-𫣞	mfp;zl
+𫣞	mfp;ae
 𫶯	kcuj
 𨅃	lladcftj
 𨃈	llkwhs
@@ -19008,7 +19008,7 @@ encoder:
 𬦸	llsjmm
 垹	afr;aa
 𨛦	tejfjfns
-𧤸	prigkfwkld
+𧤸	prigkfmsld
 𤯿	cjtzudasrs
 𠎬	mffjko
 𩵃	tlrotj
@@ -19079,7 +19079,7 @@ encoder:
 𪷮	dflxc,
 𫾕	kkrfsjufif
 𠄽	edkkyd
-𨇣	llt/m;wfim
+𨇣	llt/m;efim
 𤶄	oomfzg
 𡃑	jfjjra
 潷	dffjtd
@@ -19140,7 +19140,7 @@ encoder:
 𫇌	ilplufse
 𡃐	jfvlza
 𣩁	icmjkkzk
-嗂	jfkabz
+嗂	jfidbz
 𡀶	jfdfde
 𠿸	jfrfjfjfjz
 𡺦	adhhkfbk
@@ -19248,7 +19248,7 @@ encoder:
 𦷩	rfawwjls
 𬑸	xlb;cvpl
 𠜭	gjkkqkms
-𬩩	ljkrsjeakf
+𬩩	ljkrv;eakf
 𠄳	edugzj
 𨸾	aamu
 𬕼	fjxljft;
@@ -19268,7 +19268,7 @@ encoder:
 𬤴	dgik
 𬎣	f;wjls
 𫪏	jfdfgh
-𬏌	xalkqs
+𬏌	xalkhs
 𬗻	vfzfedkfbk
 𧙽	vknf
 𠗰	dsgdmfw;
@@ -19347,7 +19347,7 @@ encoder:
 𠹚	jfjr
 𢀫	vamfzgo;
 𬛲	bxxk
-𪓪	najfgd
+𪓪	najfmv
 𪭸	kkjfbw
 𫆸	idwkblkl
 𫉩	rfjfyv
@@ -19407,8 +19407,8 @@ encoder:
 𣌔	sjcfldjfik
 𥡘	rjx.
 𩰈	hlw;bjar
-𬦗	lkqszu
-𪒗	ssdfqkwkff
+𬦗	lkhszu
+𪒗	ssdfqkmsff
 悑	ifa;
 𠻀	jfoflk
 𪅩	esqamfw;yf
@@ -19435,14 +19435,14 @@ encoder:
 𬂥	fdmj
 𠿵	jfp.ul
 𫸬	qkkexjeh
-𱲢	rkqlwkldokbk
+𱲢	rkqlmsldokbk
 𤊭	sfcjtj
 𢮫	kkujkfxj
 𫄆	vfawvu
 𬹀	perft;dd
 𬚞	jai;aa
 𩺩	nkeaug
-𣡚	fafdmanj
+𣡚	fafdgjnj
 𣇊	sjfkjf
 𦄂	vfvh
 𨐿	tkzkzknj
@@ -19566,10 +19566,10 @@ encoder:
 柪	ffvdzj
 𨀾	lldfuj
 𱒚	jftx
-𬉊	dfi;jfgd
+𬉊	dfi;jfmv
 𣛠	ffeanj
 𨭺	gffgtj
-𪚤	n;t;djgd
+𪚤	n;t;djmv
 𠑉	mfdgljul
 𤘂	o.rfeaqkdk
 𣎏	qjj;kddj
@@ -19665,7 +19665,7 @@ encoder:
 𪭃	ifdawjajbk
 𠒷	lxmfjj
 𣜰	ffcjku
-䁘	ijkabz
+䁘	ijidbz
 𪨚	mlmcs;
 𣈖	ijkskk
 𣅘	sjjz
@@ -19710,7 +19710,7 @@ encoder:
 𣵲	dfmfgl
 𣖖	ffkkko
 𫯰	uaos
-𢂰	vlmate
+𢂰	vlkate
 𪮍	kjjdff
 𢘭	ifak
 𡀷	jfljxn
@@ -19721,7 +19721,7 @@ encoder:
 𢩮	kkx;
 𤃠	dfbjkauj
 𦄃	vfkkzkjf
-𥂉	rcdsu;bk
+𥂉	rcedu;bk
 𡄨	jfadujfdk;
 𪰓	sjjv
 埁	afadbr
@@ -19747,7 +19747,7 @@ encoder:
 𠞛	csy;gj
 𦛍	djec
 𬳚	iikkll
-𧽇	sewjlkqs
+𧽇	sewjlkhs
 𨐸	tkl;b;
 𬦶	llxkgj
 𫢍	zkmf
@@ -19757,7 +19757,7 @@ encoder:
 挭	kkk/
 䌌	vfy;sl
 𡉽	afcr
-𤻏	oobazfxs
+𤻏	oobaafxs
 𢺓	kkdadfkazg
 䃹	awcdfe
 拪	kkyl
@@ -19872,7 +19872,7 @@ encoder:
 𠽛	jfaabrd;
 𨠉	blif
 厔	asxk
-𩆡	daljkabz
+𩆡	daljidbz
 𪂱	yfo/
 𦟍	djrfpi
 𦜀	djjfpl
@@ -19902,7 +19902,7 @@ encoder:
 𪯛	odk;vv
 𪁴	yfdg
 𣼯	dfaffi
-睈	ijjfgd
+睈	ijjfmv
 𥃚	jlokxsbk
 𢚶	ifkauj
 𣠰	fffjcdsj
@@ -19934,7 +19934,7 @@ encoder:
 𩹹	nkyjkf
 𫐽	ljrkwe
 𫗁	o;edljul
-𡂅	jfadigwkld
+𡂅	jfadigmsld
 鴂	gayf
 𢉽	cjffj;
 𩕳	cfifbkzsik
@@ -19966,7 +19966,7 @@ encoder:
 伵	mfea
 𥿀	vfsj
 䓊	rfegjf
-𡏟	afkabz
+𡏟	afidbz
 𨇉	lladefsfsjwd
 𬇅	i/q;esjf
 𠸼	jfljmxej
@@ -20006,7 +20006,7 @@ encoder:
 𨱪	hlahwf
 𨔊	ljvu
 𫡔	fum/
-𪱮	t;djgdzfnj
+𪱮	t;djmvzfnj
 𦂾	vfljkm
 𢷂	kkickfrk
 𫆿	ajdjljrk
@@ -20034,7 +20034,7 @@ encoder:
 檒	fgya
 𨅰	llffmw
 𠻉	jfljjk
-𤔷	hhkfbkmate
+𤔷	hhkfbkkate
 𮬩	ifyf
 𪾭	ijfg
 𪬪	fuoiif
@@ -20100,7 +20100,7 @@ encoder:
 㗙	jfhjrdhjrd
 鵉	uzyf
 𥳅	fjljjj
-𪺘	matetr
+𪺘	katetr
 𪽏	ajmi
 𤭵	zwjl
 𪬏	ifj,
@@ -20215,7 +20215,7 @@ encoder:
 𦣎	djh/yj
 𢙔	iftjqd
 𦮲	rftjqd
-𢠧	ifigwkld
+𢠧	ifigmsld
 苭	rfvdzj
 𬑵	glxlb;
 𱞋	iftfml
@@ -20348,7 +20348,7 @@ encoder:
 𫗸	iidm
 𥺿	rkufja
 䈫	fjvfcc
-棦	ffmate
+棦	ffkate
 𫉓	puvloa
 𬵎	nkqjvl
 𫦬	ketmzj
@@ -20392,12 +20392,12 @@ encoder:
 𫏠	lltpim
 𩆷	damdxfrh
 𧋆	nfzu
-𪹣	sfp;zl
+𪹣	sfp;ae
 䁩	ijnk
 鉷	gfkw
 𡞖	ujcjtz
 焾	sfbrif
-𥺆	rkjfgd
+𥺆	rkjfmv
 𦡦	djrfos
 𨀋	llmfgs
 𧵑	njj;
@@ -20469,7 +20469,7 @@ encoder:
 𧷺	jrty
 𡂉	jfkkzkjj
 𤔛	i;kfka
-𦳙	rfxkk;
+𦳙	rfxkld
 𠰁	jfm/
 𪡚	jfwars
 𫡝	hhsk
@@ -20486,8 +20486,8 @@ encoder:
 𧏵	nfudse
 𢪰	kkic
 𪤽	lcie
-𫽺	kjsjeakf
-𪴏	ffhfsjeakf
+𫽺	kjv;eakf
+𪴏	ffhfv;eakf
 惀	ifty
 𢠨	ifhik;
 琜	gdrl
@@ -20619,7 +20619,7 @@ encoder:
 𥐋	xlb;rfwl
 𫔤	cdukkk
 褠	vkev
-𡪇	cfzsmfehldw;
+𡪇	cfzsmfehk;w;
 𣱆	cstq
 𧥇	pradtl
 𢚽	ifdfmp
@@ -20648,7 +20648,7 @@ encoder:
 𤉕	xakdsf
 𧍍	nfrl
 𠍦	mfedkfnj
-𨁎	lljfgd
+𨁎	lljfmv
 㭳	ffhohf
 㺗	plza
 𦄻	vfnunj
@@ -20674,7 +20674,7 @@ encoder:
 𫷚	jvnm
 𫴷	k.klesaw
 𧹰	svj,
-悜	ifjfgd
+悜	ifjfmv
 𢣆	ifadck
 㧯	kkho
 𣟪	ffzunlkl
@@ -20682,7 +20682,7 @@ encoder:
 𡣄	ujdfxjdsxjds
 𢱓	kkdflx
 𩩫	iwjo
-𬚺	iddsu;
+𬚺	idedu;
 𪬭	ifgakate
 𦀊	vfufxj
 𡳢	zcsdaa
@@ -20734,7 +20734,7 @@ encoder:
 𥌈	ijtp
 𤮟	zwaftl
 𥵖	fjdjajif
-𬯩	aajafdmanj
+𬯩	aajafdgjnj
 𣙦	ffooko
 𪷃	dfedkfim
 𪦲	ujhweanj
@@ -20802,7 +20802,7 @@ encoder:
 𪽞	udseaj
 𫸱	xjtjqd
 𦎛	pjujjw
-𪱕	sji;kffu
+𪱕	v;i;kffu
 𡮠	vwiu
 𣙮	ffrotj
 𠎴	mfmli/vo
@@ -20861,8 +20861,8 @@ encoder:
 𧰜	p;b;os
 𫯩	liur
 𠎨	mfvfbf
-𠶀	jfqkwkff
-𪾝	okbkrkqlwkld
+𠶀	jfqkmsff
+𪾝	okbkrkqlmsld
 𡐚	afnk
 𦓉	hollldjf
 𣙩	ffadcftj
@@ -20903,7 +20903,7 @@ encoder:
 𠊝	mfx;hw
 𥶄	fjujfdk;
 𠽑	jfb;fm
-𩆋	dakkkabz
+𩆋	dakkidbz
 𨎠	ajldjfoj
 𬔔	cvzfudse
 㩃	kkdw
@@ -20930,7 +20930,7 @@ encoder:
 𱳍	ijllldjf
 𤏪	sfsfsfqkzj
 㛎	ujj/
-𣟮	xwffigwkld
+𣟮	xwffigmsld
 𬀦	efqdsj
 𨆺	lldfyltj
 𠽦	jfdfxejf
@@ -20955,7 +20955,7 @@ encoder:
 𦟋	djmffi
 𨠵	blsa
 𬩁	ljfmixgj
-鎫	gfcfwlwkld
+鎫	gfcfwlmsld
 𫤎	mfmjikoflg
 𫺎	ifr;aa
 𠅻	t;dfjfdj
@@ -20975,7 +20975,7 @@ encoder:
 𢆫	rmlfxela
 𠾕	jfaawkpk
 𫅟	pjufcfusk;
-𢁑	nsfdmanj
+𢁑	nsfdgjnj
 𤋻	sfdfwhmd
 𠞢	gdgjgdgj
 𫤍	mfgdjjty
@@ -20993,7 +20993,7 @@ encoder:
 𤇊	sfjv
 𫙔	nktfml
 𢙵	ifwlkdjf
-𠬉	ugmate
+𠬉	ugkate
 𦀴	vfrft;
 𤒦	sfmek;
 𫂝	fjmaccqkdk
@@ -21110,7 +21110,7 @@ encoder:
 𤄮	dfarie
 𥉬	ijicgjsf
 𤀏	dfjjx;zf
-𪮨	kkdfqkwkff
+𪮨	kkdfqkmsff
 𫆡	hvdjfu
 𦠆	djm.
 𬙴	pjufrc
@@ -21388,7 +21388,7 @@ encoder:
 𠿄	jfcfnv
 𬗗	vfkkzk
 𥗨	awrfsjjdvk
-䄇	tjjfgd
+䄇	tjjfmv
 𠶕	jfdfgjjf
 㾾	ooku
 𡔿	gsqko;ksur
@@ -21419,7 +21419,7 @@ encoder:
 𡫐	cfchkuwj
 𦷯	rfafal
 𠒬	saxfjfef
-𢩤	csyjsjeakf
+𢩤	csyjv;eakf
 𤲼	t.sewj
 桗	ffhhff
 𫊮	nftfml
@@ -21479,7 +21479,7 @@ encoder:
 𢲦	kki;xf
 𣟭	ffjfjfpd
 鋦	gfmlqfjf
-𠼦	jfsjeakf
+𠼦	jfv;eakf
 𦑗	csy;ga
 𨂔	llhvdj
 𥻢	rkjfil
@@ -21509,10 +21509,10 @@ encoder:
 𬏴	ooifkfaf
 𨙥	ljkssjnfnf
 𢀦	zvcszk
-𥢄	rjigkfwkld
+𥢄	rjigkfmsld
 欗	ffrfcdfe
 𤷱	oocd
-𠺧	jfmfehldff
+𠺧	jfmfehk;ff
 𫶰	kcfm
 𨫊	gfylff
 𫐚	tkffqe
@@ -21633,7 +21633,7 @@ encoder:
 𠀿	e;jfu;
 𤃢	dfcjcxrj
 𡆚	jfofijijyj
-𬰆	dadfmate
+𬰆	dadfkate
 𧹅	argmnj
 㝹	weph
 𠴘	jfffkl
@@ -21648,7 +21648,7 @@ encoder:
 𤞒	plkw
 𧣲	prk/
 𪱂	sjplsd
-𬒧	awi.bazf
+𬒧	awi.baaf
 痶	ootbks
 㤳	iffkjf
 𬇏	doff
@@ -21665,7 +21665,7 @@ encoder:
 𥮊	fjffaf
 𠱄	jfbk
 𪣠	afukjf
-𬘀	vfdfbazf
+𬘀	vfdfbaaf
 𨍦	ojuu
 𫁫	udaaldla
 𣍁	mli/jb
@@ -21750,7 +21750,7 @@ encoder:
 𫂨	fjkotu
 𣱾	dfhd
 𡐗	afprbw
-𦟣	djigwkld
+𦟣	djigmsld
 𫻽	xvrm
 𬘂	vfqwik
 𢚳	ffklif
@@ -21770,7 +21770,7 @@ encoder:
 𢹾	kkhalfzo
 𡦧	rjhfvu
 𥱰	fjoflk
-𢷳	kkmaccijld
+𢷳	kkmaccijk;
 𬁚	sjrski
 𱡵	rfo;edod
 粚	rkm;nd
@@ -21778,7 +21778,7 @@ encoder:
 䇮	fjmfzg
 𬌥	pfuu
 𦃿	vfeaug
-𡂇	jfjfigwkld
+𡂇	jfjfigmsld
 𨆶	llrfdfa;
 𪖺	ioulup
 𤞔	plx;zf
@@ -21808,7 +21808,7 @@ encoder:
 𪞽	igjbnl
 𬜞	mansyd
 𫲢	hfhjjf
-𢀲	zvfdmanj
+𢀲	zvfdgjnj
 淃	dfrimk
 𣉏	sjrfmi
 𪊅	bpfgtj
@@ -21839,7 +21839,7 @@ encoder:
 𦟖	idpd
 𢺤	kkrfcdfe
 𨃸	lludse
-熶	sfsji;kf
+熶	sfv;i;kf
 𫏦	llddqjmfmskk
 𤊒	sfz,
 𦠰	csdjo/
@@ -21964,8 +21964,8 @@ encoder:
 𠾿	jfzfik
 𧻐	lkukkl
 𫳘	cfhfcfzs
-𪴉	ffvdvdadwkld
-𠽉	jfdfqkwkff
+𪴉	ffvdvdadmsld
+𠽉	jfdfqkmsff
 𩄱	daudse
 𫃘	rkajkwgl
 𢭸	kkcjqw
@@ -22063,7 +22063,7 @@ encoder:
 𣖚	ffrfjm
 𠱈	jfxl
 𤠤	plrft;dd
-𥃑	okbkwlqlwkld
+𥃑	okbkwlqlmsld
 𨬈	gfre
 𠣶	hjhsixgj
 𫒾	gfvfcc
@@ -22229,7 +22229,7 @@ encoder:
 㫼	sjzh
 𠇽	mfq;vl
 𡄯	jfdjjlif
-𧋸	nfjfgd
+𧋸	nfjfmv
 𬬌	gfxgfv
 𥣐	rjsjqkoj
 𪀆	mfgsyf
@@ -22278,7 +22278,7 @@ encoder:
 𣭒	i/ij
 𩇅	dajjrfsjuf
 呞	jfjw
-𥊴	ijsji;kf
+𥊴	ijv;i;kf
 梖	ffnj
 𤇲	mfzgsf
 𢝸	ifis
@@ -22512,350 +22512,649 @@ encoder:
 ⿔	nh	nhh
 ⿕	jt	jtt
 
-# 简码
+# 簡碼
 的	s	slbh
 在	f	flaf
-和	r	rjjf
 有	k	kddj
-就	c	clkd
-他	m	mfnd
+好	u	ujhf
+說	j	jjjsms
 到	x	xkgj
-那	i	iraa
-她	u	ujnd
+這	l	ljjj
 地	a	afnd
-以	q	qamf
 得	o	ofsjefkl
+們	m	mfcd
+家	c	cfpk
+學	h	hehf
+則	n	njgj
+外	d	dktf
 美	p	pjuf
-么	w	wjqa
-集	y	yjff
-斯	b	bszk
-怎	z	zdif
-孩	h	hfpi
-开	e	efks
-现	g	gdim
-说	j	jjjsms
-没	d	dfxs
-这	l	ljuk
-点	t	tvsf
-经	v	vfva
-则	n	njgj
+兒	b	bams
+經	v	vfva
+國	q	qjxfjfef
+畫	t	tdajef
+現	g	gdim
+業	z	zlff
+夏	i	ikld
+觀	y	ykim
+著	r	rfsd
+資	e	edu;nj
+夔	w	wkiklfhsld
+沒	dhk	dfhjkf
+還	lee	ljeaefjfvk
+對	zek	zlefkl
+個	mqj	mfqjj;
 呢	jmm	jfmlmj
 恩	qui	qjufif
 做	mjk	mfj;k;
 想	fii	ffijif
+後	ovl	ofvdld
+從	oml	ofmdlf
+將	oik	olidkl
 啦	jku	jfkkud
 嗯	jqu	jfqjufif
-啊	jaj	jfaaja
+啊	jfa	jfaaja
 或	xje	xfjfef
 新	ufz	udffzk
-最	sik	sji;kf
+號	jzp	jfzxp;
+最	vik	v;i;kf
+開	cek	cdefks
 您	mvi	mfvwif
+寫	cby	cfbayv
+賣	gen	gseanj
+暈	sjq	sjqkoj
+剛	vag	vsadgj
+換	kmc	kkmaccuf
 哪	jia	jfiraa
+聽	ime	i;mvejeaefif
+幫	aks	agklslvl
 算	fik	fjijks
 咯	jlj	jfldjf
+總	vci	vfcgif
 唉	jqx	jfqaxl
 按	kcu	kkcfuj
+區	qej	q;esjf
+機	fvv	ffvdvdxfmf
+殺	wfx	wlffxs
 些	lme	lfmjed
 跑	lhh	llhjhs
+網	vvt	vfvst;
+裝	ogv	olgsvj
 挺	kom	kkogmv
+圖	qjc	qjjfcx
 路	llj	llldjf
+應	cmy	cjmfyjif
+強	xqn	xjqanf
+類	rpi	rkplik
 送	lpu	ljpuuf
 接	kuu	kkuduj
+辦	tzt	tkzjtk
 哎	jrw	jfrfwl
 俺	mus	mfufse
 座	cma	cjmdaf
 受	kqk	kaqkkf
 喝	jsh	jfsjhjt;
 管	fch	fjcfha
+樣	fpd	ffpjdv
+夠	ihj	iehjjf
 笑	fwu	fjwjuf
+邊	lic	ljilcvod
 型	ekg	efksgjaf
-慢	ise	ifsjeakf
+慢	ivk	ifv;eakf
 刷	mvg	mlvlgj
+稱	rkn	rjkank
+處	plo	p;ldo;
 怪	ika	ifkfaf
 倒	mxg	mfxkgj
+據	kpp	kkp;pk
 格	flj	ffldjf
+讀	jge	jjgseanj
+條	mek	mfehk;ff
 唔	jfe	jfegjf
+遠	laj	ljafjfvk
+熱	aus	acuosf
+滿	dee	dfemee
+額	cli	cfldjfik
 班	ggg	gdgjgd
 滴	dfj	dff,jf
-度	cek	cjemkf
+掛	kat	kkagtf
+關	cvv	cdvdvdpu
+漲	dxh	dfxjhl
+劉	gkg	gkgfgj
+度	cje	cjemkf
 歌	jju	jajau;
-若	rkj	rfkdjf
+報	tmk	thmkkf
+若	rfk	rfkdjf
+盤	oxb	okxsbk
 爽	uew	ufeawl
+隊	awp	aawkpk
 狗	phj	plhjjf
+歲	lxl	lfxela
+壞	ave	afvjeadf
 超	lgj	lkgjjf
-均	ahd	afhjds
+均	ahe	afhjed
 照	sgj	sjgjjfsf
+係	mwv	mfwjvf
+夢	req	rfeaqkdk
 教	hhk	hohfk;
 哭	jjp	jfjfpl
 懂	iro	ifrfos
+雙	yyk	yjyjkf
+億	mji	mfjlif
+貓	pra	p.rfaj
 急	mki	mak.if
+藥	rsv	rfslvdvdff
+羅	evy	eavfyj
+喲	jvb	jfvfbh
 感	xji	xejfif
 混	dsm	dfsjmm
 操	kej	kkesjfff
 南	eqg	ejqkgl
+聲	jxi	jhxsi;
 德	oee	ofejeaefif
-局	mqj	mlqfjf
-噢	jcr	jfcfrkuf
+局	mlq	mlqfjf
+噢	jcp	jfcfpwuf
 整	fkl	fdk;lg
-傻	miw	mfigwkld
+傻	mim	mfigmsld
 呃	jam	jfasmk
 喊	jxj	jfxejf
-沈	dqm	dfqkms
+沈	dfm	dfqkms
+樂	svv	slvdvdff
 篇	fct	fjcstb
 砸	aqv	awq;vl
-深	dqw	dfqkwkff
+深	dqm	dfqkmsff
+親	ufi	udffim
+葉	ref	rfeuff
 款	gtu	gstju;
 器	ejp	eajfpl
 率	vwe	vewaej
-修	mel	mfehldw;
+調	jaj	jjakjf
+修	mew	mfehk;w;
+試	jxz	jjx;zf
+謝	jhk	jjhmkl
+週	lja	ljakjf
+趙	lwd	lkwddj
 流	dhd	dfhvdd
-噶	jrs	jfrfsjhjt;
 招	kgj	kkgjjf
 派	dwm	dfwhmd
+廠	cck	cjcak;
+樹	fjk	ffjgkl
 停	mcz	mfckzs
+奧	cpu	cfpwuf
 翻	pay	pwajy;
-泡	dhh	dfhjhs
+隨	alk	aaljkdzfdj
+價	myn	mfylnj
+泡	dfh	dfhjhs
+寶	cgb	cfgdbznj
+體	ijb	iwjbb;
+傷	mms	mfm;si
 解	pgp	prgjpf
-喔	jfm	jfmlxk
+孫	hwv	hfwjvf
+喔	jmx	jfmlxk
+證	jlb	jjl;b;
+鐵	gxj	gfx/jfmv
 落	rdl	rfdfldjf
+節	fum	fjulmk
 藉	rzd	rfzudm
+騙	pct	pdcstb
+師	hev	haefvl
 博	eak	eja;kl
+爛	scf	sfcdfe
+靜	rkt	rakate
+虧	pyj	p;yjjz
 茶	rmf	rfmfff
 案	cuf	cfujff
 抱	khh	kkhjhs
+獎	oip	olidklpl
+緊	tkv	t/kfvf
 服	dmk	djmkkf
 英	rqu	rfqkuf
+蘇	rnr	rfnkrj
 嘴	jlm	jflfmjpr
 保	mjf	mfjfff
-莫	rsu	rfsjuf
+雞	kvu	kavdufyj
+莫	rfs	rfsjuf
 挖	kcq	kkcvqe
+髮	hwp	hlw;po
+戲	pbx	p;b;xf
 寄	cuj	cfufja
+橋	fwc	ffwjufck
+燈	slb	sfl;b;
+屬	mde	mldfeahjnf
+窮	chx	cvhmxj
 然	ips	idplsf
-港	dfk	dfkwhs
+蓋	rub	rfugbk
+港	dkh	dfkwhs
+蘭	rcf	rfcdfe
+壓	asd	assjdjplaf
 捏	ksa	kksjaf
 猛	phb	plhfbk
 客	clj	cfldjf
-望	tdg	t;djgd
+雖	jny	jfnfyj
+望	tdm	t;djmv
 腿	dlu	djljul
+園	qaj	qjafjfvk
 祝	tjm	tjjfms
+鄭	wbu	wkblufaa
 似	mqm	mfqamf
+煙	sya	sfylaf
 端	uai	udadiv
+歸	hlz	halfzo
+滾	dvj	dfvjjs
+靈	djj	dajfjfjfzfmd
 圈	qrm	qjrimk
+趕	lsx	lksjxh
 搬	kox	kkokxs
+獲	pyk	plyikf
 塔	arb	afrfbf
+準	dye	dfyjej
 拖	kmn	kkm;nd
 摸	krs	kkrfsjuf
 院	acu	aacfus
+慘	ieq	ifesqamfw;
+語	jej	jjegjf
 降	all	aaldla
 嘎	jix	jfikxf
+結	vgj	vfgsjf
+寧	cib	cfifbkzs
 醒	bsr	blsjrs
 逛	lpg	ljplgd
 瘦	osk	oosckf
-咧	jig	jficgj
+鍵	got	gfogtd
 露	dll	dallldjf
+榮	ssf	sfsfqkff
 弱	xdx	xjdsxjds
 影	scw	sjclw;
 替	uus	uauasj
 箱	ffi	fjffij
+嚇	jss	jfsvsv
+測	dng	dfnjgj
+莊	rog	rfolgs
+寬	cri	cfrfimwf
 遍	lct	ljcstb
 湖	djd	dfj;dj
-程	rjg	rjjfgd
+聯	ivv	i;vdvdpu
+程	rjm	rjjfmv
 偏	mct	mfcstb
+實	cnn	cfnunj
+鎖	gwn	gfwdnj
+環	gee	gdeaefjfvk
 紫	lmv	lfmjvf
 熟	cus	couosf
+標	fyt	ffyltj
+歐	qeu	q;esjfu;
 厚	ash	assjhf
-微	oae	ofadefo;k;
-瞭	iew	ijefsfsjwd
+懶	ifg	iffdgjnj
+顧	cyi	csyjik
+滅	dxs	dfxesf
+運	lqo	ljqkoj
+溫	dqb	dfqjmfbk
+微	oae	ofadefmsk;
+瞭	ies	ijefsfsjwd
+拋	kuz	kkuxzj
+編	vct	vfcstb
+憑	dpi	dspdif
 形	ekw	efksw;
+檔	fca	ffcaaj
 害	crj	cfr;jf
-酸	bqw	blqawkld
+穩	rkz	rjkazfk.if
+酸	bqm	blqamsld
 侯	mqx	mfqhxl
+脫	djs	djjsms
 擦	kci	kkcfidkftj
 藏	rxo	rfxfolt/
+掙	kkt	kkkate
 琴	ggb	gdgdbr
+稅	rjj	rjjsms
 宏	ckq	cfkdqa
 例	mig	mficgj
+產	uar	ukasrs
+淚	dcp	dfcspl
 忍	gwi	gjwfif
+聖	ijm	i;jfmv
+遊	loh	ljovhf
 怒	uki	ujkfif
 游	doh	dfovhf
+鄧	lba	l;b;aa
 嫩	ufk	ujfdk;
-棒	ffk	ffkskk
+淨	dkt	dfkate
+減	dxj	dfxejf
+棒	fkk	ffkskk
 蔡	rik	rfidkftj
-糖	rjj	rkjyjf
-潘	dpa	dfpwaj
-俊	mqw	mfqawkld
+糖	rjy	rkjyjf
+雜	vfy	vjffyj
+潘	dfp	dfpwaj
+鋼	gva	gfvsad
+蔣	roi	rfolidkl
+幣	vwk	vlwak;vl
+絕	vgn	vfgjns
+幾	vvx	vdvdxfmf
+屆	maq	mlafql
+館	bch	bjcfha
+認	jgw	jjgjwfif
+俊	mql	mfqamsld
+嚴	jja	jfjfaskp
+礦	ach	awcjh;
+廳	cim	cji;mvejeaefif
 瑞	gai	gdadiv
+飄	yty	yltjya
 添	dui	dfurif
 催	may	mfadyj
+劇	ppg	p;pkgj
+尋	kzj	k.zfjfkl
+顯	svi	sjvdvdsfik
+鏈	glo	gfljoj
+擺	kep	kkeaps
+騎	puj	pdufja
 密	cxa	cfx,ad
+腦	ddi	djddig
+禮	tjb	tjjbb;
+輝	sqo	saqkoj
 智	xjs	xljfsj
 索	eqv	ejqkvf
 聚	ikm	i;kfmd
 膜	dru	djrfsjuf
 魏	rut	rjujtl
+澤	det	dfeath
+側	mng	mfnjgj
+諾	jrk	jjrfkdjf
 范	rdm	rfdfmk
 搭	krb	kkrfbf
 袁	ajv	afjfvk
+鑽	gll	gflxlxnj
+陰	abd	aabrd;
+唸	jbi	jfbrif
 薄	rda	rfdfa;kl
+鹽	tmb	t/m;bpbk
+賴	fgn	fdgjnj
+獨	peh	pleahjnf
 躲	hof	hmo;ff
+傑	mlf	mfleff
+噸	jri	jfrcik
+慶	pqi	peqfifld
+緣	vpp	vfp,pk
+蕭	rte	rftedh
 惹	rki	rfkdjfif
+讚	jll	jjlxlxnj
 喇	jfg	jffdgj
 梁	dgw	dfgjwkff
 跨	luj	llufjz
+盧	pab	p;ajbk
 瞎	icr	ijcfr;jf
+導	lik	ljiikl
+噴	jrn	jfrdnj
+優	mii	mfikifld
 略	alj	ajldjf
 蒙	rvp	rfv;pk
 拜	ker	kjefr;
 娜	uia	ujiraa
-愁	rjs	rjsfif
+懷	ive	ifvjeadf
+凱	abo	adb;o;
+愁	rsi	rjsfif
+薩	rar	rfaaudasrs
+質	zzn	zkzknj
 泥	dmm	dfmlmj
+喬	wuc	wjufck
+欄	fcf	ffcdfe
+儀	mpx	mfpjxd
+遲	lmd	ljmldfpf
 嫁	ucp	ujcfpk
+捲	krm	kkrimk
 稍	rwd	rjwddj
-薛	rht	rfhatk
+薛	rfh	rfhatk
+儂	mjn	mfjbnl
 佐	mkz	mfkdzf
+臨	tme	t/m;esjf
 碗	acd	awcfdkmk
 健	mot	mfogtd
 雄	kqy	kdqayj
 胸	dhw	djhjwlql
 框	fqg	ffq;gd
+湊	dku	dfksur
+識	jjx	jjjlxf
 漏	dmd	dfmlda
 洛	dlj	dfldjf
-探	kqw	kkqkwkff
+探	kqm	kkqkmsff
 碟	aef	aweuff
 透	lrh	ljrjhh
+營	ssq	sfsfqkj/
 府	cmk	cjmfkl
 搜	ksk	kksckf
 希	wkv	wlkdvl
 播	kpa	kkpwaj
+賢	tkn	t/kfnj
 模	frs	ffrfsjuf
 陶	ahb	aahjbz
+驚	rhj	rfhjjfk;pd
 袋	mxv	mfx;vj
 趁	lmw	lkmfw;
-妖	uwu	ujwjuf
+妖	ujw	ujwjuf
+錦	gsv	gfslvl
+溼	dev	dfefvdvdaf
 尊	wbk	wkblkl
+顏	uaw	ukasw;ik
+匯	qdy	q;dfyj
 霜	dfi	daffij
+盜	dub	dfu;bk
 域	axj	afxfjfef
-附	aam	aamfkl
+附	amk	aamfkl
+恆	ied	ifeddj
 幽	vva	vdvdad
+豐	rra	r;r;adb;
 煤	sjf	sfjdff
 慧	rrk	r;r;k.if
+鏡	gjm	gfjlms
 娶	iku	i;kfuj
-遂	lwp	ljwkpk
-斌	uxl	ukxflf
+飾	bmv	bjm;vl
+撐	kkc	kkcaia
+鋒	glr	gfldr;
+遂	ljp	ljwkpk
 控	kcz	kkcvzf
+殼	gqe	gsqkefo;xs
+擋	kca	kkcaaj
 覆	yom	ylofm;sjld
 烤	shz	sfhozx
-徵	ogk	ofadefgdk;
+徵	oak	ofadefmvk;
 暨	ulu	ulupsh
 庭	com	cjogmv
+濃	djn	dfjbnl
 割	crg	cfr;jfgj
 消	dwd	dfwddj
 隆	ale	aaldefrs
 撤	khd	kkhvdjk;
 粥	xrx	xjrkxj
 馨	jhx	jhxsj,
-曼	sek	sjeakf
+曼	vek	v;eakf
+滬	dfc	dfcsjfns
+塗	dca	dfciaf
 妻	etu	efteuj
+灣	dvx	dfvrxj
+潤	dcg	dfcdgd
 廖	cym	cjy;mfw;
 冠	vuk	v;uwkl
+蓮	rlo	rfljoj
+獸	zjp	zajfpl
 婚	uts	ujtqsj
-敬	rhk	rfhjjfk;
+攝	kei	kkesi;
+醫	qxx	q;xlxsbl
+閣	cdl	cdldjf
+敬	rjk	rfhjjfk;
 昂	smm	sjmjmk
+飽	bhh	bjhjhs
 葛	rsh	rfsjhjt;
 桑	ekf	eskfff
+續	vge	vfgseanj
 苑	rfm	rfdkmk
 迎	lmm	ljmjmk
+膠	dym	djy;mfw;
 摔	kvw	kkvewaej
+撈	kss	kksfsfqkkkzj
 蒸	rks	rfkysf
 符	fmk	fjmfkl
 吼	jhq	jfhfqd
 研	aek	awefks
+爺	zia	zii;aa
+霧	dxl	daxwldzj
 珍	gmw	gdmfw;
 嗨	jdh	jfdfhi
-捧	kks	kkkskk
+捧	kkk	kkkskk
 舔	jui	jkurif
-喃	jeg	jfejqkgl
+贊	lln	lxlxnj
+喃	jeq	jfejqkgl
+簡	fcs	fjcdsj
+豔	rrb	r;r;adb;ugbk
 溪	dkv	dfkavduf
+罰	ejg	eajjgj
+鄒	hra	hjrdhjrdaa
 洲	dfw	dfwadd
 湘	dij	dfffij
+隱	akz	aakazfk.if
 餐	ikb	ickfbj
 染	dkf	dfkeff
+藝	rau	rfacuod;
 炮	shh	sfhjhs
+鴻	dzy	dfzfyf
+攜	kay	kkadyjccjf
+腎	tkd	t/kfdj
+撲	kzu	kkzluf
 萍	rdj	rfdfjv
 捐	kjd	kkjfdj
+薑	rea	rfesajaj
 荷	rmj	rfmfja
+畝	cam	chajmz
 棉	fsv	ffslvl
-嗲	jzi	jfziie
+擊	oqx	ojqlxskj
+貸	mxn	mfx;nj
+傾	mmi	mfmjik
 瞧	iys	ijyjsf
 沉	dqo	dfqko;
-憋	vwk	vlwak;if
+潔	drg	dfr;gjvf
 盟	sdb	sjdjbk
 延	owl	ogwjlf
+嶺	ami	admiik
+護	jyk	jjyikf
 碧	gsa	gdslaw
 籍	fzd	fjzudm
-哲	kzj	kkzkjf
+燙	dss	dfsisf
+銘	gdj	gfdkjf
+哲	kkz	kkzkjf
 菌	rqr	rfqjrj
-傅	mfa	mfa;kl
+敵	f,j	f,jfk;
+傅	mak	mfa;kl
+譯	jet	jjeath
 殿	mkx	mlkwxs
+驢	ppa	pdp;ajbk
+勢	auz	acuozj
 妮	umm	ujmlmj
+兇	wqm	wlqlms
+鷹	cyy	cjmfyjyf
 摘	kfj	kkf,jf
+搖	kib	kkidbz
+勞	ssz	sfsfqkzj
 渡	dce	dfcjemkf
+奪	uyk	ufyjkl
 乳	khq	kahfqd
-浜	dks	dfzkks
-薇	roa	rfofadefo;k;
+齣	iqh	iqhjjf
+薇	roa	rfofadefmsk;
 淫	dkz	dfkazg
 拽	ksw	kksewj
+職	ijx	i;jlxf
 莉	rrg	rfrjgj
+櫃	fqk	ffq;kinj
 握	kmx	kkmlxk
+謀	jjf	jjjdff
 邵	gja	gjjfaa
+墊	tua	thuoaf
 宣	ces	cfedsj
 妍	uek	ujefks
+膽	dma	djmaaswkjj
 穆	rsw	rjslwdw;
 啃	jld	jflfdj
-塘	ajj	afjyjf
+漸	doz	dfojzk
+塘	afj	afjyjf
 逢	llr	ljldr;
-壁	mja	mljftkaf
+壁	mjt	mljftkaf
+爐	spa	sfp;ajbk
 漆	dff	dffffo
+暫	ozs	ojzksj
+縫	vll	vfljldr;
 菊	rhr	rfhjrk
 岸	aax	adasxh
+膩	dxe	djx;ednj
+脈	djw	djwhmd
+嚐	jcj	jfcaji
 烈	igs	icgjsf
 矮	xru	xlrjuj
 婆	diu	dfi.uj
 蝶	nef	nfeuff
+誇	juj	jjufjz
 枕	fqm	ffqkms
+毀	bax	baafxs
 避	lmj	ljmljftk
-浮	dkh	dfkahf
+綁	vra	vfr;aa
+悅	ifj	ifjsms
+浮	dfk	dfkahf
 盈	hkb	hhkfbk
 耀	syy	say;yj
+獻	pbp	p;bupl
+審	cpa	cfpwaj
+茲	rvv	rfvdvd
+穎	mri	mjrjik
 萌	rsd	rfsjdj
 斑	gug	gdukgd
 澡	dej	dfesjfff
+牽	vqp	veqkpf
 娟	ujd	ujjfdj
 怨	dmi	dkmkif
+癢	opb	oopjbj
+複	vms	vkm;sjld
 柴	lmf	lfmjff
 熙	ths	t/hssf
-漫	dse	dfsjeakf
+糧	rka	rkshal
+參	eqm	esqamfw;
+譜	jus	jjuesj
+褲	vco	vkcjoj
+紮	fqv	ffqdvf
+縮	vcm	vfcfmfso
+漫	dve	dfv;eakf
 溜	dga	dfgkaj
+彥	uka	ukasw;
+棄	hef	hvemff
 婷	ucz	ujckzs
-堡	mfj	mfjfffaf
+憂	iil	ikifld
+堡	mja	mfjfffaf
 淘	dhb	dfhjbz
 墓	rsa	rfsjufaf
-卿	mum	mkulmk
+嬌	uwu	ujwjufck
+遞	lwp	ljwhp;
+卿	mku	mkulmk
+鶴	qyy	qkyjyf
+確	aqy	awqkyj
 郡	tja	tejfaa
-映	sju	sjqkuf
-澳	dcr	dfcfrkuf
+協	eez	ejeszj
+瓊	gmc	gdmaccijk;
+髒	iri	iwrficmjks
+映	squ	sjqkuf
+粵	cpj	cfpwjz
+銷	gwd	gfwddj
+澳	dcu	dfcfpwuf
 候	meq	mfehqhxl
+堅	tka	t/kfaf
 邀	lso	ljslodk;
 佩	mbv	mfbevl
-藤	rfo	rfo,df
+適	lfj	ljf,jf
+藤	rod	rfo,df
 雁	amy	asmfyj
+俠	mum	mfufmd
 倪	mbm	mfbams
-癌	oea	ooesjfad
+務	xlz	xwldzj
+癌	oej	ooesjfad
 拷	khz	kkhozx
 猴	pmq	plmfqhxl
 掏	khb	kkhjbz
-撮	ksi	kksji;kf
+撮	kvi	kkv;i;kf
 揉	kxf	kkxwff
+醬	oib	olidklbl
+繡	vtd	vftedh
 蜜	cxn	cfx,nf
 漂	dyt	dfyltj
 梨	rgf	rjgjff
@@ -22863,127 +23162,217 @@ encoder:
 蟹	pgn	prgjpfnf
 陷	amb	aamaba
 慌	irt	ifrft;dd
+蔥	rci	rfcgif
 瘤	oga	oogkaj
 踏	lds	lldfsj
-捷	kel	kkefk.lf
+捷	kek	kkefk.lf
+縱	vom	vfofmdlf
+壇	acs	afcxsh
+觸	pen	preahjnf
+瑩	sqg	sfsfqkgd
 悟	iej	ifegjf
+燉	sck	sfcok;
 帽	vvi	vlv;ij
+擁	kcc	kkchc/yj
+猶	pwb	plwkbl
 壹	gsq	gsqkb;
 霸	dzd	daz.dj
 席	cev	cjemvl
+繫	oqv	ojqlxsvf
+擔	kma	kkmaaswkjj
 儒	mdi	mfdaiv
 御	ozl	ofz;lfmk
 腔	dcz	djcvzf
 刑	efk	efksgj
+賓	cel	cfeflanj
+攤	khy	kkh/yj
 蕾	rfd	rfdaaj
+臟	drx	djrfxfolt/
 境	ajm	afjlms
 毅	upx	udpkxs
 蓉	rcj	rfcvjs
-警	rhj	rfhjjfk;jj
+憶	iji	ifjlif
+遷	lyu	ljylufmk
+潛	duu	dfupupsj
+警	rkj	rfhjjfk;jj
 揭	ksh	kksjhjt;
+謂	jad	jjajdj
 昭	sjg	sjgjjf
 宿	cms	cfmfso
+統	vhm	vfhvms
 裂	igv	icgjvj
+慣	inn	ifnunj
 裙	vtj	vktejf
-揍	kur	kkksur
+揍	kks	kkksur
+鉤	ghj	gfhjjf
+疊	eaq	esajqktm
 埃	aqx	afqaxl
+揮	kqo	kkqkoj
+遙	lib	ljidbz
+壺	gqq	gsqkqg
 兜	sgm	slgkms
-掐	kmb	kkmaba
 稀	rwk	rjwlkdvl
 棍	fsm	ffsjmm
-啵	jdf	jfdfi.
 淑	dxk	dfxpkf
-慕	rsi	rfsjufif
+慕	rui	rfsjufif
 歇	sht	sjhjt;u;
 疏	lhd	lohvdd
+壩	adz	afdaz.dj
+纏	vca	vfcjalwkaf
+鹹	bxj	bpxejf
+聰	ici	i;cgif
+捱	kaa	kkasag
 碳	aak	awadkdsf
+銳	gfj	gfjsms
 糊	rjd	rkj;dj
+儲	mjs	mfjjsd
 楠	feq	ffejqkgl
 祭	ikt	idkftj
-嘞	jzz	jfz.zj
 繁	hkv	hik;vf
-穗	rvi	rjvgif
+穗	rjv	rjvgif
 蹲	lwb	llwkblkl
-幕	rsv	rfsjufvl
+紹	vfg	vfgjjf
+幕	rsu	rfsjufvl
 遮	lce	ljcjemsf
-臂	mjt	mljftkdj
+賦	nxl	njxflf
+臂	mjd	mljftkdj
+樁	fkb	ffksba
 敷	aok	a;odk;
-邢	efa	efksaa
+瑤	gib	gdidbz
+歷	arr	asrjrjlf
+躍	lyy	lly;yj
+範	fom	fjojmk
+邢	eka	efksaa
+擰	kzs	kkcfifbkzs
 莎	rdw	rfdfwe
-趣	lik	lki;kf
+糞	rak	rkajkw
+濱	dcn	dfcfeflanj
+議	jpx	jjpjxd
+趣	lki	lki;kf
 渠	dzf	dfzvff
+閱	cjm	cdjsms
 崇	act	adcftj
-涅	dsa	dfsjaf
+擴	kch	kkcjh;
+傢	mcp	mfcfpk
 挪	kia	kkiraa
-荒	rft	rft;dd
+荒	rtd	rft;dd
 筋	fdz	fjdjzj
 撕	kbz	kkbszk
 戳	yyx	y;yjxf
 蹦	lan	lladnm
 焊	ssx	sfsjxh
+趨	lhr	lkhjrdhjrd
 艘	oks	oksckf
-喵	jra	jfrfaj
+競	ujm	udjfmsudjfms
 咒	jjo	jfjfo;
-姿	dsu	dsu;uj
-琦	guj	gdufja
+釋	pet	pweath
+姿	euu	edu;uj
+湧	dbz	dfbozj
 樊	wfu	wsffffuf
+漿	oid	olidkldf
+閻	cmb	cdmaba
+攪	khi	kkheim
 泛	dwl	dfwjls
 佑	mkj	mfkdjf
+鮑	nhh	nkhjhs
+閥	cmx	cdmfxf
 咽	jfq	jfqjuf
 激	dso	dfslodk;
+階	ams	aammsl
 蠢	ksn	kssjnfnf
+嘯	jtd	jftedh
+屍	mli	mlicmj
 倚	muj	mfufja
+灘	dhy	dfh/yj
 姨	uux	ujufxj
 茹	ruj	rfujjf
 捂	kke	kkegjf
+鄰	rla	rkleaa
+織	vjx	vfjlxf
 蒲	rfa	rfdfa;
+驅	pqe	pdq;esjf
+攔	kcf	kkcdfe
 嚼	jke	jfkaeaulkl
 燃	sip	sfidplsf
-煲	mfs	mfjfffsf
+暉	sjo	sjqkoj
+謎	jlr	jjljrk
 磷	arl	awrkle
-脆	dma	djmaasmk
+脆	dam	djmaasmk
+墜	awa	aawkpkaf
 衡	oma	ofmaajuf
-鄂	jfa	jfjfjzaa
+皺	hri	hjrdhjrdi.
+擇	ket	kkeath
+櫻	fnn	ffnjnjuj
+窯	cps	cvpjsf
+鄂	jfj	jfjfjzaa
+叢	zik	zli;kf
 磁	apv	awpuvdvd
 沃	dwu	dfwjuf
+辯	tjt	tkjjtk
 浸	dkq	dfk.qkkf
 跪	lma	llmaasmk
-瓷	duz	dsu;zw
-踹	lla	lladiv
+攬	kti	kktpim
+輯	oji	ojjfi;
+瓷	euz	edu;zw
+澀	dgl	dfgjwfgjwflflf
+踹	lai	lladiv
+瀉	dcb	dfcfbayv
+遼	les	ljefsfsjwd
+豎	tkb	t/kfb;
 宴	csu	cfsjuj
+擱	kcl	kkcdldjf
 麟	prl	perkle
+憲	cre	cfr;eaif
+遺	lkn	ljkinj
 聘	ixz	i;xazx
+喚	jmc	jfmaccuf
 郁	kda	kddjaa
 逝	lkz	ljkkzk
+際	aik	aaidkftj
+誌	jgi	jjgsif
 塌	asy	afsjy;
 崖	aaa	adasag
 婉	ucd	ujcfdkmk
 攀	wff	wsffffufkj
+獅	phe	plhaefvl
 喘	jai	jfadiv
 鞍	zcu	z.cfuj
+竇	cge	cvgseanj
+墳	arn	afrdnj
 瑟	ggx	gdgdx,
 揪	kkr	kkrjsf
+築	fzf	fjzrff
+癮	oai	ooaakazfk.if
 削	wdg	wddjgj
-悠	mek	mfehk;if
+悠	mei	mfehk;if
 睿	tqe	tfqkefwkmfij
 葬	rim	rficmjks
 咦	jux	jfufxj
 瞪	ilb	ijl;b;
 詹	maw	maaswkjj
-侃	mjd	mfjfdd
+侃	mfj	mfjfdd
 授	kkq	kkkaqkkf
 卸	zlm	z;lfmk
 慈	pvv	puvdvdif
+闊	cdj	cddfjk
+纖	vmx	vfmdxfrh
 瞄	ira	ijrfaj
+駱	plj	pdldjf
 鞭	zmk	z.mfk/
+楞	feo	ffeaod
 危	mam	maasmk
-喉	jmx	jfmfqhxl
+喉	jmq	jfmfqhxl
 溶	dcj	dfcvjs
 察	cik	cfidkftj
+駿	pqm	pdqamsld
+黴	ofa	ofadefssk;
+鈞	ghe	gfhjed
+憐	irl	ifrkle
 橙	flb	ffl;b;
 辨	tgt	tkgjtk
 暮	rss	rfsjufsj
 薪	ruf	rfudffzk
+煥	smc	sfmaccuf
 蜀	ehn	eahjnf
 藕	rzn	rfzunv
 劈	mtg	mljftkgj
@@ -22991,16 +23380,17 @@ encoder:
 澄	dlb	dfl;b;
 冥	qsc	qksjcr
 媒	ujf	ujjdff
-垮	auj	afufjz
+燦	sik	sfickfrk
+垮	afu	afufjz
 塑	uda	ucdjaf
+慾	dgu	dgu;if
 搏	kak	kka;kl
 蒜	rtt	rftjtj
 腐	cmi	cjmfklid
-据	kmj	kkmlj;
 浙	dfz	dfkkzk
 栓	fmg	ffmfgd
 梳	fhd	ffhvdd
-筱	fme	fjmfehk;
+餡	bmb	bjmaba
 誓	kkj	kkzkjj
 蜂	nlr	nfldr;
 曦	spr	sjpjrjxfzx
@@ -23009,2309 +23399,1240 @@ encoder:
 嫂	usk	ujsckf
 黛	mxs	mfx;ss
 挨	kqx	kkqaxl
-茨	rdu	rfdsu;
-婕	uel	ujefk.lf
+綱	vfv	vfvsad
 弊	vkk	vlwak;ks
+貳	xen	x;ednj
+蠟	ndp	nfddpg
 稻	rkb	rjkaba
+綺	vuj	vfufja
+荊	rek	rfefksgj
+桿	fsx	ffsjxh
 蕊	rei	rfesif
+盪	dsb	dfsibk
 氨	doc	docfuj
 愣	ieo	ifeaod
+瀾	dcf	dfcdfe
 葵	rlu	rfl;ur
 磕	aub	awugbk
+顫	csi	cxshik
 渴	dsh	dfsjhjt;
 撇	kvk	kkvlwak;
-蔚	rtk	rfmltjkl
+絡	vlj	vfldjf
+蔚	rmt	rfmltjkl
+鎂	gpu	gfpjuf
+復	oms	ofm;sjld
 瓣	tft	tkf;tk
+況	djm	dfjfms
 惑	xei	xfjfefif
-墩	ack	afcok;
-徽	oak	ofadefvfk;
+簾	fck	fjcjku
+徽	ovk	ofadefvfk;
+噓	jpa	jfp;ae
+瞞	iee	ijemee
 蓄	rva	rfveaj
+濺	dnx	dfnjxg
 寇	cuk	cfusk;
+獵	pdp	plddpg
+葷	rqo	rfqkoj
 蓬	rll	rfljldr;
-硫	awh	awhvdd
+硫	ahd	awhvdd
 俏	mfw	mfwddj
 貌	psm	p.slms
 舜	kql	kaqkle
-炭	aks	adkdsf
-萱	rce	rfcfedsj
-掀	kzu	kkzku;
-掩	kku	kkufse
+廚	cjj	cjjgkl
+炭	adk	adkdsf
+綿	vsv	vfslvl
+搗	kya	kkyfad
+萱	rcs	rfcfedsj
+掀	kku	kkzku;
+誘	jrh	jjrjhh
+睜	ijk	ijkate
+掩	kus	kkufse
 蹬	llb	lll;b;
 椅	fuj	ffufja
+遜	lhw	ljhfwjvf
 甄	yaz	ylafzw
 抑	kmm	kkmjmk
 侵	mkq	mfk.qkkf
 概	fuu	ffulup
-呦	jvz	jfvdzj
+鬆	hwf	hlw;ffjs
 捆	kqf	kkqjff
+厭	asp	assjdjpl
+峽	aum	adufmd
+寢	cok	cfolk.qkkf
+僑	mwu	mfwjufck
 腕	dcd	djcfdkmk
-挫	kma	kkmdaf
+挫	kkm	kkmdaf
 膝	djf	djfffo
 嗦	jev	jfejqkvf
-璇	gol	gdovlo
 眨	iwl	ijwjls
 臀	mkd	mlkwxsdj
 努	ukz	ujkfzj
+徹	ohd	ofhvdjk;
+廈	cil	cjikld
 掘	kml	kkmllv
 茗	rdk	rfdkjf
-璐	gll	gdllldjf
+擾	kii	kkikifld
+襯	vuf	vkudffim
 雌	lmy	lfmjyj
-掰	kgk	kjgmkj
 雕	ajy	akjfyj
+嬰	nnu	njnjuj
 痣	ogi	oogsif
-隋	akz	aakdzfdj
+廂	cfi	cjffij
+隋	akd	aakdzfdj
+蘊	rvq	rfvfqjmfbk
+棲	fet	ffefteuj
 瑛	grq	gdrfqkuf
-掂	kct	kkcjtv
+矯	xwu	xlwjufck
+竅	cso	cvslodk;
+繆	vym	vfy;mfw;
+鎳	gif	gfilff
+嘔	jqe	jfq;esjf
 遣	lkh	ljkiha
 皖	slc	slcfus
 糕	rps	rkpjsf
+彙	pqf	p,qkfa
 蘸	rby	rfblyjsf
-茵	rfu	rfqjuf
+茵	rfq	rfqjuf
 簿	fda	fjdfa;kl
 呸	jfk	jffkef
 胤	mvd	msvddj
+蹤	lom	llofmdlf
 桓	fes	ffedsj
 碘	atk	awtbks
-瞅	irs	ijrjsf
 廊	cca	cjczaa
 焰	smb	sfmaba
+壘	eaa	esajaf
 屑	mwd	mlwddj
 嵌	aju	adjdu;
 袍	vhh	vkhjhs
+菴	rus	rfufse
 僵	mea	mfesajaj
+饞	bpp	bjphph
 臻	xkr	xkksrj
 寂	cxk	cfxpkf
+醣	bjj	bljyjf
 晏	scu	sjcfuj
+蘿	rev	rfeavfyj
 藻	rde	rfdfesjfff
 螺	nav	nfajvf
+錠	gcl	gfcflg
+診	jmw	jjmfw;
 涯	daa	dfasag
 滋	dpv	dfpuvdvd
-嗜	jfs	jfhosj
+蘆	rpa	rfp;ajbk
+嗜	jfh	jfhosj
+療	oes	ooefsfsjwd
+滲	dew	dfesqamfw;
+瀝	dal	dfasrjrjlf
+筍	fhs	fjhjsj
 捻	kbi	kkbrif
 勃	eqh	ejqkhfzj
 描	kra	kkrfaj
+膚	pad	p;ajdj
 契	rgu	r;gjuf
-峻	aql	adqawkld
+陝	amm	aaufmfmf
+峻	aqm	adqamsld
 稠	raj	rjakjf
-爵	kek	kaeaulkl
+爵	keu	kaeaulkl
 刨	hhg	hjhsgj
 雍	ccy	chc/yj
 群	tjp	tejfpj
+麵	rli	rlldi,
 烙	slj	sfldjf
-强	xjn	xjjfnf
 髓	ilk	iwljkdzfdj
 嫣	uly	ujlgyv
 募	rsz	rfsjufzj
 苟	rfj	rfhjjf
-棕	fft	ffcftj
+篩	fhe	fjhaefvl
+棕	ffc	ffcftj
 倦	mrm	mfrimk
 疆	xae	xjafesajaj
-蔓	rse	rfsjeakf
+蔓	rve	rfv;eakf
 霆	dom	daogmv
+蠶	uun	upupsjnfnf
+嘰	jvm	jfvdvdxfmf
+慮	pai	p;ajif
 眸	iqp	ijqapf
-烟	squ	sfqjuf
+惱	idi	ifddig
 艇	oom	okogmv
-熔	sfc	sfcvjs
+熔	scj	sfcvjs
 寡	cig	cfikgj
+擲	kwb	kkwkblufaa
+蔔	rht	rfhjtu
 迥	lqj	ljqkjf
+巖	ajk	adjfjfaskp
 瞬	ikq	ijkaqkle
-榕	fcj	ffcvjs
+鉻	glj	gfldjf
+榕	ffj	ffcvjs
 庸	cta	cjteak
-埠	ahe	afhaej
-茬	rff	rfflaf
+渾	dfq	dfqkoj
+窺	cui	cvuaim
+埠	afh	afhaej
+奮	uya	ufyjaj
+剎	wrg	wlrugj
+濁	deh	dfeahjnf
+濾	dpa	dfp;ajif
 嗅	jip	jfilpl
+簫	ftd	fjtedh
 慰	mtk	mltjklif
 履	mom	mlofm;sjld
 宛	cdm	cfdkmk
+襪	vre	vkrfeaxfmf
 嫖	uyt	ujyltj
+獄	pjp	pljjpl
+闢	cmj	cdmljftk
 涮	dmv	dfmlvlgj
 督	xki	xpkfij
-摁	kqi	kkqjufif
-崽	aai	adajif
+貶	nwl	njwjls
 裔	vcj	vjccjf
-琛	gqf	gdqkwkff
 簇	fox	fjovxl
-崎	adu	adufja
+償	mcn	mfcanj
+澗	dcs	dfcdsj
+殤	ims	icm;si
+崎	auj	adufja
+贛	tlz	t,ldzfnj
+蕩	rds	rfdfsi
 砌	agg	awg;gj
 淹	dus	dfufse
-溟	dqs	dfqksjcr
-澈	dhk	dfhvdjk;
+慼	xti	xetfwdif
+蟻	npx	nfpjxd
+澈	ddk	dfhvdjk;
 瞥	vwi	vlwak;ij
+崑	asm	adsjmm
+墮	aka	aakdzfdjaf
+懼	iii	ifijijyj
 椰	fia	ffi;aa
 梢	fwd	ffwddj
 嘟	jsa	jfsdaa
+瀟	drt	dfrftedh
 霄	daw	dawddj
 揣	kai	kkadiv
-唆	jql	jfqawkld
+唆	jql	jfqamsld
+綜	vfc	vfcftj
+詢	jhs	jjhjsj
+劃	tae	tdajefgj
 拴	kmg	kkmfgd
+聳	omi	ofmdlfi;
+燭	seh	sfeahjnf
+襖	vcp	vkcfpwuf
+臘	ddp	djddpg
 堰	aqs	afq;sjuj
-棺	ffc	ffcfha
+棺	ffh	ffcfha
 腥	dsr	djsjrs
-胞	djh	djhjhs
-韶	jlg	jlgjjf
+胞	dhh	djhjhs
+羨	pdu	pjdfu;
+韶	jgj	jlgjjf
 羹	psp	pjsfpjuf
 煜	ssu	sfsjud
+竊	cpt	cvpwtfccng
 撩	kes	kkefsfsjwd
 桔	fgj	ffgsjf
+轄	ocr	ojcfr;jf
 臧	xot	xfolt/
 喀	jcl	jfcfldjf
 弩	ukx	ujkfxj
 瞿	iiy	ijijyj
 哨	jwd	jfwddj
-懿	gqb	gsqkb;dsu;if
+鑿	zbx	zlbaxsgf
+鋸	gmj	gfmlj;
+膿	djb	djjbnl
+懿	gqb	gsqkb;edu;if
+蔭	rab	rfaabrd;
 椒	ffx	ffxpkf
 煌	ssg	sfslgd
 瀚	doy	dfory;
+絹	vjd	vfjfdj
+僱	mcy	mfcsyj
 泓	dxq	dfxjqa
-柒	dgf	dfg;ff
+錳	ghb	gfhfbk
+鱗	nrl	nkrkle
 筐	fjq	fjq;gd
 膊	dak	dja;kl
 遵	lwk	ljwkblkl
-嗒	jrb	jfrfbf
+摺	kys	kky;sl
 剁	ofg	o;ffgj
-搽	krm	kkrfmfff
+彆	vwx	vlwak;xj
+鏟	gua	gfudasrs
+驛	pde	pdeath
+鱉	vwn	vlwak;nk
+憤	irn	ifrdnj
+鶯	ssy	sfsfqkyf
+緻	vxl	vfxkld
+塚	aqp	afqkpk
+燜	sci	sfcdif
+搽	krf	kkrfmfff
+勵	anz	asnczj
 毓	hhd	hihvdd
-黏	rjf	rjfotv
+黏	rft	rjfotv
 瞟	iyt	ijyltj
 舅	baz	baajzj
+錚	gkt	gfkate
 恕	uji	ujjfif
+轎	owu	ojwjufck
+繭	rvn	rfvlvfnf
+鬱	fbf	ffbzffqkb/w;
+曠	sch	sjcjh;
 褪	vlu	vkljul
 鞠	zhr	z.hjrk
 酬	bwd	blwadd
 橘	fxc	ffxwccjf
 啪	jks	jfkksl
+殲	imr	icmdxfrh
+樸	fzu	ffzluf
 窟	cml	cvmllv
-奚	kvu	kavduf
-腮	dai	djajif
+奚	kav	kavduf
+誼	jct	jjcftm
+腮	dja	djajif
+鍍	gce	gfcjemkf
 涓	dfd	dfjfdj
+蠱	enb	esnfbk
 猿	paj	plafjfvk
 漠	drs	dfrfsjuf
-撬	kei	kkesi/
+撬	kki	kkesi/
 巍	aru	adrjujtl
 漾	dpd	dfpjdv
-擎	rkk	rfhjjfk;kj
+擎	rhk	rfhjjfk;kj
 俐	mrg	mfrjgj
 胚	dfe	djfkef
 楷	fms	ffmmsl
+詔	jjg	jjgjjf
 嗣	jtj	jftbjw
+驕	pwu	pdwjufck
+穫	ryk	rjyikf
+潰	dkn	dfkinj
 褐	vsh	vksjhjt;
-梭	fqw	ffqawkld
-唷	jfd	jfhvdj
-曜	sjy	sjy;yj
-砼	awm	awmfzf
+梭	fql	ffqamsld
+槓	fzn	ffzfnj
+唷	jhd	jfhvdj
+廬	cpb	cjp;ajbk
 粽	rct	rkcftj
-唑	jmd	jfmdaf
+韌	lgw	lzgjwf
+囉	jey	jfeavfyj
 宵	cwd	cfwddj
+釵	gkw	gfkfwf
 絮	ujv	ujjfvf
-罕	qwx	qkwkxh
+剷	uag	udasrsgj
+罕	qmx	qkmsxh
+箏	fkt	fjkate
 俯	mcm	mfcjmfkl
 肇	ckt	csk;td
-摞	kav	kkajvf
-璧	mlg	mljftkge
+窪	cda	cvdfag
+璧	mjg	mljftkge
+挾	kum	kkufmd
 捎	kwd	kkwddj
-嘀	jff	jff,jf
+嘀	jf,	jff,jf
+斃	vwm	vlwak;icmj
 犁	rgp	rjgjpf
-恁	mzi	mfzgif
+鷗	qey	q;esjfyf
 癖	omj	oomljftk
 孽	rhh	rfhatkhf
 岱	mxa	mfx;ad
-嚎	jcp	jfckpk
-摧	kay	kkadyj
+嚎	jfp	jfckpk
+鏢	gyt	gfyltj
+摧	kka	kkadyj
 械	fxk	ffxfks
 凋	daj	dsakjf
-蕙	rfv	rfvgif
+蕙	rvi	rfvgif
 噗	jzu	jfzluf
-筠	fah	fjafhjds
-咔	jet	jfektf
+筠	fah	fjafhjed
+諧	jms	jjmmsl
 喧	jce	jfcfedsj
+癲	oti	ootgik
 瓢	ytf	yltjf;
+嚕	jns	jfnksj
+謊	jrt	jjrft;dd
 晤	sje	sjegjf
 竭	ush	udsjhjt;
 擅	kcs	kkcxsh
-檐	fma	ffmaaswkjj
+韜	lzk	lzkaba
 檀	ffs	ffcxsh
-坯	afe	affkef
 葡	rha	rfhja;
-溴	dip	dfilpl
+縛	vak	vfa;kl
+嬸	uca	ujcfpwaj
+壙	afc	afcjh;
+蠍	nsh	nfsjhjt;u;
 垣	aes	afedsj
 拘	khj	kkhjjf
-箍	fkq	fjkkq;vl
 躁	lej	llesjfff
 噬	jfz	jffjzfmd
+穀	gqx	gsqkefrjxs
 蓓	rfi	rfmffi
+癱	ohy	ooh/yj
 鞘	zwd	z.wddj
+瀨	dfn	dffdgjnj
 凳	lbo	l;b;o;
 隙	aws	aawdsjwd
+驟	pik	pdi;kfmd
 莞	rcu	rfcfus
-荃	rmg	rfmfgd
+曆	ars	asrjrjsj
+謠	jib	jjidbz
 拭	kxz	kkx;zf
+醃	bus	blufse
 墅	aqa	alqwaf
-懵	iri	ifrfeaqkij
+懵	ire	ifrfeaqkij
 禧	tjj	tjjgjf
-榨	ffz	ffcvzd
+鷺	lly	llldjfyf
+鵑	jdy	jfdjyf
+脅	ezd	eszjdj
+榨	fcz	ffcvzd
+苞	rhs	rfhjhs
 戚	xtw	xetfwd
 礁	ays	awyjsf
+睏	iqf	ijqjff
 瞻	ima	ijmaaswkjj
 脖	deq	djejqkhf
 襟	vft	vkfgtj
-尉	mlt	mltjkl
+尉	mlk	mltjkl
+蘋	rfl	rflrik
 悄	iwd	ifwddj
+貯	ncz	njcfzs
+僕	mzu	mfzluf
+頰	umi	ufmdik
 糙	rlp	rkljpv
 炯	sqj	sfqkjf
 盔	ksb	kdsfbk
+鬢	hwc	hlw;cfeflanj
 荔	rez	rfeszj
+籲	fji	fjjtik
+鯊	dwn	dfwenk
 藩	rdp	rfdfpwaj
+贖	nge	njgseanj
 憾	ixj	ifxejfif
-浣	dcu	dfcfus
-囿	qkd	qjkddj
+滌	dmf	dfmfehk;ff
+嶽	apj	adpljjpl
 褒	vmj	vjmfjfff
 渭	dad	dfajdj
 嘻	jjj	jfjgjf
-喏	jrj	jfrfkdjf
+錨	gra	gfrfaj
 熄	sii	sfilif
-烯	swv	sfwlkdvl
-捋	kka	kkkakl
 薯	res	rfeasd
+禦	ozt	ofz;lfmktj
 蕉	rys	rfyjsf
-荀	rhs	rfhjsj
-逍	lwd	ljwddj
+荀	rsj	rfhjsj
+逍	ljw	ljwddj
 拗	kvz	kkvdzj
+轍	ohk	ojhvdjk;
+鐸	get	gfeath
 倭	mru	mfrjuj
+熾	sjx	sfjlxf
 莽	rpk	rfplks
+毆	qex	q;esjfxs
+槳	oif	olidklff
 恪	ifl	ifldjf
-醯	bhd	blhvddbk
+噹	jca	jfcaaj
+軀	hqe	hmq;esjf
 豁	crd	cfr;jfdg
-胰	djx	djufxj
+驥	pmt	pdmuto
+胰	dux	djufxj
+啟	cjk	csjfk;
+纜	vti	vftpim
+鑼	gev	gfeavfyj
+廁	cng	cjnjgj
 撼	kxj	kkxejfif
+雛	hrh	hjrdhjrdyj
 痞	ofj	oofkjf
 瘟	osb	oosjbk
 樽	fwb	ffwkblkl
-椿	fks	ffkssj
+崢	akt	adkate
 寮	cew	cfefsfsjwd
-醛	brm	blrfmfgd
+繃	van	vfadnm
 悍	isx	ifsjxh
-浚	dql	dfqawkld
-捌	kig	kkixgj
+浚	dql	dfqamsld
+嘮	jsz	jfsfsfqkzj
 樵	fys	ffyjsf
 漪	dpu	dfplufja
+駒	pdh	pdhjjf
 蔽	rvw	rfvlwak;
-糯	rdi	rkdaiv
+鐳	gda	gfdaaj
+糯	riv	rkdaiv
 茫	rdt	rfdft;
 噎	jgq	jfgsqkb;
+狹	pum	plufmd
 凰	bsg	beslgd
 溺	dxd	dfxjdsxjds
-寰	cee	cfeaefjfvk
-璞	gzu	gdzluf
 霓	dbm	dabams
-醚	blr	blljrk
 硝	aww	awwddj
 厥	auu	asucu;
+凜	dcr	dscxrj
 跺	lof	llo;ff
-遛	lga	ljgkaj
 扼	kam	kkasmk
-晗	sbj	sjbrjf
+綢	vaj	vfakjf
+鋤	gtz	gftmzj
+誕	jow	jjogwjlf
 瘸	ooj	oojmid
-糠	rkw	rkjywa
+虜	paz	p;ajzj
+辮	tvt	tkvftk
+糠	rjw	rkjywa
 渺	diw	dfijwe
 瀛	dnu	dfnouj
-攥	kfi	kkfjijufvf
-腌	duf	djufse
-嗄	jil	jfikld
-珞	glj	gdldjf
 倔	mml	mfmllv
+諜	jje	jjeuff
 貂	pgj	p.gjjf
 踱	lck	llcjemkf
 恢	iks	ifkdsf
 彝	prv	p,rkvfks
-濮	dmz	dfmfzluf
-琨	gsm	gdsjmm
+綰	vch	vfcfha
+磯	avv	awvdvdxfmf
+廝	cbz	cjbszk
 寐	cof	cfolfs
-荻	rfp	rfplsf
-孬	fuh	fkujhf
+荻	rpl	rfplsf
 懈	ipg	ifprgjpf
 磐	oxa	okxsaw
-撅	kau	kkasucu;
-漱	dfu	dffdu;
-庶	cje	cjemsf
+漱	du;	dffdu;
+櫥	fcj	ffcjjgkl
+庶	cjs	cjemsf
+癬	onp	oonkpj
 釜	zgw	zigdwk
-挎	kuj	kkufjz
+釐	fka	fsk;asal
+隸	ftt	fftjtc
 匾	qct	q;cstb
-濡	ddi	dfdaiv
-痹	oao	ooajo;
+濡	dda	dfdaiv
+頹	rmi	rjmsik
+矇	irv	ijrfv;pk
+縈	sqv	sfsfqkvf
+嬪	uce	ujcfeflanj
 梧	fej	ffegjf
-哌	jwm	jfwhmd
-侑	mdj	mfkddj
+羈	ezp	eaz.pd
 熹	jjs	jgjfsf
-蹈	llk	llkaba
+蹈	lkb	llkaba
 秧	rjq	rjqkuf
-逞	ljg	ljjfgd
-脲	dml	djmldf
+沼	dgj	dfgjjf
+襠	vkc	vkcaaj
+慫	oli	ofmdlfif
+懲	oki	ofadefmvk;if
+逞	ljm	ljjfmv
+鰭	nhs	nkhosj
 窘	ctj	cvtejf
-蔫	rly	rflgyv
 溯	dud	dfucdj
 匿	qrk	q;rfkdjf
-崴	axu	adxeuj
-胯	dju	djufjz
+顱	pbi	p;ajbkik
 噤	jft	jffgtj
+弒	wrx	wlrux;zf
+謬	jym	jjy;mfw;
+甕	ccz	chc/yjzw
 噩	gej	gdeajf
+鬚	hww	hlw;w;ik
 蟒	nrp	nfrfplks
+攆	kuo	kkuauaoj
+巔	ati	adtgik
 燮	sjs	sfjjsfkf
 筷	fig	fjifga
+輿	kok	kxojks
+詭	jma	jjmaasmk
 滔	dkb	dfkaba
-敝	vlk	vlwak;
+檸	fci	ffcfifbkzs
+敝	vlw	vlwak;
+諮	jeu	jjedu;jf
 疹	omw	oomfw;
+瑣	gdw	gdwdnj
 摹	rsk	rfsjufkj
+樞	fqe	ffq;esjf
 渤	dez	dfejqkhfzj
-墟	apz	afp;zl
-烷	sfu	sfcfus
+蝨	ynn	yenfnf
+墟	apa	afp;ae
+綏	vku	vfkauj
 蹙	xtl	xetfwdll
-噪	jes	jfesjfff
-璟	gsc	gdsjcl
-攸	mfk	mfehk;
-膨	djw	djjgw;
-琉	gdh	gdhvdd
+噪	jef	jfesjfff
+膨	djg	djjgw;
+琉	ghd	gdhvdd
 榭	fhk	ffhmkl
-濠	dcp	dfckpk
+鐺	gca	gfcaaj
+爍	ssv	sfslvdvdff
+濠	dpk	dfckpk
 嬉	ujj	ujjgjf
 眶	iqg	ijq;gd
 稼	rcp	rjcfpk
 咎	ltj	ldtfjf
-潞	dfl	dfllldjf
+絢	vhs	vfhjsj
 馥	jml	j,m;sjld
-皋	sue	slufej
+穢	rlx	rjlfxela
 褂	vat	vkagtf
+墾	pua	p.ulaf
 廓	cjc	cjcoaa
 弼	xsx	xjsoxj
-偕	mms	mfmmsl
+偕	mfm	mfmmsl
 羲	prx	pjrjxfzx
+藺	rcy	rfcdyj
+軾	oxz	ojx;zf
+籬	fzy	fjzzyj
 熨	mts	mltjklsf
 犀	mdp	mldfpf
-咂	jfv	jfq;vl
-糗	rip	rkilpl
+摯	tuk	thuokj
 褶	vys	vky;sl
-垛	aof	afo;ff
 髻	hwg	hlw;gsjf
 擂	kkd	kkdaaj
 檬	frv	ffrfv;pk
 嘶	jbz	jfbszk
-昀	shd	sjhjds
-坳	avz	afvdzj
+昀	she	sjhjed
 槌	flh	ffljha
 吮	jqm	jfqams
 萎	rru	rfrjuj
 榻	fsy	ffsjy;
 嗡	jjy	jfjsy;
-瑄	gdc	gdcfedsj
-幡	vpa	vlpwaj
+漣	dlo	dfljoj
+燬	sba	sfbaafxs
+囑	jmd	jfmldfeahjnf
 篷	fll	fjljldr;
+騁	pxz	pdxazx
 嗑	jub	jfugbk
-偈	msh	mfsjhjt;
-蒽	rui	rfqjufif
+擄	kpz	kkp;ajzj
 曙	ses	sjeasd
-稽	rjk	rjkdji
+稽	rkd	rjkdji
 簪	fus	fjupupsj
 徙	oll	oflflf
-踮	llt	llcjtv
+觴	pms	prm;si
+纓	vnn	vfnjnjuj
+綻	vcl	vfcflg
+囂	eji	eajfik
+螢	ssn	sfsfqknf
 壑	idk	icdgkfaf
-嗪	jkr	jfksrj
+濂	dck	dfcjku
+謁	jst	jjsjhjt;
+讒	jph	jjphph
 溥	da;	dfa;kl
-鄢	lya	lgyvaa
-衙	oej	ofegjf
-鄙	jca	jfcxaa
-澎	djg	dfjgw;
+緇	vda	vfddaj
+衙	ofe	ofegjf
+懇	pui	p.ulif
+鄙	jfc	jfcxaa
+澎	dw;	dfjgw;
 宥	ckd	cfkddj
+頡	gji	gsjfik
 煽	scy	sfcsy;
+澱	dmx	dfmlkwxs
+餉	bcj	bjcfjf
 惶	isg	ifslgd
+輒	oiq	oji;qd
+顰	lix	lrikxz
 煦	shj	sjhjjfsf
-苡	rqm	rfqamf
 蝗	nsg	nfslgd
-暄	sce	sjcfedsj
+鱷	ngj	nkgdeajf
 陋	aeq	aaerqd
 戮	ymw	y;mfw;xf
-墉	aca	afcjteak
 揖	kji	kkjfi;
+攙	kkp	kkphph
 愕	ijj	ifjfjfjz
 唧	jum	jfulmk
 烽	slr	sfldr;
 慨	iuu	ifulup
-朦	drv	djrfv;pk
+朦	drp	djrfv;pk
 粱	dgr	dfgjwkrk
-膘	djy	djyltj
-蕃	rpa	rfpwaj
-傈	myf	mfylff
+詰	jgs	jjgsjf
+淒	deu	dfefteuj
+犢	pge	pfgseanj
+蕃	rfp	rfpwaj
+塹	oza	ojzkaf
+餿	bsk	bjsckf
 嫉	uox	ujooxl
-萘	rtj	rfuftj
-蜷	nrm	nfrimk
+蓆	rcv	rfcjemvl
+謨	jru	jjrfsjuf
 嗤	jln	jflsnf
 幌	vss	vlsjsa
 篆	fpp	fjp,pk
+傭	mca	mfcjteak
+慚	ioz	ifojzk
 扈	cjn	csjfns
 嫡	ufj	ujf,jf
 磬	jxa	jhxsaw
-嗖	jsk	jfsckf
+鍥	grg	gfr;gjuf
 婿	uld	ujlodj
-擀	kko	kkorxh
-喙	jpp	jfp,pk
 晰	sfz	sjffzk
 揩	kms	kkmmsl
 偃	mqs	mfq;sjuj
+濛	drv	dfrfv;pk
 酪	blj	blldjf
-咿	jmt	jfmfte
-幔	vse	vlsjeakf
-渥	dmx	dfmlxk
-蔗	rcs	rfcjemsf
+幔	vve	vlv;eakf
+渥	dfx	dfmlxk
+蔗	rce	rfcjemsf
 嗓	jek	jfeskfff
+籮	fev	fjeavfyj
 膛	djc	djcaaf
-孢	hhh	hfhjhs
-涔	dab	dfadbr
-浠	dfv	dfwlkdvl
-剿	dfg	ddfagj
+幟	vlx	vljlxf
+蛻	njm	nfjsms
+剿	ddf	ddfagj
 娑	dwe	dfweuj
 蔬	rlh	rflohvdd
-灞	ddz	dfdaz.dj
-蟾	nma	nfmaaswkjj
-腚	dlg	djcflg
-沏	dgg	dfg;gj
-嘌	jyt	jfyltj
+癒	ooi	oooiif
+憫	icu	ifcduk
+憊	mxi	mfx.if
+瀏	dgg	dfgkgfgj
+誡	jxk	jjxfks
+渙	dmc	dfmaccuf
 筵	fow	fjogwjlf
 掬	khr	kkhjrk
-纂	fiv	fjijufvf
-焗	smj	sfmlqfjf
-撂	kal	kkajldjf
+纂	fiu	fjijufvf
+鰓	nai	nkajif
+鬍	hwj	hlw;j;dj
 嗽	jfu	jffdu;
-悖	ieq	ifejqkhf
-郢	jga	jfgdaa
-雒	ljy	ldjfyj
-勐	hbz	hfbkzj
-蔻	rck	rfcfusk;
+悖	ieh	ifejqkhf
+銓	gmg	gfmfgd
+鏽	gtd	gftedh
 榴	fga	ffgkaj
+饑	bvv	bjvdvdxfmf
 榛	fkr	ffksrj
-筏	fmx	fjmfxf
+筏	fjm	fjmfxf
+銬	ghz	gfhozx
+奐	mcu	maccuf
+癩	ofn	oofdgjnj
 淅	dzk	dfffzk
 澹	dwj	dfmaaswkjj
-辟	mlj	mljftk
+辟	mlt	mljftk
+欖	fti	fftpim
+譏	jvv	jjvdvdxfmf
+莢	rum	rfufmd
+靄	djt	dajjsjhjt;
+顎	jji	jfjfjzik
+嶄	aoz	adojzk
 痢	org	oorjgj
-煸	sct	sfcstb
 濯	dyy	dfy;yj
-萼	rjz	rfjfjfjz
+萼	rjf	rfjfjfjz
 楔	frg	ffr;gjuf
-呲	jfl	jflfmj
-唰	jmv	jfmlvlgj
-煊	scs	sfcfedsj
-洵	dhs	dfhjsj
-犟	xjp	xjjfnfpf
+甌	qez	q;esjfzw
 峭	awd	adwddj
 惺	isr	ifsjrs
 僚	mes	mfefsfsjwd
 孵	gdk	gkdskahf
-罄	jxs	jhxsbz
+罄	jxb	jhxsbz
 髯	hlw	hlw;ir
-捺	kut	kkuftj
-懋	fxf	ffxwffif
+魘	ast	assjdjpltl
 寞	crs	cfrfsjuf
-畸	auf	ajufja
+櫓	fns	ffnksj
+畸	ajj	ajufja
 壕	acp	afckpk
-蕞	rsj	rfsji;kf
 涎	dow	dfogwjlf
 渲	des	dfcfedsj
+闋	clu	cdl;ur
 耽	iqm	i;qkms
 菅	rch	rfcfha
 猩	psr	plsjrs
+詮	jmg	jjmfgd
 疵	olm	oolfmj
 霾	dap	dap.al
-蹴	lcl	llclkd
 燎	sew	sfefsfsjwd
-熠	sys	sfy;sl
-殃	icq	icqkuf
-噼	jmj	jfmljftk
+闔	cub	cdugbk
+殃	iqu	icqkuf
 遏	lsh	ljsjhjt;
-喈	jsl	jfmmsl
-澍	dkl	dfjgkl
+銼	gma	gfmdaf
+騾	pav	pdajvf
+稈	rsx	rjsjxh
 衢	oii	ofijijyj
-邈	lps	ljp.slms
-菀	rcd	rfcfdkmk
+譴	jlk	jjljkiha
+礬	wfa	wsffffufaw
+贍	nma	njmaaswkjj
 俘	mkh	mfkahf
 狩	pck	plcfkl
 蠡	ppn	p,pknfnf
 鬃	hwt	hlw;cftj
-晌	scj	sjcfjf
+晌	sjc	sjcfjf
 睫	iek	ijefk.lf
-捍	ksx	kksjxh
-彧	xjw	x;jfefw;
-嘣	jan	jfadnm
+飭	bmz	bjm;zj
+琍	gdr	gdrjgj
+鑣	gps	gfpesf
 靛	rcl	racflg
+礪	aan	awasnc
+瀆	dge	dfgseanj
 姻	uqu	ujqjuf
+繽	vce	vfcfeflanj
+贓	nxo	njxfolt/
+拚	kqa	kkqaks
+籤	fmx	fjmdxfrh
 腑	dcm	djcjmfkl
-樾	flx	fflkxc
-夔	wil	wkiklfhsld
-髂	icl	iwcfldjf
-忱	iqk	ifqkms
+鍬	grs	gfrjsf
+誑	jpg	jjplgd
+忱	ifq	ifqkms
 媳	uii	ujilif
-蠹	een	efelqkawnfnf
-荐	rfh	rfflhf
+蠹	eeq	efelqkawnfnf
+荐	rff	rfflhf
 庖	chh	cjhjhs
 俟	mfq	mfqaxl
-汴	dfc	dfchtf
-璨	gik	gdickfrk
+懾	iei	ifesi;
+躡	lei	llesi;
 喱	jaa	jfasal
-嵇	rka	rjkdad
-湍	div	dfadiv
-葳	rxu	rfxeuj
+鴛	dmy	dkmkyf
+誣	jzm	jjzfmd
+諍	jkt	jjkate
+湍	dai	dfadiv
 僻	mmj	mfmljftk
+鏃	gfo	gfovxl
 羯	psh	pjsjhjt;
 俸	mks	mfkskk
-翱	suy	slufejy;
-奠	wbu	wkbluf
-肱	dqa	djkdqa
-屙	mla	mlaaja
-邕	djn	ddjfns
-埒	afk	afkakl
+翱	sue	slufejy;
+奠	wkb	wkbluf
+肱	djk	djkdqa
+瘧	opk	oop;ka
+邕	ddj	ddjfns
+梔	fjn	ffjqns
 楹	fhb	ffhhkfbk
+慍	iqb	ifqjmfbk
+礎	afl	awfglo
+鏜	gfc	gfcaaf
 翩	cty	cstby;
 殉	ihs	ichjsj
-琬	gcd	gdcfdkmk
-硎	aeg	awefksgj
+皰	ihh	i.hjhs
 箔	fds	fjdfsl
+輦	uuo	uauaoj
+氳	dmb	doqjmfbk
 牒	oef	o.euff
 漩	dol	dfovlo
 玳	gmx	gdmfx;
-皙	fzs	ffzksl
-僳	myr	mfylrk
+礫	asv	awslvdvdff
+賄	nkd	njkddj
 涸	dqj	dfqjj;
-嚄	jyk	jfyikf
+鐲	geh	gfeahjnf
 剜	cdg	cfdkmkgj
+蠔	ncp	nfckpk
 仞	mgw	mfgjwf
 冽	dig	dsicgj
-桉	fcu	ffcfuj
-粲	ikr	ickfrk
-鋈	dwg	dfwjufgf
-蘑	rra	rfreaw
+鏗	gtk	gft/kfaf
+蘑	rfr	rfreaw
+顓	aii	adivik
+鎔	gcj	gfcvjs
+鯽	num	nkulmk
 憬	isc	ifsjcl
-愀	ifr	ifrjsf
+愀	irs	ifrjsf
 湮	dya	dfylaf
-饕	jzp	jfzxp;bj
-畲	mta	mftjaj
+蒞	rdu	rfdfmfud
+脩	med	mfehk;dj
 寤	coe	cfolegjf
-娉	uxz	ujxazx
-硌	awl	awldjf
 盎	qub	qkufbk
-汊	dkw	dfkfwf
+灤	dvf	dfvrff
+歿	ihk	ichjkf
 哮	jhh	jfhohf
-嘬	jsi	jfsji;kf
-枳	fjw	ffjfwk
-孛	ejq	ejqkhf
-啷	jfc	jfczaa
 蹶	lau	llasucu;
 蹋	lsy	llsjy;
-篡	fiu	fjijufqa
-恣	dsi	dsu;if
-羧	pwl	pjqawkld
-竣	uqw	udqawkld
+篡	fiq	fjijufqa
+鰻	nve	nkv;eakf
+恣	eui	edu;if
+矚	imd	ijmldfeahjnf
+竣	uql	udqamsld
 悸	irh	ifrjhf
-暝	sqs	sjqksjcr
 睨	ibm	ijbams
 倌	mch	mfcfha
 孺	hdi	hfdaiv
-琮	gct	gdcftj
-秸	rgj	rjgsjf
-慵	ita	ifcjteak
-耨	znk	zunlkl
+緝	vji	vfjfi;
+儼	mfk	mfjfjfaskp
+瘓	omc	oomaccuf
+癆	oss	oosfsfqkzj
 蜇	kzn	kkzknf
-蘅	rom	rfofmaajuf
-苕	rfg	rfgjjf
 橇	fei	ffesi/
-翳	qxx	q;xlxsy;
-哐	jqg	jfq;gd
+翳	qxy	q;xlxsy;
 崛	aml	admllv
 篁	fsg	fjslgd
 偌	mrk	mfrfkdjf
+諺	jua	jjudasw;
 庵	cju	cjufse
 隧	alw	aaljwkpk
-喹	jag	jfufag
-澧	djb	dfjbb;
+靨	asi	assjdjpli,
+澧	db;	dfjbb;
+屜	moe	mlofeu
 姒	uqm	ujqamf
 惰	ikz	ifkdzfdj
-洮	ddf	dfmsdf
-傣	mfd	mfksdf
+懺	imx	ifmdxfrh
+轅	oaj	ojafjfvk
 倏	mep	mfehk;pl
 蕨	ruu	rfasucu;
 藐	rpm	rfp.slms
 酵	blh	blhohf
-崮	aqj	adqjj;
-膦	drl	djrkle
 匈	hwq	hjwlql
-洹	dfs	dfedsj
-璁	gci	gdcgif
-蒯	rfn	rfnmgj
-噔	jlb	jfl;b;
+醞	bqb	blqjmfbk
 惚	igi	ifghif
 瑙	gdi	gdddig
 蜥	nfz	nfffzk
 螟	nqs	nfqksjcr
-唏	jwk	jfwlkdvl
-畹	acm	ajcfdkmk
-庥	cmf	cjmfff
+緘	vxj	vfxejf
+轂	gox	gsqkefojxs
+佇	mfc	mfcfzs
 貉	p.l	p.ldjf
-蔸	rsg	rfslgkms
+瀕	dli	dflrik
+櫛	ffu	fffjulmk
 咻	jmf	jfmfff
 箴	fxj	fjxejf
-淙	dft	dfcftj
+淙	dct	dfcftj
 嫦	ucv	ujcavl
-萜	rvt	rfvltv
-薏	rji	rfjlif
-郗	wka	wlkdvlaa
-虢	kkp	kaklp;
-慷	ifj	ifjywa
+賒	nmt	njmftj
+慷	ijw	ifjywa
 寥	cyw	cfy;mfw;
+摑	kqe	kkqjxfjfef
 蔑	rex	rfeaxfmf
-儆	mrh	mfrfhjjfk;
-臊	def	djesjfff
 咫	zjw	zcjfwk
-鍪	xkg	xwk;gf
-婺	xku	xwk;uj
 搪	kjj	kkjyjf
-葑	rak	rfagkl
-噫	jji	jfjlif
+噫	jfi	jfjlif
 塾	cua	couoaf
 旎	omm	ovmlmj
 壅	cya	chc/yjaf
-懦	idi	ifdaiv
-酆	rba	r;r;adb;aa
-箬	frk	fjrfkdjf
-蓼	rym	rfy;mfw;
-熘	sga	sfgkaj
+懦	ifd	ifdaiv
+繚	ves	vfefsfsjwd
+繹	vet	vfeath
+藹	rjs	rfjjsjhjt;
+鏘	goi	gfolidkl
+詼	jjk	jjkdsf
+騖	xkp	xwk;pd
 髦	hwi	hlw;i/
-踞	llm	llmlj;
-湫	dfr	dfrjsf
-娓	umi	ujmli/
-莜	rme	rfmfehk;
+癥	ooa	ooofadefmvk;
+娓	uml	ujmli/
+蘚	rnp	rfnkpj
+籟	ffg	fjfdgjnj
 榫	fye	ffyjej
-椽	ffp	ffp,pk
-蟠	npa	nfpwaj
 蹊	lkv	llkavduf
-晞	swk	sjwlkdvl
 肴	wkd	wlkddj
-獠	pes	plefsfsjwd
+諂	jmb	jjmaba
 痿	oru	oorjuj
-焓	sfb	sfbrjf
 湃	dke	dfkjefr;
-湟	dsg	dfslgd
+擻	kuk	kkuuk;
+釁	kbq	kxbdqkblgm
 旖	ouj	ovufja
-饔	ccb	chc/yjbj
-劭	gjz	gjjfzj
-畿	vvx	vdvdxfaj
-坭	amm	afmlmj
-霈	ddv	dadfv.
 稔	rbi	rjbrif
-庹	cez	cjemzc
-窿	cal	cvaaldefrs
-噘	jau	jfasucu;
-啾	jsf	jfrjsf
+詫	jcf	jjcff.
+瀋	dfa	dfcfpwaj
+啾	jrs	jfrjsf
 腱	dot	djogtd
+鱸	npa	nkp;ajbk
+闆	cej	cdesjf
 菰	rhf	rfhff;
-碇	acl	awcflg
-嗬	jrm	jfrfmfja
-笄	fek	fjefks
-凇	dsf	dsffjs
+鐮	gck	gfcjku
 洌	dic	dficgj
-鄄	yaa	ylafaa
-唳	jfp	jfcspl
-蚴	nvz	nfvdzj
-膺	cmy	cjmfyjdj
-焐	sfj	sfegjf
+櫚	fcd	ffcdj/
+囁	jei	jfesi;
+唳	jcs	jfcspl
+嬤	urv	ujrevd
+牘	oge	o.gseanj
+膺	cmd	cjmfyjdj
+邏	lev	ljeavfyj
 琶	ggn	gdgdns
-稷	ral	rjajwkld
-螅	nii	nfilif
-嚯	jfy	jfdayj
-篪	fwp	fjwhp;
-挹	kjn	kkjfns
+稷	ram	rjajmsld
+簣	fkn	fjkinj
+讖	jmr	jjmdxfrh
+轡	vov	vfojvfjf
 鞅	zqu	z.qkuf
-鎏	dhg	dfhvddgf
-滁	dac	dfaaci
-媸	uln	ujlsnf
-楸	ffr	ffrjsf
+檳	fce	ffcfeflanj
+匱	qkn	q;kinj
 罹	eiy	eaifyj
-懊	icu	ifcfrkuf
-涫	dch	dfcfha
-遽	ljp	ljp;pk
+臏	dln	djcfeflanj
+懊	icp	ifcfpwuf
+瀰	dxv	dfxjvx
+遽	lpp	ljp;pk
 陛	ama	aammaf
-觳	gpx	gsqkefprxs
 萄	rhb	rfhjbz
-薜	rml	rfmljftk
+薜	rjt	rfmljftk
+囈	jra	jfrfacuod;
 崆	acz	adcvzf
-况	djm	dsjfms
-薨	req	rfeaqkicmj
-腩	deg	djejqkgl
-痧	odw	oodfwe
-髡	hwu	hlw;uw
-擢	kyy	kky;yj
-嘁	jxt	jfxetfwd
-罅	bpj	bzp;jc
+獺	pfg	plfdgjnj
+芻	hrr	hjrdhjrd
+惻	ing	ifnjgj
+橢	fak	ffaakdzfdj
+蓀	rhw	rfhfwjvf
+媼	uqb	ujqjmfbk
+麴	rlr	rlldhjrk
+鑠	gsf	gfslvdvdff
 梆	fra	ffr;aa
 呶	juk	jfujkf
-淄	dda	dfddaj
-逄	ljl	ljldla
+賂	nlj	njldjf
+淄	ddd	dfddaj
 菽	rxk	rfxpkf
-蓖	rig	rfigmm
-菔	rkf	rfdjmkkf
-蟆	nrs	nfrfsjuf
-嘭	jfw	jfjgw;
-尜	wdu	wdufwd
+苧	rcz	rfcfzs
+蟆	nru	nfrfsjuf
 猷	wbp	wkblpl
 葩	rsn	rfslns
-勖	viz	v;ijzj
-佶	mgj	mfgsjf
-倨	mfm	mfmlj;
-溉	dul	dfulup
+倨	mj;	mfmlj;
+餒	bku	bjkauj
+溉	dfu	dfulup
 桅	fmm	ffmaasmk
-訾	lfm	lfmjjj
-嘹	jew	jfefsfsjwd
-杈	fkw	ffkfwf
+嘹	jes	jfefsfsjwd
+嚀	jci	jfcfifbkzs
+慟	ifo	ifoszj
 蟀	nvw	nfvewaej
 惘	ivt	ifvst;
 惦	ict	ifcjtv
-潦	dew	dfefsfsjwd
+潦	dsw	dfefsfsjwd
+贗	amn	asmfyfnj
 蜓	nom	nfogmv
+褻	vau	vjacuo
+懍	ifc	ifcxrj
+殯	ice	iccfeflanj
 榷	fqy	ffqkyj
-繇	kbw	kabzwjvf
-裾	vkm	vkmlj;
 窈	cvz	cvvdzj
-嫠	fka	fsk;asuj
-琇	gdr	gdrjhh
 荏	rmz	rfmfzg
 榔	ffa	ffczaa
 燧	slw	sfljwkpk
 遑	lsg	ljslgd
-橐	eeq	efelqkawff
-槭	fxt	ffxetfwd
+藪	ruk	rfuuk;
+噥	jjn	jfjbnl
 嗥	jsu	jfslufej
-岣	ahj	adhjjf
-魈	twd	tlwddj
-砭	awj	awwjls
+颼	ysk	yasckf
+砭	awl	awwjls
 蚓	nxe	nfxjeh
-嗵	jfb	jfljbo
 憩	jii	jkilif
-昝	lts	ldtfsj
-琚	gdm	gdmlj;
+臚	dpb	djp;ajbk
+紉	vgw	vfgjwf
 葫	rj;	rfj;dj
 鞣	zxf	z.xwff
-醴	bjb	bljbb;
+饜	asb	assjdjplbj
+鷂	iby	idbzyf
 麝	phk	pehmkl
-勰	eza	eszjajif
 婀	uaj	ujaaja
 瑁	gvi	gdv;ij
-喋	jeu	jfeuff
-醪	bym	bly;mfw;
-嗍	jud	jfucdj
+齷	iqx	iqmlxk
+喋	jff	jfeuff
+悽	iet	ifefteuj
+驀	rsp	rfsjufpd
+囀	jov	jfojvg
 爨	kbs	kxbdqkfgufsf
-攫	kii	kkijijyjkf
-圜	qee	qjeaefjfvk
+攫	kik	kkijijyjkf
+齜	ilm	iqlfmj
 僭	muu	mfupupsj
+樅	fol	ffofmdlf
+羶	pcs	pjcxsh
 譬	mjj	mljftkjj
-摒	kkm	kkmlmc
-嘧	jcx	jfcfx,ad
+齬	iqe	iqegjf
 瞑	iqs	ijqksjcr
-溱	dkr	dfksrj
 璩	gpp	gdp;pk
-醮	bys	blyjsf
-蠊	nck	nfcjku
-嚓	jci	jfcfidkftj
+琺	gdu	gddfug
 俎	mmt	mfmftm
-糍	rpv	rkpuvdvd
-槊	udj	ucdjff
 彗	r;r	r;r;k.
+鞦	zrs	z.rjsf
 泱	dqk	dfqkuf
-埕	ajg	afjfgd
+鴆	qmy	qkmsyf
 檄	fso	ffslodk;
-咨	duj	dsu;jf
-淀	dcl	dfcflg
-逖	lpl	ljplsf
-唵	juf	jfufse
-哞	jqp	jfqapf
-迤	lmn	ljm;nd
+咨	euj	edu;jf
+逖	lps	ljplsf
 佞	meu	mfeduj
-邋	ldp	ljddpg
-璀	gay	gdadyj
-蹩	vwl	vlwak;ll
-蠓	nrv	nfrfv;pk
+諉	jjr	jjrjuj
+璣	gvv	gdvdvdxfmf
 倥	mfz	mfcvzf
 褥	vnk	vknlkl
-嬖	mju	mljftkuj
 孀	udf	ujdaffij
-珣	ghs	gdhjsj
-璘	grl	gdrkle
-菠	rdf	rfdfi.
-卣	tqq	tfqjqh
+菠	rdi	rfdfi.
+嚶	jnn	jfnjnjuj
 牖	oca	o.csa;
 徨	osg	ofslgd
-溧	dyf	dfylff
-皴	qwl	qawkldi.
-淝	ddn	dfdjns
-蠖	nyk	nfyikf
-粼	rld	rkledd
-蓑	rvj	rfvjir
-醌	bls	blsjmm
-樘	faf	ffcaaf
-楦	fce	ffcfedsj
-蜒	now	nfogwjlf
-癜	omk	oomlkwxs
-葶	rcz	rfckzs
-榱	fvi	ffvjir
-煳	sjd	sfj;dj
-嫚	use	ujsjeakf
+皴	qml	qamsldi.
+兗	chj	chjsms
+鄹	i;k	i;kfmdaa
+彫	ajw	akjfw;
+鏍	gav	gfajvf
+滓	dft	dfcftk
+槨	fco	ffcoaa
+踴	lbz	llbozj
+驃	pyt	pdyltj
 憔	ify	ifyjsf
-彀	gqe	gsqkefxjxs
 雹	dah	dahjhs
-蟛	njw	nfjgw;
-咴	jkd	jfkdsf
-俶	mxk	mfxpkf
-遒	ljw	ljwkbl
-衩	vkf	vkkfwf
+皚	sab	sladb;
 揆	klu	kkl;ur
-苤	ref	rffkef
-苻	rfk	rfmfkl
 碉	aaj	awakjf
+譎	jxc	jjxwccjf
 奘	ogu	olgsuf
 潺	dme	dfmleshf
 劬	hjz	hjjfzj
-垸	afc	afcfus
-鬟	hwe	hlw;eaefjfvk
 曷	sjh	sjhjt;
-旒	ovh	ovhvdd
+鰍	nrs	nkrjsf
 惆	iaj	ifakjf
-鞫	zhj	z.hjjj
-槲	fpb	ffprbw
-猗	plu	plufja
-篦	fim	fjigmm
-獬	ppg	plprgjpf
-濉	diy	dfijyj
-邃	lcw	ljcvwkpk
+鸚	nny	njnjujyf
+蠣	nan	nfasnc
 屐	mof	mloffm
-殄	icm	icmfw;
 瞽	jgf	jgfmij
 氤	doq	doqjuf
 臆	dji	djjlif
-拊	kmf	kkmfkl
-荑	rux	rfufxj
-榧	ffy	ffq;yd
-垡	mfx	mfxfaf
 徇	ohs	ofhjsj
 腆	dtk	djtbks
-胗	dmw	djmfw;
-瘢	oox	oookxs
+駑	ukp	ujkfpd
 匏	ujh	ufjzhjhs
 蝴	njd	nfj;dj
-隳	aki	aakdzfdjmfif
-菹	rtm	rfdftm
-哚	jof	jfo;ff
+鴦	quy	qkufyf
 峰	alr	adldr;
+餾	bga	bjgkaj
+獰	pci	plcfifbkzs
 惴	iai	ifadiv
 鼙	jfx	jgfmxz
-楫	fji	ffjfi;
+楫	fjf	ffjfi;
 骼	ilj	iwldjf
-魍	tlv	tlvst;
-窸	cpi	cvpwif
-褡	vrb	vkrfbf
-嬗	ujs	ujcxsh
+饅	bve	bjv;eakf
+餛	bsm	bjsjmm
 瑚	gjd	gdj;dj
-椐	fmj	ffmlj;
+琿	gqo	gdqkoj
 蜘	nxj	nfxljf
-筮	fzm	fjzfmd
-箜	fjc	fjcvzf
-遄	lja	ljadiv
-蘩	rhv	rfhik;vf
+鰱	nlo	nkljoj
+麩	rld	rlldua
 歙	byu	bfy;u;
-蠲	deh	dzeahjnf
-蟊	xnn	xwnfnf
 媲	uim	ujigmm
-菪	rca	rfcfaw
-笤	fjg	fjgjjf
-胭	djq	djqjuf
-埝	abi	afbrif
-栲	fhz	ffhozx
-砹	arw	awrfwl
-鬻	xrb	xjrkxjbu
-彘	pmx	p,mjxlmj
+繅	vdf	vfddfa
+胭	dqu	djqjuf
 琵	ggm	gdgdmm
 拮	kkg	kkgsjf
-笸	fqj	fjq;jf
-淠	dao	dfajo;
-嫫	urs	ujrfsjuf
-餮	imw	icmfw;bj
-薅	run	rfujnlkl
-樗	fdj	ffdajz
-瘛	ori	oor;gjif
+頷	bji	brjfik
+鏑	gff	gff,jf
 嫘	uav	ujajvf
-橛	fau	ffasucu;
-倜	maj	mfakjf
-滹	dpj	dfp;jc
-酃	dja	dajfjfjfaa
-郾	qsu	q;sjujaa
+奩	uqj	ufq;esjf
 獗	pau	plasucu;
-羰	pak	pjadkdsf
-莩	rkh	rfkahf
-柩	fq;	ffq;mz
+柩	ffq	ffq;mz
 螳	nfc	nfcaaf
-咆	jfh	jfhjhs
-郄	wkq	wlkdqaaa
-朐	dhj	djhjjf
-窳	cff	cvf;f;
-劼	gsj	gsjfzj
-踅	kzl	kkzkll
-蘧	rfl	rfljp;pk
-侔	mqp	mfqapf
-郇	hsa	hjsjaa
-裎	vjg	vkjfgd
-瑭	gjy	gdjyjf
-喟	jdj	jfajdj
+咆	jhj	jfhjhs
+喟	jfd	jfajdj
 咐	jmk	jfmfkl
-嶙	adr	adrkle
 甥	raz	rsajzj
 篾	fex	fjeaxfmf
-皤	spa	slpwaj
-敫	sok	slodk;
 裟	dwv	dfwevj
 霹	dmj	damljftk
-邳	fea	fkefaa
-蟪	nvi	nfvgif
 嶝	adl	adl;b;
-貘	prs	p.rfsjuf
-蝽	nfk	nfkssj
-恂	ifh	ifhjsj
-蕤	rpr	rfpkrs
-矍	iyk	ijijyjkf
-峋	ahs	adhjsj
-槔	fsu	ffslufej
+霑	ddt	dadftv
+犧	ppr	pfpjrjxfzx
 磴	alb	awl;b;
-畛	amw	ajmfw;
-犍	pot	pfogtd
 臃	dcc	djchc/yj
-廛	caw	cjalwkaf
 愎	iml	ifm;sjld
-茚	rkm	rfkamk
-暾	sck	sjcok;
-罱	eeg	eaejqkgl
-鐾	mgf	mljftkgf
-藿	rdy	rfdayj
+軛	oam	ojasmk
 霎	dau	dauduj
 蜿	ncd	nfcfdkmk
-昃	sam	sjasmf
 簸	fbi	fjbsi.
-艋	ohb	okhfbk
 惋	icd	ifcfdkmk
-蓁	rkr	rfksrj
-泅	dmf	dfqjmf
-搡	kef	kkeskfff
-酹	bkk	blkakl
-簌	ffu	fjfdu;
+靂	dar	daasrjrjlf
 鄱	paa	pwajaa
-晷	slt	sjldtfjf
-筇	fza	fjzfaa
+賃	mzn	mfzgnj
 墀	amd	afmldfpf
 挈	rgk	r;gjkj
-痤	ooa	oomdaf
-溲	dsk	dfsckf
-掾	kpp	kkp,pk
-崤	awk	adwlkddj
-狷	pld	pljfdj
-逶	lru	ljrjuj
+狷	pjd	pljfdj
+縲	vav	vfajvf
 瓠	uff	ufjzf;
-罨	eau	eaufse
-簋	fub	fjulbk
-艄	owd	okwddj
-煺	sfl	sfljul
-璠	gpa	gdpwaj
 蠕	ndi	nfdaiv
 蹼	lzu	llzluf
-暌	slu	sjl;ur
-襦	vdi	vkdaiv
-遢	ljs	ljsjy;
-逡	lqw	ljqawkld
+儐	mce	mfcfeflanj
 螫	skn	svk;nf
 酩	bdj	bldkjf
-戢	jxf	jfi;xf
-蔟	rfx	rfovxl
-蕖	rdz	rfdfzvff
-硭	art	awrft;
-吲	jxe	jfxjeh
-璺	kbq	kxbdqkge
-燔	sfp	sfpwaj
-泐	dzj	dfaazj
-擘	mlk	mljftkkj
-薤	rir	rficrh
+戢	ji;	jfi;xf
+簑	fvi	fjvjir
+擘	mlj	mljftkkj
+鵡	xly	xflfyf
 剽	ytg	yltjgj
-僰	fcf	fcfcmf
-儋	mma	mfmaaswkjj
+蟈	nqx	nfqjxfjfef
+愜	ium	ifq;ufmd
 枸	fhj	ffhjjf
-愆	odi	ofdfif
 瘩	orb	oorfbf
-迢	ljj	ljgjjf
-隰	asv	aasjvdvdsf
+迢	ljg	ljgjjf
 畚	qua	qaufaj
-甏	jwz	jgw;zw
-梃	fom	ffogmv
-筌	fjm	fjmfgd
-捯	kxg	kkxkgj
-摭	kce	kkcjemsf
-藁	rcf	rfckff
-醢	bkj	blkdjfbk
-糅	rxf	rkxwff
+梃	ffo	ffogmv
+櫝	fge	ffgseanj
+嶇	aqe	adq;esjf
+幗	vqx	vlqjxfjfef
+愾	idr	ifdork
+嫗	uqe	ujq;esjf
 莠	rrh	rfrjhh
-烜	sfe	sfedsj
 螂	nca	nfczaa
-暹	lsj	ljsjyj
-佾	mwk	mfwkdj
+暹	ljs	ljsjyj
+佾	mfd	mfwkdj
 胳	djl	djldjf
-滃	dfy	dfjsy;
-琯	gch	gdcfha
-艨	orv	okrfv;pk
-薷	riv	rfdaiv
+鷥	vvy	vfvfyf
+慄	iyf	ifylff
 黠	ssj	ssgsjf
-滏	dzg	dfzigdwk
-碣	ast	awsjhjt;
-矬	xma	xlmdaf
-篼	fgm	fjslgkms
 毽	iot	i/ogtd
-湉	dif	dfifjk
-纛	r;h	r;hkvb
-豳	ppa	pkpkad
-幄	vmx	vlmlxk
-徼	oso	ofslodk;
-癍	oug	oogdukgd
 孱	meh	mleshf
 瞠	ica	ijcaaf
-焜	ssm	sfsjmm
-琤	gdt	gdmate
-茯	rmp	rfmfpl
+覬	abi	adb;im
 蓿	rcm	rfcfmfso
-圄	qej	qjegjf
 痊	omg	oomfgd
+洶	dhq	dfhjwlql
 隍	asg	aaslgd
-鬣	hwd	hlw;ddpg
-噱	jp;	jfp;pk
-唿	jgi	jfghif
+噱	jpp	jfp;pk
 黝	svz	ssvdzj
-溻	dsy	dfsjy;
+鰥	ned	nkeadf
 漯	dav	dfajvf
+貲	lmn	lfmjnj
+鷓	cey	cjemsfyf
+糢	rrs	rkrfsjuf
 萋	ret	rfefteuj
-豨	pwk	pkwlkdvl
-崦	aus	adufse
-邂	lpp	ljprgjpf
-蓍	rho	rfhosj
-磔	alf	awleff
-癯	oiy	ooijijyj
-褟	vsy	vksjy;
-桴	fkh	ffkahf
+邂	lgp	ljprgjpf
 赧	smk	svmkkf
-鋆	ahg	afhjdsgf
-葺	ri;	rfjfi;
-莛	rog	rfogmv
-汩	dqe	dfqjef
-胬	ujk	ujkfid
+剴	abg	adb;gj
 嚅	jdi	jfdaiv
-凭	mzo	mfzgo;
+箝	fkj	fjkkjd
 佝	mhj	mfhjjf
-髑	ieh	iweahjnf
-仫	mwj	mfwjqa
-韵	jhd	jlhjds
+傯	mci	mfcgif
 髭	hwl	hlw;lfmj
-狍	phh	plhjhs
 嚏	jel	jfejqkajlo
-陬	aik	aai;kf
-嗞	jpv	jfpuvdvd
 盥	kdb	kxdfbk
-荽	rku	rfkauj
-蛸	nwd	nfwddj
-溷	dqp	dfqjpk
-澥	dpg	dfprgjpf
-扃	cqj	csqkjf
-徭	okb	ofkabz
-蝰	nua	nfufag
-氅	cki	cak;i/
-嵫	avv	adpuvdvd
-堞	aff	afeuff
+壢	aar	afasrjrjlf
+鵪	usy	ufseyf
+犖	ssp	sfsfqkpf
 蹂	lxf	llxwff
+猙	pkt	plkate
 袱	vmp	vkmfpl
 遴	lrl	ljrkle
-蓐	rnk	rfnlkl
+駙	pmk	pdmfkl
+鏝	gve	gfv;eakf
 嗾	jox	jfovxl
-墼	oqx	ojqlxsaf
-奭	uss	ufsoso
-蜩	nfa	nfakjf
-黼	zvw	zlvlwaa;
-浥	dfn	dfjfns
 捩	kcp	kkcspl
 豌	bcd	b;cfdkmk
-蹚	lca	llcaaf
-竑	ukq	udkdqa
-襞	mjv	mljftkvj
 帑	ukv	ujkfvl
-髹	hwm	hlw;mfff
-揶	kki	kki;aa
 瞌	iub	ijugbk
-鼯	peg	pgegjf
-猱	pxf	plxwff
-榖	gfx	gsqkefffxs
-甍	rfz	rfeaqkzw
-蒗	rdc	rfdfcz
-蝮	nms	nfm;sjld
-痍	oux	ooufxj
-堙	aya	afylaf
+濘	dci	dfcfifbkzs
+懣	dei	dfemeeif
 蝌	nrb	nfrjbw
-剞	ujg	ufjagj
-淆	dkd	dfwlkddj
-鬈	hwr	hlw;rimk
+淆	dwk	dfwlkddj
 酗	bwq	blwlql
-蕻	rhl	rfhlkw
 睽	ilu	ijl;ur
-箅	fao	fjajo;
-瘌	oof	oofdgj
-姮	ues	ujedsj
-塄	aeo	afeaod
-刳	ufg	ufjzgj
-悒	ijn	ifjfns
-搠	kud	kkucdj
-枵	fjz	ffjfzx
-挲	dwk	dfwekj
-茌	rgs	rfmfgs
-墁	ask	afsjeakf
-鞨	zsh	z.sjhjt;
-禊	trg	tjr;gjuf
-趔	lig	lkicgj
+獷	pch	plcjh;
 蟋	npi	nfpwif
-搐	kva	kkveaj
-黻	zvp	zlvlwapo
-廨	cpg	cjprgjpf
-瘳	oym	ooy;mfw;
-孥	ukh	ujkfhf
-籀	fkg	fjkkgkaj
-萏	rmb	rfmaba
+鱖	nau	nkasucu;
+犛	fkp	fsk;aspf
+軔	ogw	ojgjwf
+琊	gia	gdiaaa
 躇	lrs	llrfsd
 儡	mfe	mfesaj
-痦	ooe	ooegjf
-樨	fmd	ffmldfpf
-巉	app	adphph
-貅	pmf	p.mfff
-悛	iqa	ifqawkld
-蒴	rud	rfucdj
-瞢	rqi	rfeaqkij
-啁	jak	jfakjf
-怩	imm	ifmlmj
-垧	acj	afcfjf
-澌	dbz	dfbszk
-綮	ckv	csk;vf
-潸	ddj	dffgdj
-霪	ddk	dadfkazg
-褙	vmd	vkmudj
-蕺	rjx	rfjfi;xf
+潸	dfg	dffgdj
+霪	ddz	dadfkazg
+玀	pev	pleavfyj
 慝	qri	q;rfkdjfif
-牾	pej	pfegjf
-侉	mfu	mfufjz
-燠	scr	sfcfrkuf
-殪	igq	icgsqkb;
-葸	rai	rfajif
-蓊	rjy	rfjsy;
-礴	ard	awrfdfa;kl
-屣	mol	mloflflf
 躅	leh	lleahjnf
 肄	mxt	mjxltd
-癔	ooi	oojlif
-睚	iaa	ijasag
-癃	oal	ooaaldefrs
+鰾	nyt	nkyltj
 蝙	nct	nfcstb
-戥	srx	sjrsxf
-襻	vwf	vkwsffffufkj
 褫	vwp	vkwhp;
-搦	kxd	kkxjdsxjds
-漭	drp	dfrfplks
-耱	zra	zureaw
-怏	ifq	ifqkuf
-蜮	nje	nfxfjfef
+籐	fod	fjo,df
+怏	ifu	ifqkuf
 蜢	nhb	nfhfbk
-棻	rgm	rfgmff
-瘼	ors	oorfsjuf
 褓	vmf	vkmfjfff
-潲	drw	dfrjwddj
-罽	eas	eaassggj
-黧	rwg	rjwjgjss
+崁	aau	adafu;
 孳	pvh	puvdvdhf
-襁	vxn	vkxjjfnf
-腠	dur	djksur
-瘰	oav	ooajvf
-摽	kyt	kkyltj
-眈	ijq	ijqkms
-膂	omd	ovmddj
-篥	fyf	fjylff
-螽	dnn	dxnfnf
-爝	ske	sfkaeaulkl
-膻	dcx	djcxsh
-羼	mle	mlespj
-齁	ihj	iohjjf
-褊	vkc	vkcstb
-貔	pim	p.igmm
-痼	oqj	ooqjj;
-礅	awc	awcok;
-捃	ktj	kktejf
-郛	kha	kahfaa
-蝣	noh	nfovhf
-瀣	dik	dfickfrh
-磙	avj	awvjjs
-掮	kcd	kkcsdj
-睃	iql	ijqawkld
-獴	prp	plrfv;pk
-瘵	oik	ooidkftj
-藠	rsl	rfessl
-篌	fmq	fjmfqhxl
-狁	pqm	plqams
-躞	lsk	llsfjjsfkf
+鮪	nkk	nkkddj
+黷	sge	ssgseanj
+燐	srl	sfrkle
+簷	fma	fjmaaswkjj
+鼴	pqs	pgq;sjuj
+蹣	lle	llemee
+躑	lwa	llwkblufaa
 啕	jhb	jfhjbz
-稃	rjh	rjkahf
-縠	gvx	gsqkefvfxs
-蜊	nrg	nfrjgj
-溽	dnk	dfnlkl
-蜉	nkh	nfkahf
-噍	jyj	jfyjsf
-猁	prg	plrjgj
-脬	dka	djkahf
-鬏	hws	hlw;rjsf
-忭	ift	ifchtf
-唼	juj	jfuduj
+輜	oda	ojddaj
+韁	zea	z.esajaj
+轔	orl	ojrkle
 溘	dfb	dfugbk
-桫	fdw	ffdfwe
-黢	sqw	ssqawkld
-蹁	lcs	llcstb
-檗	mtf	mljftkff
-瞀	xwk	xwk;ij
-鞡	zku	z.kkud
-莅	rmu	rfmfud
-瘊	omx	oomfqhxl
-潟	dby	dfbayv
-抃	kkt	kkchtf
-猢	pjd	plj;dj
-踺	lot	llogtd
-嘚	jos	jfofsjefkl
-蹀	lef	lleuff
-牮	mxp	mfx;pf
-燹	pps	pkpksf
-攉	kdy	kkdayj
-撙	kwb	kkwkblkl
-蒺	rox	rfooxl
-够	hji	hjjfie
-蒟	ruh	rfudhjjf
-跐	llf	lllfmj
-筲	fjd	fjwddj
-醐	bjd	blj;dj
-殍	ikh	ickahf
-箢	fcd	fjcfdkmk
-蝥	xkn	xwk;nf
-毪	i/q	i/qapf
-磲	adz	awdfzvff
+躪	lrc	llrfcdyj
+撚	kip	kkidplsf
 踟	lxj	llxljf
-劁	ysg	yjsfgj
-糨	rxj	rkxjjfnf
-嚆	jrc	jfrfck
-揠	kqs	kkq;sjuj
-髫	hwj	hlw;gjjf
-蝻	neg	nfejqkgl
-熥	slb	sfljbo
-璪	gef	gdesjfff
+嫻	ucf	ujcdff
 荸	reh	rfejqkhf
-螵	nfy	nfyltj
-趑	ldu	lkdsu;
-鞬	zot	z.ogtd
-漶	dni	dfnuif
-躐	lld	llddpg
-礓	aea	awesajaj
-筢	fjk	fjkkns
+谿	kvd	kavdufdg
+塭	afs	afsjbk
+跼	lmq	llmlqfjf
 犄	pfu	pfufja
-搋	kwp	kkwhp;
-睾	wet	wjeath
-蜣	npm	nfpjms
-熜	scg	sfcgif
-氍	iii	ijijyji/
-糌	rlt	rkldtfsj
-堉	afh	afhvdj
-葱	rci	rfcgif
-犏	pfc	pfcstb
-睄	ijd	ijwddj
-靿	zvz	z.vdzj
-碡	arh	awr;hk
-揳	krg	kkr;gjuf
-霨	dam	damltjkl
-螋	nfs	nfsckf
-唣	jsg	jfslg;
-猫	pra	plrfaj
-琫	gks	gdkskk
-拤	ket	kkektf
-氆	ius	i/uesj
-鞧	zwb	z.wkbl
-膙	dxn	djxjjfnf
-踒	llu	llrjuj
-垒	eqa	esqaaf
-柠	fcz	ffcfzs
-猬	pad	plajdj
-凄	det	dsefteuj
-疱	ohh	oohjhs
-眦	ijl	ijlfmj
+勗	stz	sjtmzj
+篛	fxd	fjxjdsxjds
+鉋	ghh	gfhjhs
+綑	vqf	vfqjff
+瞇	ilr	ijljrk
+祐	tkj	tjkdjf
 痴	oxj	ooxljf
-滚	dvj	dfvjjs
-昵	sjm	sjmlmj
-撑	kck	kkcakj
-携	kyh	kkyjhh
-栀	kjm	kkjqmk
-构	fhq	ffhjqa
-蝎	nsh	nfsjhjt;
-踪	llc	llcftj
-复	msl	m;sjld
-偬	mci	mfcgif
-脚	dum	djugmk
-恒	ies	ifedsj
-潜	duu	dfuauasj
-汹	dwq	dfwlql
-幂	qsv	qksjufvl
-咤	jf.	jfcff.
-鼹	psc	pgsjcfuj
-泞	dzs	dfcfzs
-碱	awx	awxejf
-厩	asu	asulup
-毁	bzx	bazfxs
-凑	dku	dsksur
-羡	pdu	pjdsu;
-洁	dgj	dfgsjf
-橱	fab	ffasb;kl
-减	dxj	dsxejf
-厨	abk	asb;kl
-蹰	lab	llasb;kl
-凛	dct	dscxtj
-欸	qxu	qaxlu;
-厦	ail	asikld
-厮	abz	asbszk
-厢	afi	asffij
-叠	ekq	eskfqktm
-献	eqp	ejqkglpl
-嘡	jaf	jfcaaf
-媭	wiu	w;ikuj
-蹾	lco	llcok;
-沟	dhq	dfhjqa
-塆	aux	afuzxj
-蹽	les	llefsfsjwd
-柽	fkf	ffkfaf
-积	rjw	rjjfwk
-㧐	kkf	kkkfkf
-㤘	imk	ifmak.
-联	ipu	i;puuf
-帮	rav	r;aavl
-热	kus	kkuosf
-顾	ami	asmkik
-暂	ozs	ojzksj
-税	rjm	rjjsms
-钢	gqw	gfqkwl
-铬	gfl	gfldjf
-腻	dxe	djx;ednj
-脱	djj	djjsms
-调	jja	jjakjf
-装	ogv	olgsvj
-将	odk	oldkkl
-应	cwe	cjwaef
-滤	dpi	dfp;if
-测	dng	dfnjgj
-学	wqh	waqkhf
-宽	cri	cfrfim
-实	cdu	cfdsuf
-买	qdu	qfdsuf
-骗	pct	pdcstb
-随	alk	aaljkddj
-续	veq	vfejqfdsuf
-统	vhm	vfhvms
-断	rqz	rkqdzk
-编	vct	vfcstb
-鹉	xly	xflfyf
-严	ezw	efzlwj
-画	eaq	efajql
-殡	icz	iccfzkks
-墙	aad	afafwkdl
-盐	atb	aftfbk
-颉	gji	gsjfik
-埘	afs	afsjkl
-趱	lkl	lklxlxnj
-辇	uuo	uauaoj
-趋	lmk	lkmak.
-颊	upi	ufpuik
-郏	upa	ufpuaa
-壶	gqz	gsqkzl
-壳	gqo	gsqko;
-韫	lsb	lzsjbk
-韬	lzk	lzkaba
-耢	zrq	zurfqkzj
-琏	gdl	gdljoj
-职	ijw	i;jfwk
-璎	gnn	gdnjnjuj
-瑶	gkb	gdkabz
-静	rmt	ramate
-麸	r;l	r;ldua
-艳	rmn	r;mans
-聪	iji	i;jsif
-鬓	hwc	hlw;cfzkks
-聂	ikk	i;kfkf
-挟	kup	kkufpu
-摄	kik	kki;kfkf
-挝	klk	kkljkl
-捞	krq	kkrfqkzj
-抠	kkw	kkq;wl
-摅	kpi	kkp;if
-挡	kwk	kkwdk.
-摆	keu	kkeaug
-攒	kll	kklxlxnj
-摇	kkb	kkkabz
-垫	kua	kkuoaf
-蛰	kun	kkuonf
-挚	kuk	kkuokj
-抛	kkz	kkkezj
-撸	kns	kknksj
-换	kmq	kkmaqkuf
-搀	kvd	kkv/ds
-挣	kmt	kkmate
-搁	kcl	kkcdldjf
-掷	kpu	kkpuufaa
-㧟	kdq	kkdfq;
-搅	kwq	kkwaqkim
-拧	kkc	kkcfzs
-挥	kqo	kkqkoj
-撺	kcn	kkcvnu
-摈	kzk	kkcfzkks
-摊	kky	kkkfyj
-报	kmk	kkmkkf
-掺	kqu	kkqaufw;
-拟	kqm	kkqamf
-荚	rup	rfufpu
-协	ejz	ejzjwk
-鞯	zrf	z.rfflhf
-蔷	raw	rfafwkdl
-莲	rlo	rfljoj
-莳	rfs	rfsjkl
-蓦	rsp	rfsjufpd
-苘	rqk	rfqkjf
-荞	rwu	rfwjufwk
-获	rpp	rfplpl
-蔼	rjt	rfjjsjhjt;
-蔺	rcy	rfcdyj
-蒋	rod	rfoldkkl
-啬	afw	afwkdl
-蕲	rzz	rfzazk
-荡	rds	rfdfsi
-苎	rfc	rfcfef
-茔	rqa	rfqkaf
-莹	rqg	rfqkge
-荣	rqf	rfqkff
-荤	rqo	rfqkoj
-萤	rqn	rfqknf
-营	rqj	rfqkj/
-荥	rqd	rfqkdf
-荧	rqs	rfqksf
-劳	rfq	rfqkzj
-萦	rqv	rfqkvf
-萧	rtd	rftedh
-卖	eqd	ejqfdsuf
-荪	rhw	rfhfwd
-苏	rzw	rfzjwk
-荫	rad	rfaadj
-萨	rau	rfaaudas
-蕴	rvs	rfvfsjbk
-药	rvb	rfvfbh
-飘	yty	yltjya
-樯	faw	ffafwkdl
-栉	frm	ffrfmk
-雳	daz	daaszj
-枢	ffq	ffq;wl
-梿	flo	ffljoj
-档	fwk	ffwdk.
-桥	fww	ffwjufwk
-橹	fns	ffnksj
-赖	fmn	fdmanj
-桩	fca	ffcjaf
-榈	ffj	ffcdj/
-槟	fck	ffcfzkks
-树	fkk	ffkfkl
-棂	fk.	ffk.sf
-椭	fak	ffaakddj
-压	aaw	asafwf
-硖	awp	awufpu
-奁	ufq	ufq;wl
-碍	ase	awsjefkl
-厕	ang	asnjgj
-赝	amn	asmfyjnj
-飙	epy	esplya
-牵	uqp	ufqkpf
-辕	oaj	ojafjfvk
-贰	xen	x;ednj
-辄	oiq	oji;qd
-轰	okk	ojkfkf
-轳	otm	ojtfml
-辑	oji	ojjfi;
-匮	qkn	q;kinj
-辊	osm	ojsjmm
-辋	ovt	ojvst;
-轿	owu	ojwjufwk
-殴	q;w	q;wlxs
-堑	oza	ojzkaf
-錾	ozg	ojzkgf
-辙	ohd	ojhvdjk;
-辚	orl	ojrkle
-辖	ocr	ojcfr;jf
-轫	ogw	ojgjwf
-辎	oda	ojddaj
-蛱	nup	nfufpu
-龉	iqe	iqegjf
-螨	nre	nfrfee
-龇	ilm	iqlfmj
-蛳	nge	nfgjefvl
-蜕	njm	nfjsms
-蛏	nka	nfkfaf
-颅	tmi	tfmlik
-龌	imx	iqmlxk
-唛	jrl	jfr;ld
-蹑	lkk	lli;kfkf
-𠳐	jr;	jfr;aa
-蹒	lre	llrfee
-喷	jrn	jfrdnj
-躏	lrc	llrfcdyj
-呓	jfr	jfrfqe
-呕	jqw	jfq;wl
-嘘	jpz	jfp;zl
-颚	jfi	jfjfjzik
-骂	jfj	jfjfpd
-啰	jed	jfeadk
-跃	lwu	llwjuf
-躜	llx	lllxlxnj
-响	jcj	jfcfjf
-鹃	jdy	jfdjyf
-噜	jns	jfnksj
-唤	jmq	jfmaqkuf
-踯	lpa	llpuufaa
-咛	jcz	jfcfzs
-蹿	lcn	llcvnu
-嘱	jmn	jfmlnx
-啸	jtd	jftedh
-哟	jvb	jfvfbh
-师	gev	gjefvl
-辉	sqo	saqkoj
-临	tje	tpjfeh
-尝	wqd	wdqkd;
-晕	sjq	sjqkoj
-贤	ekn	edkfnj
-肾	ekd	edkfdj
-竖	eku	edkfud
-紧	ekv	edkfvf
-赋	nxl	njxflf
-峡	aup	adufpu
-瞒	ire	ijrfee
-巅	ati	adtgik
-嵘	arq	adrfqkff
-赎	neq	njejqfdsuf
-赙	nak	nja;kl
-颛	aii	adivik
-贿	nkd	njkddj
-鸯	quy	qkufyf
-岖	adq	adq;wl
-崭	aoz	adojzk
-帜	vlw	vljfwk
-贶	njf	njjfms
-刚	qwg	qkwlgj
-幞	vzu	vlzluf
-岿	agk	adgjk.
-婴	nnu	njnjuj
-峤	awu	adwjufwk
-赂	nlj	njldjf
-睁	imt	ijmate
-购	nhq	njhjqa
-罚	ejg	eajjgj
-赃	njc	njcjaf
-贮	nce	njcfef
-髋	ici	iwcfrfim
-髌	ick	iwcfzkks
-峄	akk	adkfkk
-瞩	imn	ijmlnx
-剀	aqg	adqsgj
-觊	aqi	adqsim
-凯	aqo	adqso;
-穑	raf	rjafwkdl
-犊	peq	pfejqfdsuf
-乔	wuw	wjufwk
-箧	fqu	fjq;ufpu
-颓	roi	rjo;ik
-赞	lln	lxlxnj
-稳	rmk	rjmak.if
-简	fcs	fjcdsj
-箫	ftd	fjtedh
-笾	flz	fjljzj
-粤	cfr	cfrkjz
-侠	mup	mfufpu
-偾	mrn	mfrdnj
-牍	oeq	o.ejqfdsuf
-贷	mxn	mfx;nj
-舆	kok	kxojks
-躯	hqw	hmq;wl
-侧	mng	mfnjgj
-皑	saq	sladqs
-侨	mwu	mfwjufwk
-赁	mzn	mfzgnj
-伤	mmz	mfm;zj
-倾	mmi	mfmjik
-储	mjs	mfjjsd
-奥	cru	cfrkuf
-鹪	ysy	yjsfyf
-伫	mce	mfcfef
-傧	mck	mfcfzkks
-侬	mqv	mfqkvk
-傩	mfy	mfkfyj
-馍	brs	bjrfsjuf
-饽	beq	bjejqkhf
-弑	wfx	wlffx;zf
-刹	wfg	wlffgj
-彻	ogg	ofg;gj
-馈	bkn	bjkinj
-馄	bsm	bjsjmm
-饫	bwu	bjwjuf
-饰	bmv	bjm;vl
-饬	bmz	bjm;zj
-饷	bcj	bjcfjf
-馊	bsk	bjsckf
-馁	bku	bjkauj
-馋	bvd	bjv/ds
-馅	bmb	bjmaba
-馏	bga	bjgkaj
-饱	bhh	bjhjhs
-颔	bji	brjfik
-馐	bpk	bjpjkq
-馆	bch	bjcfha
-铐	ghz	gfhozx
-铗	gup	gfufpu
-镊	gfi	gfi;kfkf
-镬	gyk	gfyikf
-镭	gda	gfdaaj
-镣	ges	gfefsfsjwd
-链	glo	gfljoj
-舻	okt	oktfml
-锃	gjg	gfjfgd
-铟	gqu	gfqjuf
-锢	gqj	gfqjj;
-锁	gwn	gfwdnj
-销	gwd	gfwddj
-镗	gca	gfcaaf
-铛	gwk	gfwdk.
-锄	gtz	gftmzj
-锹	grs	gfrjsf
-锈	grh	gfrjhh
-镍	gif	gfilff
-锦	gsv	gfslvl
-镌	gyh	gfyjhh
-铨	gmg	gfmfgd
-铩	gfw	gfwlff
-锉	gma	gfmdaf
-锨	gfz	gfzku;
-锋	glr	gfldr;
-铭	gdj	gfdkjf
-钧	ghd	gfhjds
-铮	gmt	gfmate
-钩	ghq	gfhjqa
-镜	gjm	gfjlms
-铲	gua	gfudas
-镀	gce	gfcjemkf
-镧	gcf	gfcdfe
-锏	gcs	gfcdsj
-锵	god	gfoldkkl
-镰	gck	gfcjku
-镁	gpu	gfpjuf
-锐	gfj	gfjsms
-锭	gcl	gfcflg
-镩	gcn	gfcvnu
-镔	gcz	gfcfzkks
-释	pkk	pwkfkk
-锯	gmj	gfmlj;
-铌	gmm	gfmlmj
-钗	gkw	gfkfwf
-锰	ghb	gfhfbk
-键	got	gfogtd
-铷	gjf	gfujjf
-锱	gfd	gfddaj
-狭	pup	plufpu
-胪	djt	djtfml
-猡	ped	pleadk
-飕	ysk	yasckf
-飑	yhh	yahjhs
-狰	pmt	plmate
-狱	pjp	pljjpl
-脏	dca	djcjaf
-狞	pcz	plcfzs
-膑	djk	djcfzkks
-脓	djv	djqkvk
-胁	dzw	djzjwk
-猕	pxv	plxjvw
-鳍	nhs	nkhosj
-鲼	nrn	nkrdnj
-鲽	nke	nkeuff
-鸨	mey	mjejyf
-鳓	nzz	nkz.zj
-鳕	ndk	nkdak.
-鲔	nkk	nkkddj
-鳜	nau	nkasucu;
-鲢	nlo	nkljoj
-鲈	ntm	nktfml
-鲴	nqj	nkqjj;
-鳗	nse	nksjeakf
-鲲	nsm	nksjmm
-鳃	nai	nkajif
-鲣	nek	nkedkfaf
-鳎	nsy	nksjy;
-鲷	naj	nkakjf
-奂	mqu	maqkuf
-鳏	ned	nkeadf
-颖	mri	mjrjik
-鳅	nkr	nkrjsf
-鲧	nwv	nkwjvf
-鳇	nks	nkslgd
-鲋	nmk	nkmfkl
-鲵	nbm	nkbams
-鳐	nkb	nkkabz
-鲍	nhh	nkhjhs
-鳟	nwb	nkwkblkl
-鳞	nrl	nkrkle
-鲩	ncu	nkcfus
-鳊	nkc	nkcstb
-鲟	nk.	nkk.kl
-雏	mky	mak.yj
-皱	mak	mak.i.
-邹	mka	mak.aa
-鲫	num	nkulmk
-鸳	dmy	dkmkyf
-诘	jjg	jjgsjf
-诬	jzm	jjzfmd
-语	jej	jjegjf
-诹	ji;	jji;kf
-亵	vku	vjkkuo
-谋	jjf	jjjdff
-谍	jef	jjeuff
-诺	jrk	jjrfkdjf
-谳	jep	jjejqkglpl
-谎	jrt	jjrft;dd
-读	jeq	jjejqfdsuf
-诙	jjk	jjkdsf
-试	jxz	jjx;zf
-诓	jjq	jjq;gd
-诫	jxk	jjxfks
-讴	jq;	jjq;wl
-谮	juu	jjupupsj
-谑	jpk	jjp;ka
-颤	csi	cxshik
-识	jjw	jjjfwk
-谩	jse	jjsjeakf
-谡	jaw	jjajwkld
-诮	jjd	jjwddj
-谓	jad	jjajdj
-颜	uaw	udasw;ik
-诱	jrh	jjrjhh
-谯	jys	jjyjsf
-诠	jmg	jjmfgd
-谶	jmr	jjmdxfrh
-诊	jmw	jjmfw;
-谣	jkb	jjkabz
-诳	jpg	jjplgd
-诡	jma	jjmaasmk
-谗	jvd	jjv/ds
-询	jhs	jjhjsj
-谄	jmb	jjmaba
-谐	jms	jjmmsl
-诌	jjm	jjmak.
-谚	jua	jjudasw;
-议	jww	jjwfwl
-辩	tjt	tkjjtk
-斓	ukc	ukcdfe
-谜	jlr	jjljrk
-诨	jqo	jjqkoj
-谴	jlk	jjljkiha
-谊	jct	jjcftm
-诧	jcf	jjcff.
-译	jkk	jjkfkk
-诏	jgj	jjgjjf
-诞	jow	jjogwjlf
-辫	tvt	tkvftk
-痨	orq	oorfqkzj
-癞	ofm	oofdmanj
-鹇	cfy	cdffyf
-阉	cds	cdufse
-阈	cxj	cdxfjfef
-阃	cqf	cdqjff
-阀	cmx	cdmfxf
-鹰	omy	oomfyjyf
-瘪	oit	ooilty
-阋	cbm	cdbams
-桨	odf	oldkff
-奖	odu	oldkuf
-浆	odd	oldkdf
-资	dun	dsu;nj
-阎	cmb	cdmaba
-癣	onp	oonkpj
-净	dmt	dsmate
-痫	ocf	oocdff
-阅	cjm	cdjsms
-阔	cdj	cddfjk
-阕	clu	cdl;ur
-瘫	oky	ookfyj
-瘾	oam	ooaamak.if
-慑	iik	ifi;kfkf
-愤	irn	ifrdnj
-懒	ifm	iffdmanj
-恹	iap	ifaspl
-郑	pua	puufaa
-怄	iqw	ifq;wl
-惭	ioz	ifojzk
-悭	iea	ifedkfaf
-恺	iaq	ifadqs
-烁	swf	sfwhff
-焕	smq	sfmaqkuf
-悯	ifc	ifcduk
-焖	sfi	sfcdif
-悦	ijm	ifjsms
-恽	iqo	ifqkoj
-惨	iqu	ifqaufw;
-惯	inn	ifnunj
-兹	puv	puvdvd
-鸿	dzy	dfzfyf
-浃	dup	dfufpu
-滟	drm	dfr;mans
-满	dre	dfrfee
-潇	drt	dfrftedh
-沥	dfa	dfaszj
-沤	dq;	dfq;wl
-渐	doz	dfojzk
-涟	dlo	dfljoj
-泸	dtm	dftfml
-湿	dsz	dfsjzl
-温	dsb	dfsjbk
-溅	dnx	dfnjxg
-滗	di/	dffji/
-渊	ddr	dfddrk
-潋	dk;	dfmek;
-潴	dps	dfplsd
-涤	dlf	dfldff
-涣	dmq	dfmaqkuf
-润	dcg	dfcdgd
-澜	dcf	dfcdfe
-涧	dcs	dfcdsj
-浑	dfq	dfqkoj
-觉	wqi	waqkim
-滨	dck	dfcfzkks
-浓	dqv	dfqkvk
-泽	dkk	dfkfkk
-浔	dk.	dfk.kl
-滩	dky	dfkfyj
-涨	dxh	dfxjhl
-涩	dgl	dfgjwflf
-烫	dss	dfsisf
-渗	dqu	dfqaufw;
-潍	dvy	dfvfyj
-窍	czz	cvzfzx
-窥	cui	cvuaim
-窃	cgg	cvg;gj
-遗	lkn	ljkinj
-裆	vkw	vkwdk.
-袄	vwu	vkwjuf
-鹤	qyy	qkyjyf
-遥	lkb	ljkabz
-宾	czk	cfzkks
-额	cli	cfldjfik
-裤	vco	vkcjoj
-逊	lhw	ljhfwd
-巯	vhd	vahvdd
-骤	pik	pdi;kfmd
-怼	kfk	kfklif
-剧	mjg	mlj;gj
-骑	puj	pdufja
-驱	pqw	pdq;wl
-骡	pav	pdajvf
-骄	pwu	pdwjufwk
-骢	pci	pdcgif
-屦	mou	mlofuu
-驹	pdh	pdhjjf
-骆	plj	pdldjf
-骝	pga	pdgkaj
-骥	pdm	pdmuto
-骟	pcy	pdcsy;
-驿	pdk	pdkfkk
-骣	pme	pdmleshf
-骖	pqu	pdqaufw;
-骏	pql	pdqawkld
-陕	aau	aaufpu
-陆	akq	aakkql
-坠	amf	aamfaf
-隐	amk	aamak.if
-结	vgj	vfgsjf
-绑	vra	vfr;aa
-缚	vak	vfa;kl
-缃	vfi	vfffij
-绔	vfj	vfufjz
-叁	que	qaufes
-缛	vfn	vfnlkl
-参	quw	qaufw;
-缄	vxj	vfxejf
-妪	ujq	ujq;wl
-缉	vji	vfjfi;
-织	vjw	vfjfwk
-绢	vjd	vfjfdj
-缦	vsk	vfsjeakf
-绡	vwd	vfwddj
-缧	vav	vfajvf
-绸	vaj	vfakjf
-纲	vqw	vfqkwl
-缨	vnn	vfnjnjuj
-缵	vln	vflxlxnj
-绣	vrh	vfrjhh
-绵	vsv	vfslvl
-缴	vso	vfslodk;
-绥	vfu	vfkauj
-绦	vlf	vfldff
-绺	vlt	vfldtfjf
-络	vlj	vfldjf
-绚	vhs	vfhjsj
-绉	vmk	vfmak.
-绝	vmn	vfmans
-娴	ucf	ujcdff
-缠	vca	vfcjal
-继	vrq	vfrkqd
-综	vfc	vfcftj
-绽	vcl	vfcflg
-婶	ucs	ujcfsc
-缩	vcm	vfcfmfso
-缝	vll	vfljldr;
-绾	vch	vfcfha
-绍	vfg	vfgjjf
-纫	vgw	vfgjwf
-缘	vpp	vfp,pk
-缫	vdf	vfddfa
-殇	ims	icm;si
-埯	afu	afufse
-觋	zmi	zfmdim
-垆	atm	aftfml
-韧	lgw	lzgjwf
-垱	ak.	afwdk.
-毂	gqx	gsqkojxs
-悫	gqi	gsqko;if
-聩	ikn	i;kinj
-颞	iki	i;kfkfik
-琐	gdw	gdwdnj
-珰	gk.	gdwdk.
-瓒	gln	gdlxlxnj
-珲	gdq	gdqkoj
-撷	kgi	kkgsjfik
-撵	kuo	kkuauaoj
-掳	kpz	kkp;zj
-掴	kqg	kkqjge
-揽	kti	kktpim
-撄	knu	kknjnjuj
-揿	kgu	kkgfu;
-贽	kkn	kkuonj
-鸷	kuy	kkuoyf
-势	kuz	kkuozj
-捣	kya	kkyfad
-拦	kpe	kkpued
-擞	kk;	kkuuk;
-择	kkk	kkkfkk
-挦	kk.	kkk.kl
-掼	knn	kknunj
-荆	rek	rfefksgj
-颟	rfe	rfeeik
-鹕	j;d	j;djyf
-赍	emq	ejmdqknj
-鹁	eqy	ejqkhfyf
-鞒	zwu	z.wjufwk
-苈	ras	rfaszj
-鹋	ray	rfajyf
-萝	red	rfeadk
-蘖	rtf	rfhatkff
-莸	rpl	rfplkd
-蓟	rng	rfnkgj
-藓	rnp	rfnkpj
-薮	ruk	rfuuk;
-荦	rqp	rfqkpf
-莺	rqy	rfqkyf
-茕	rfy	rfqkye
-荨	rk.	rfk.kl
-荮	rvk	rfvfkl
-莼	rvr	rfvfrc
-酽	bez	blefzlwj
-椟	feu	ffejqfdsuf
-枥	faz	ffaszj
-栌	ftm	fftfml
-榄	fti	fftpim
-樱	fnn	ffnjnjuj
-椤	ffe	ffeadk
-桤	faq	ffadqs
-栎	fwf	ffwhff
-槠	fjs	ffjjsd
-檩	fcx	ffcxtj
-栏	fpe	ffpued
-霭	djs	dajjsjhjt;
-榉	fkx	ffkxkk
-雾	dlz	daldzj
-橼	fvp	ffvfp,pk
-鹩	ess	efsfsjwdyf
-鹌	usy	ufseyf
-砺	awa	awasmx
-靥	api	aspli,
-魇	apt	aspltl
-餍	apb	asplbj
-励	amz	asmxzj
-砾	awf	awwhff
-碜	aqu	awqaufw;
-辏	oku	ojksur
-轭	oja	ojasmk
-轼	oxz	ojx;zf
-轸	ojm	ojmfw;
-椠	ozf	ojzkff
-辂	olj	ojldjf
-匦	qok	q;ojke
-欧	qwu	q;wlu;
-鸥	qwy	q;wlyf
-瓯	qwz	q;wlzw
-鸬	tmy	tfmlyf
-蝾	nrq	nfrfqkff
-蛎	nam	nfasmx
-觑	pzi	p;zlim
-颦	lix	lrikxz
-蝈	nqg	nfqjge
-龅	ihh	iqhjhs
-蚁	nww	nfwfwl
-鸮	jzy	jfzxyf
-嗫	jik	jfi;kfkf
-唠	jrq	jfrfqkzj
-呖	jaz	jfaszj
-啭	jov	jfojvg
-踬	lzn	llzknj
-鹭	lly	llldjfyf
-跹	lll	llljmr
-跞	lwf	llwhff
-嚣	eji	eajfik
-鼍	jjn	jfjfajefna
-鹗	jyf	jfjfjzyf
-唢	jwn	jfwdnj
-嘤	jnn	jfnjnjuj
-哕	jdk	jfaddk
-哝	jqv	jfqkvk
-坚	eka	edkfaf
-颢	sci	sjclik
-鳖	vwn	vlwak;nk
-眍	iq;	ijq;wl
-帼	vqg	vlqjge
-羁	ezp	eaz.pd
-黪	suw	ssqaufw;
-鹮	eej	eaefjfvkyf
-逻	led	ljeadk
-黩	seq	ssejqfdsuf
-罴	eus	eaugsf
-岗	aqw	adqkwl
-刿	adg	addkgj
-峥	amt	admate
-崂	arz	adrfqkzj
-罂	nnb	njnjbz
-贬	nwl	njwjls
-赊	nmt	njmftj
-赡	nmj	njmaaswkjj
-鹦	nny	njnjujyf
-矫	xwu	xlwjufwk
-秽	rja	rjaddk
-籁	ffm	fjfdmanj
-秾	rjv	rjqkvk
-氇	ins	i/nksj
-篑	fkn	fjkinj
-筛	fge	fjgjefvl
-箩	fed	fjeadk
-筝	fmt	fjmate
-簖	frq	fjrkqdzk
-氲	dos	dosjbk
-俨	mez	mfefzlwj
-伛	mq;	mfq;wl
-雠	yjy	yjjjyj
-偿	mwq	mfwdqkd;
-傥	mfc	mfcams
-仪	mww	mfwfwl
-惩	oli	oflgif
-馒	bse	bjsjeakf
-饹	bjl	bjldjf
-铻	gfe	gfegjf
-锲	grg	gfr;gjuf
-䦃	gfr	gfrfsd
-锚	gra	gfrfaj
-镖	gyt	gfyltj
-锜	gfu	gfufja
-镢	gau	gfasucu;
-锷	gjj	gfjfjfjz
-锝	gse	gfsjefkl
-镘	gsk	gfsjeakf
-锟	gfs	gfsjmm
-锶	gfa	gfajif
-铿	gek	gfedkfaf
-铡	gng	gfnjgj
-镚	gan	gfadnm
-镯	geh	gfeahjnf
-锣	ged	gfeadk
-铠	gaq	gfadqs
-铤	gom	gfogmv
-铄	gwf	gfwhff
-锴	gms	gfmmsl
-镵	gfp	gfphph
-铯	gmn	gfmans
-镏	gga	gfgkaj
-镞	gox	gfovxl
-镝	gff	gff,jf
-镦	gfc	gfcok;
-铳	ghm	gfhvms
-镳	gps	gfpesf
-镛	gta	gfcjteak
-锩	grm	gfrimk
-鹞	kby	kabzyf
-镓	gcp	gfcfpk
-镲	gkt	gfcfidkftj
-铵	gcu	gfcfuj
-铎	gkk	gfkfkk
-镫	glb	gfl;b;
-锔	gmq	gfmlqfjf
-锕	gaj	gfaaja
-镪	gxj	gfxjjfnf
-镠	gym	gfy;mfw;
-镴	gdp	gfddpg
-狮	pge	plgjefvl
-獭	pfm	plfdmanj
-臜	dln	djlxlxnj
-狲	phw	plhfwd
-鳔	nyt	nkyltj
-鳄	njj	nkjfjfjz
-鲥	nsk	nksjkl
-鳢	njb	nkjbb;
-觞	pms	prm;si
-鹐	mby	mabayf
-颍	mji	mjdfik
-毙	mim	mmicmj
-颎	msi	mjsfik
-惫	lai	ldajif
-鳙	nta	nkcjteak
-鸲	hjy	hjjfyf
-鲻	nda	nkddaj
-谟	jru	jjrfsjuf
-谔	jjz	jjjfjfjz
-鹫	cky	clkdyf
-谠	jcm	jjcams
-谒	jst	jjsjhjt;
-诿	jjr	jjrjuj
-谢	jhk	jjhmkl
-赟	uxn	ukxflfnj
-谂	jbi	jjbrif
-兖	chj	chjsms
-谵	jwj	jjmaaswkjj
-诤	jjt	jjmate
-谪	jf,	jjf,jf
-谰	jcd	jjcdfe
-赣	tlz	t,ldzfnj
-竞	ujm	udjfms
-谱	jus	jjuesj
-戆	tli	t,ldzfnjif
-彦	udw	udasw;
-谝	jjc	jjcstb
-谧	jxb	jjx,bk
-谲	jxc	jjxwccjf
-谬	jym	jjy;mfw;
-盗	dub	dsu;bk
-癫	oti	ootgik
-廪	cct	cjcxtj
-麽	rwq	rewjqa
-鹧	cey	cjemsfyf
-疬	oaz	ooaszj
-酱	odb	oldkbl
-阒	cip	cdijpl
-闳	cdk	cdkdqa
-闿	caq	cdadqs
-瘿	onn	oonjnjuj
-阁	cdl	cdldjf
-阍	cts	cdtqsj
-阖	cub	cdugbk
-阙	cuu	cducu;
-痪	omq	oomaqkuf
-瘆	oqu	ooqaufw;
-鹚	pvy	puvdvdyf
-恸	idz	ifd;zj
-粝	ram	rkasmx
-糁	rqw	rkqaufw;
-惬	iup	ifq;ufpu
-愦	ifn	ifkinj
-愠	isb	ifsjbk
-恻	ing	ifnjgj
-𬉼	sfq	sfq;wl
-㸆	spy	sfpvyd
-炽	sjw	sfjfwk
-烂	spe	sfpued
-怿	ifk	ifkfkk
-喾	wqp	waqkpv
-鲎	wqn	waqknk
-懑	dri	dfrfeeif
-渎	deu	dfejqfdsuf
-滢	drq	dfrfqkge
-涝	drz	dfrfqkzj
-濑	dfm	dffdmanj
-濒	dli	dflrik
-溃	dkn	dfkinj
-灏	dsc	dfsjclik
-鲨	dwn	dfwenk
-溆	dci	dfcikf
-泺	dwf	dfwhff
-浏	dug	dfukgj
-浒	djz	dfjjz;
-湾	dux	dfuzxj
-泻	dqi	dfqkiz
-寝	cok	cfolk.qkkf
-窦	ceq	cvejqfdsuf
-裢	vlo	vkljoj
-裥	vcs	vkcdsj
-皲	qoi	qkoji.
-郓	qoa	qkojaa
-鸩	qmy	qkmsyf
-骠	pyt	pdyltj
-骋	pxz	pdxazx
-驸	pmk	pdmfkl
-颡	eki	eskfffik
-鹬	xcj	xwccjfyf
-鹜	xky	xwk;yf
-骛	xkp	xwk;pd
-骎	pkq	pdk.qkkf
-堕	akd	aakddjaf
-骘	alp	aalrpd
-翚	yqo	y;qkoj
-缬	vgi	vfgsjfik
-缰	vea	vfesajaj
-缥	vyt	vfyltj
-绮	vuj	vfufja
-缭	ves	vfefsfsjwd
-辔	vov	vfojvfjf
-缲	vej	vfesjfff
-缱	vlh	vfljkiha
-缆	vti	vftpim
-绲	vsm	vfsjmm
-缌	vai	vfajif
-缳	vee	vfeaefjfvk
-缈	viw	vfijwe
-娇	uww	ujwjufwk
-嫱	uad	ujafwkdl
-媪	usb	ujsjbk
-姹	ujc	ujcff.
-嬷	urw	ujrewjqa
-嫔	uck	ujcfzkks
-驽	ukp	ujkfpd
-缒	vfh	vfljha
-缑	vmq	vfmfqhxl
-绶	vkq	vfkaqkkf
-绛	vfl	vfldla
-绻	vrm	vfrimk
-缤	vcz	vfcfzkks
-绎	vfk	vfkfkk
-缗	vts	vftasj
-缪	vym	vfy;mfw;
-鸶	vvy	vfvfyf
-缁	vda	vfddaj
+珮	gbv	gdbevl
+痲	orr	ooruru
+倣	mok	mfodk;
+韆	zly	z.ljylufmk
+瑯	gdc	gdczaa
+櫂	fyy	ffy;yj
+搾	kcv	kkcvzd
+偺	mls	mfldtfsj
+濬	dtq	dftfqkefwkmfij
+嚮	ccj	c/cfjf
+蘗	rtf	rfmljftkff
+啣	jzl	jfz;lfmk
+勦	dzj	ddfazj
+梱	fqf	ffqjff
+燄	mbs	mabasg
+鼕	jgd	jgfmdx
+囌	jrr	jfrfnkrj
+慇	hxi	hmxsif
+嬝	uyv	ujyfvj
