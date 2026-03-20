@@ -3,7 +3,7 @@
 
 schema:
     schema_id: siyuan
-    name: 思源形義
+    name: 原碼
     version: "0.0"
     author:
         - 陳林 <1chen0bryan@gmail.com>
